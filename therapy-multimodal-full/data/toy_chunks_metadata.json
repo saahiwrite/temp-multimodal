@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "toy_0",
+    "audio_path": "data/audio_dummy_0.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "toy_1",
+    "audio_path": "data/audio_dummy_1.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_2",
+    "audio_path": "data/audio_dummy_2.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_3",
+    "audio_path": "data/audio_dummy_3.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_4",
+    "audio_path": "data/audio_dummy_4.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_5",
+    "audio_path": "data/audio_dummy_5.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_6",
+    "audio_path": "data/audio_dummy_6.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "id": "toy_7",
+    "audio_path": "data/audio_dummy_7.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "id": "toy_8",
+    "audio_path": "data/audio_dummy_8.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_9",
+    "audio_path": "data/audio_dummy_9.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_10",
+    "audio_path": "data/audio_dummy_10.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_11",
+    "audio_path": "data/audio_dummy_11.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_12",
+    "audio_path": "data/audio_dummy_12.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "id": "toy_13",
+    "audio_path": "data/audio_dummy_13.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_14",
+    "audio_path": "data/audio_dummy_14.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "id": "toy_15",
+    "audio_path": "data/audio_dummy_15.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_16",
+    "audio_path": "data/audio_dummy_16.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_17",
+    "audio_path": "data/audio_dummy_17.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_18",
+    "audio_path": "data/audio_dummy_18.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "id": "toy_19",
+    "audio_path": "data/audio_dummy_19.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_20",
+    "audio_path": "data/audio_dummy_20.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_21",
+    "audio_path": "data/audio_dummy_21.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "id": "toy_22",
+    "audio_path": "data/audio_dummy_22.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_23",
+    "audio_path": "data/audio_dummy_23.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_24",
+    "audio_path": "data/audio_dummy_24.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "id": "toy_25",
+    "audio_path": "data/audio_dummy_25.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_26",
+    "audio_path": "data/audio_dummy_26.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_27",
+    "audio_path": "data/audio_dummy_27.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_28",
+    "audio_path": "data/audio_dummy_28.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "id": "toy_29",
+    "audio_path": "data/audio_dummy_29.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_30",
+    "audio_path": "data/audio_dummy_30.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "id": "toy_31",
+    "audio_path": "data/audio_dummy_31.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_32",
+    "audio_path": "data/audio_dummy_32.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_33",
+    "audio_path": "data/audio_dummy_33.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_34",
+    "audio_path": "data/audio_dummy_34.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_35",
+    "audio_path": "data/audio_dummy_35.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "id": "toy_36",
+    "audio_path": "data/audio_dummy_36.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "id": "toy_37",
+    "audio_path": "data/audio_dummy_37.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_38",
+    "audio_path": "data/audio_dummy_38.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_39",
+    "audio_path": "data/audio_dummy_39.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_40",
+    "audio_path": "data/audio_dummy_40.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_41",
+    "audio_path": "data/audio_dummy_41.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_42",
+    "audio_path": "data/audio_dummy_42.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "toy_43",
+    "audio_path": "data/audio_dummy_43.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_44",
+    "audio_path": "data/audio_dummy_44.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_45",
+    "audio_path": "data/audio_dummy_45.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_46",
+    "audio_path": "data/audio_dummy_46.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_47",
+    "audio_path": "data/audio_dummy_47.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_48",
+    "audio_path": "data/audio_dummy_48.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "id": "toy_49",
+    "audio_path": "data/audio_dummy_49.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "id": "toy_50",
+    "audio_path": "data/audio_dummy_50.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_51",
+    "audio_path": "data/audio_dummy_51.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_52",
+    "audio_path": "data/audio_dummy_52.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_53",
+    "audio_path": "data/audio_dummy_53.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_54",
+    "audio_path": "data/audio_dummy_54.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "id": "toy_55",
+    "audio_path": "data/audio_dummy_55.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_56",
+    "audio_path": "data/audio_dummy_56.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "id": "toy_57",
+    "audio_path": "data/audio_dummy_57.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_58",
+    "audio_path": "data/audio_dummy_58.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_59",
+    "audio_path": "data/audio_dummy_59.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_60",
+    "audio_path": "data/audio_dummy_60.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "id": "toy_61",
+    "audio_path": "data/audio_dummy_61.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_62",
+    "audio_path": "data/audio_dummy_62.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_63",
+    "audio_path": "data/audio_dummy_63.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "id": "toy_64",
+    "audio_path": "data/audio_dummy_64.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_65",
+    "audio_path": "data/audio_dummy_65.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_66",
+    "audio_path": "data/audio_dummy_66.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "id": "toy_67",
+    "audio_path": "data/audio_dummy_67.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_68",
+    "audio_path": "data/audio_dummy_68.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_69",
+    "audio_path": "data/audio_dummy_69.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_70",
+    "audio_path": "data/audio_dummy_70.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "id": "toy_71",
+    "audio_path": "data/audio_dummy_71.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_72",
+    "audio_path": "data/audio_dummy_72.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "id": "toy_73",
+    "audio_path": "data/audio_dummy_73.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_74",
+    "audio_path": "data/audio_dummy_74.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_75",
+    "audio_path": "data/audio_dummy_75.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_76",
+    "audio_path": "data/audio_dummy_76.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "toy_77",
+    "audio_path": "data/audio_dummy_77.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "id": "toy_78",
+    "audio_path": "data/audio_dummy_78.wav",
+    "text": "therapist: this is a toy example chunk with some reflective and validating content.",
+    "labels": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "id": "toy_79",
+    "audio_path": "data/audio_dummy_79.wav",
+    "text": "therapist: neutral statement about daily events.",
+    "labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]
