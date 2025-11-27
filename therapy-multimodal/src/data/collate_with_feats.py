@@ -1,1 +1,0 @@
-# collate function placeholder

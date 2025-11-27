@@ -1,1 +1,0 @@
-# multimodal model placeholder
