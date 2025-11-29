@@ -92,7 +92,7 @@ After running `feature_extraction.py`, a new field is added:
 
 ## Important Notes
 
-- The code is written to be **readable and hackable**, not hyper-optimized.
+- The code is written to be **a base model**, not hyper-optimized.
 - For real experiments, make sure:
   - You have a GPU and install CUDA-compatible `torch` and `torchaudio`.
   - You install `transformers` and `accelerate` for WavLM/DeBERTa.
