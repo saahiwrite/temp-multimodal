@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "video_id": "8E7e7-LD7pw",
+    "source_file": "data/raw/youtube_wavs/8E7e7-LD7pw.wav",
+    "date_processed": "2025-11-11T17:31:05.559849",
+    "total_duration": 848.271,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 1.6,
+      "end_time": 2.8,
+      "duration": 1.1999999999999997,
+      "text": "All right. Liz, how are you?",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 6.8,
+      "end_time": 28.96,
+      "duration": 22.16,
+      "text": "I was just looking at the binge record that we've been keeping weekly, and I noticed that last week you were at five kind of episodes of binge eating, and this week you were down to three. Yeah. So awesome. So what helped me understand what's been going on this week? What was involved with the change?",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 47.2,
+      "end_time": 54.4,
+      "duration": 7.199999999999996,
+      "text": "Well, terrific. So what was. What specifically? I mean, I know we've talked a lot about that, but what specifically did you say to her or how did you bring it up?",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 73.83,
+      "end_time": 74.43,
+      "duration": 0.6000000000000085,
+      "text": "Oh, nice.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 77.75,
+      "end_time": 78.31,
+      "duration": 0.5600000000000023,
+      "text": "Terrific.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 87.38,
+      "end_time": 125.25,
+      "duration": 37.870000000000005,
+      "text": "Right, right, right. Yeah. Because I think that's really similar. I know we kind of talked about that. You know, you remember, like, a few sessions ago, I was kind of wondering whether or not she really got it in terms of what you were feeling, because it seems like one of the ways that you've. You know, we talked about that before in terms of, like, you know, when we were first starting that. Oftentimes one of the ways that you manage your feelings is you kind of. You think you are letting people know what you're, you know, feeling, but it doesn't really come out. And I know that was something that you and I had to really like, you know, kind of work out. But it sounds like that you were able to talk with her and that she heard you. And as I want. As. I kind of thought that she was actually really responsive in a very positive way.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 130.21,
+      "end_time": 165.87,
+      "duration": 35.66,
+      "text": "It's really nice. Well, I think, too, you've been able to do that more with me, and I feel like that. That. I feel like that's been really helpful. I know they've been kind of pushing you on that, and that's been hard, but I feel like it's been really nice because I feel like it's really been helpful with your relationship with Kathy, so that's fantastic. And also, again, I know that I keep saying this over and over again, but as you've worked on these things, it's been really notable that it's really had a nice and positive effect on your eating because it seems like it's really. You're really seeing a lot of real nice improvements. So. Awesome. Anything else that. So you had a really good conversation with Kathy. Anything else going this week?",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 168.03,
+      "end_time": 168.63,
+      "duration": 0.5999999999999943,
+      "text": "Oh, nice.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 174.31,
+      "end_time": 178.71,
+      "duration": 4.400000000000006,
+      "text": "Okay. Okay. So is she still six or did she have a birthday recently?",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 180.47,
+      "end_time": 185.59,
+      "duration": 5.1200000000000045,
+      "text": "Oh, that's great. Almost seven. Great. Any plans for birthday for her or what do you think you guys gonna do?",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 186.95,
+      "end_time": 189.87,
+      "duration": 2.920000000000016,
+      "text": "Okay. Anything frozen is good.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 191.31,
+      "end_time": 205.11,
+      "duration": 13.800000000000011,
+      "text": "Okay. Okay. Yes. Okay. That sounds terrific. And so then you spent some time with her. So obviously that was real positive for you. Did you, when you were there, did you have any opportunity to, you know, visit with your mom or how did that go?",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 218.75,
+      "end_time": 233.77,
+      "duration": 15.02000000000001,
+      "text": "How did that feel for you in terms of, like, you know, for her? I know that you talked about not really liking that she all of a sudden is deciding now that she wants to really be kind of like, you know, the good mother and kind of like be involved in your life. But how is it for her to kind of like want to know how things have been going for you?",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 250.65,
+      "end_time": 303.57,
+      "duration": 52.91999999999999,
+      "text": "So kind of what we had discussed, kind of that you've been. You've been allowing yourself to be more connected with her, but you're still kind of keeping a little bit of a boundary. Yeah. Yeah. Well, I'm sure it would be really hard to trust her after everything that's gone on, you know, with, you know, kind of the infidelity issue with your dad. Or at least this is, you know, kind of like the wondering about that. I mean, I think you kind of know that that was probably what was going on. But then, you know, and then moving, you how harsh and critical she was. Issues with Brooke, you know, even. I still even remember, too, for her to have gotten to the point where she wouldn't even let you, like, go to your grandmother's funeral or at least, you know, kind of. So all those things have been so, like, you know, front and center, you know, and so now to feel like that she's made this real dramatic shift and, you know, wanting to start being a mom, but sounds like that you're really working to try to manage that in a, you know, in a better way.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 307.49,
+      "end_time": 314.05,
+      "duration": 6.560000000000002,
+      "text": "Yeah. Yeah. But when you do butt heads, what is it? How are. What happens in terms of your eating when you guys kind of, like, when you feel like that there's a little.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 339.8,
+      "end_time": 341.96,
+      "duration": 2.159999999999968,
+      "text": "Right. So that really. That felt really stressful.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 352.08,
+      "end_time": 380.13,
+      "duration": 28.05000000000001,
+      "text": "Well, it makes a lot of sense because, again, you know, like, I know that we've really reviewed this quite a bit, but, you know, historically, that's how it's been. You know, that. That's really been a real. And I mean, it really clarifies why we're working on this is because it's so clear that when the two of you have, like, these rough patches, that it really all of a sudden evokes all these, like, negative feelings. And that's when food, like, really, you know. Yeah. You know, kicks in.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 386.13,
+      "end_time": 410.14,
+      "duration": 24.00999999999999,
+      "text": "Right. Right. Yeah. So it's really hard to, you know, I can understand. It's really hard to let that go. I mean, because obviously, there's a lot of. Lot of feelings that you have about that. Yeah. Yeah. But on the other hand, too, it seems like that, you know, things have been going really well. How have things been going in terms of. Just in general, like, school, friendships, you know, anything else that's kind of on the horizon? Yeah.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 414.5,
+      "end_time": 417.66,
+      "duration": 3.160000000000025,
+      "text": "I won't get too excited about that. But tell me about him. Tell Me about him?",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 423.81,
+      "end_time": 426.37,
+      "duration": 2.5600000000000023,
+      "text": "No, what's his. You have to at least give me his name. What's his name?",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 428.85,
+      "end_time": 436.21,
+      "duration": 7.359999999999957,
+      "text": "Alan. Okay. Okay. All right. Well, did you like. Alright, I'm not going to blow this out of proportion, but how did that kind of come about?",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 452.63,
+      "end_time": 453.03,
+      "duration": 0.39999999999997726,
+      "text": "Nice.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 455.83,
+      "end_time": 488.02,
+      "duration": 32.19,
+      "text": "Nice. That's great. Oh, I'm really happy. That's great. So a lot of really nice things that are going on. Yeah, that's terrific. Yeah. So then for you to go like from, you know, because, you know, we kind of got going with this thing. It was kind of like you were full on binge eating, you know, virtually every day, sometimes twice a day. And now to be down to, you know, three, like in the space of like, you know, just like seven, eight weeks is pretty remarkable. So now I'm really pleased with how hard you've been working because you've really been pushing yourself. You know, I really appreciate it and I know this stuff with your mom is particularly hard. It's been particularly hard for you, I.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 492.34,
+      "end_time": 538.36,
+      "duration": 46.02000000000004,
+      "text": "Right. And you may not, you know, I mean, it's like, you know, I know that we talked about, there's like, maybe there are times when you just don't really want to share some of that stuff. You, you know, and I think sometimes my experience has been some parents, like, you know, the goal is not to make her feel bad. If you would want to share it, you'd want to share it knowing that she would hold onto that and keep it and really connect with you around it and want to be helpful rather than like, oh yeah, you were so mean to me and now I have an eating disorder because then that doesn't feel quite right. And I know that that's, you know, I know that you have a lot of hard feelings, but I don't really feel like that that's how you'd want that to go, you know? Yeah. And I know we've talked about it a lot, but how are things going with your dad?",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 546.76,
+      "end_time": 548.28,
+      "duration": 1.5199999999999818,
+      "text": "Oh, nice. When's he planning to visit?",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 550.16,
+      "end_time": 609.79,
+      "duration": 59.629999999999995,
+      "text": "Oh, nice. That'll be really nice for you to spend time with him. That's great. That's really great. Yeah. So let's talk some more about this thing with your mom, because I feel like that. I mean, I know it's tough, but I guess I've been thinking about this a lot, especially after last session, that given the fact that, you know, you and Brooke are so close, and it does feel like that your mom is. At least. She seems like she's making. She's trying to make an attempt to connect with you, whether or not, you know, at what point would you feel like that you. Well, let me. What would you need from her in order to feel like that you could kind of, like, maybe not let down the walls, but kind of soften those a little bit? I mean, is there something. Is there something that. Like, if you could ask her, like, okay, mom, if you did this, then I would do this? Not that you would do that, but I just wondered if, like, what would you. Ideally, what would you like to see in order to feel like that you could connect with her more?",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 636.73,
+      "end_time": 671.3,
+      "duration": 34.569999999999936,
+      "text": "Yeah, yeah, I know we talked about this, but have you gotten to the point yet where you felt like that you could, like, even let her know that that puts a lot of pressure on you or that comment that she makes kind of hurt your feelings? Because I know that in the moment you feel it. But what would it be like for you if you were to just, like. Yeah. Say, like, you know, that you're. I know that you mean well. I mean, maybe she doesn't, but maybe it's sometimes important to approach it that way. But it really hurts my feelings or, you know, I feel like that that really puts a lot of pressure on me to look a particular way and.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 688.86,
+      "end_time": 729.27,
+      "duration": 40.40999999999997,
+      "text": "Right. Because I know that you did that you've done that with your roommate. I know there have been other times when people have done that, because I know that that's been kind of part of the bigger issue is just knowing what it is you're feeling and also being able to kind of give voice to that. And, you know, I was thinking about that relationship with your mom because it does seem like that every once in a while she kind of like jabs you or she'll send something out, and the way that you take it in is more like harsh, critical, hurt. And I just don't know, like, kind of. It's kind of like with Kathy, when you finally talk with her, how it was like, oh, of course, like, you know, I'll try to be more sensitive. And I'm not really sure, you know, whether or not your mom would be.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 730.47,
+      "end_time": 731.63,
+      "duration": 1.1599999999999682,
+      "text": "Is that something that she could do or not?",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 744.06,
+      "end_time": 744.46,
+      "duration": 0.40000000000009095,
+      "text": "Right.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_030.wav"
+    },
+    {
+      "chunk_number": 31,
+      "start_time": 747.74,
+      "end_time": 846.99,
+      "duration": 99.25,
+      "text": "Yeah. Yeah. Well, I think there are times too when I wonder if, like, maybe if there's a time when you say something like. I know there have been times when you kind of snap back at her, you know, or you'll kind of like, you know, barber or kind of jabber a little bit. What if. You know, again, what if you thought about, like. Because it sounds like that you're really aware when you do that, because you know that when she says something, you have a tendency to jab back. You could just say, you know, you know, I realized I was. I. That was a. That was a jab at you, and I'm really sorry. I aware that sometimes I kind of get really critical with you, and I don't feel very good about that. I wonder how she would, you know, if that would. What that would do. Maybe it wouldn't do anything, or it may make you feel a little bit too vulnerable. But you think about it, I mean, and, you know, kind of mold that over in your mind about what that might be like. Because my experience has been that sometimes, you know, I hate the phrase be a bigger person because, you know, I didn't want that to come across that way. But sometimes in order to change relationships, somebody has to be willing to kind of like, kind of be willing to do something just a little different. And since it seems like you have a growing awareness of, you know, the interactions that you have with her, I wonder if that might be worthwhile. Yeah. Mull it over and think about it and we'll keep talking about it. But yeah, it sounds like it was a really terrific week and been working really hard. It really pays off because again, the more you've done that we've seen real positive impact on your eating. So nice. Nice.",
+      "chunk_file": "data/chunks/therapist/8E7e7-LD7pw/chunk_therapist_031.wav"
+    }
+  ]
+}

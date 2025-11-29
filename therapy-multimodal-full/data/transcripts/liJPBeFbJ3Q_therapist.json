@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "video_id": "liJPBeFbJ3Q",
+    "source_file": "data/raw/youtube_wavs/liJPBeFbJ3Q.wav",
+    "date_processed": "2025-11-11T17:04:11.102397",
+    "total_duration": 655.348,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 13.92,
+      "end_time": 15.12,
+      "duration": 1.1999999999999993,
+      "text": "Hi, Saja. How are you doing today?",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 17.12,
+      "end_time": 24.96,
+      "duration": 7.84,
+      "text": "I'm doing okay, thanks for asking. I understand you've been having some symptoms that have been bothersome to you.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 26.65,
+      "end_time": 27.85,
+      "duration": 1.2000000000000028,
+      "text": "Can you tell me about those?",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 47.93,
+      "end_time": 54.02,
+      "duration": 6.090000000000003,
+      "text": "You lose it every time you have to make a presentation? Yeah. Tell me what is involved with losing it.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 100.12,
+      "end_time": 113.92,
+      "duration": 13.799999999999997,
+      "text": "So very distressing. So tell me about the. The nature of this meeting that's leading to this anxiety. So you said it was. You had to make a presentation. Tell me about the structure of it.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 141.29,
+      "end_time": 142.65,
+      "duration": 1.3600000000000136,
+      "text": "How long do you have to speak?",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 152.57,
+      "end_time": 157.22,
+      "duration": 4.650000000000006,
+      "text": "And when in the course of like with this meeting occurring, when do you start to feel nervous?",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 159.38,
+      "end_time": 160.1,
+      "duration": 0.7199999999999989,
+      "text": "The day before?",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 162.98,
+      "end_time": 169.3,
+      "duration": 6.320000000000022,
+      "text": "So the day before the meeting you start to have similar symptoms? Different symptoms. What are you feeling?",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 212.61,
+      "end_time": 215.01,
+      "duration": 2.3999999999999773,
+      "text": "Panicking. As the meeting's starting.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 217.49,
+      "end_time": 239.63,
+      "duration": 22.139999999999986,
+      "text": "So at the meeting, everybody takes a turn and does this brief presentation and tell me what's happening, as with your feelings. As they're moving around. You said a table or. Yeah, as they're moving around the table and. And coming closer to you.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 266.53,
+      "end_time": 267.49,
+      "duration": 0.9600000000000364,
+      "text": "They're gonna notice you.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 280.09,
+      "end_time": 281.09,
+      "duration": 1.0,
+      "text": "Have you run out of the room?",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 293.24,
+      "end_time": 294.6,
+      "duration": 1.3600000000000136,
+      "text": "There's too much anxiety.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 302.36,
+      "end_time": 308.68,
+      "duration": 6.319999999999993,
+      "text": "Yeah. So you would push that door open, they would all be looking at you. They would wonder why you left.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 310.36,
+      "end_time": 317.89,
+      "duration": 7.529999999999973,
+      "text": "So you just wrote out the meeting somewhere else. And did anybody notice after, you know.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 367.81,
+      "end_time": 369.65,
+      "duration": 1.839999999999975,
+      "text": "This is. This is frustrating for you.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 371.11,
+      "end_time": 377.35,
+      "duration": 6.240000000000009,
+      "text": "Have there been times where you've fled the room, and then since then, you haven't?",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 419.82,
+      "end_time": 426.48,
+      "duration": 6.660000000000025,
+      "text": "Something about that intense interaction changed how you were feeling, distracted you? Something like that.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 433.8,
+      "end_time": 441.68,
+      "duration": 7.8799999999999955,
+      "text": "So from from that meeting on, like till now, have you been able to stay in for any other meetings?",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 443.08,
+      "end_time": 445.96,
+      "duration": 2.8799999999999955,
+      "text": "So you've had to leave because of the intensity of the symptoms?",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 472.54,
+      "end_time": 487.91,
+      "duration": 15.370000000000005,
+      "text": "Yeah. And you're, you're experiencing symptoms when you avoid that interaction in the room too, right? Because you don't feel good about letting them down.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 529.54,
+      "end_time": 546.46,
+      "duration": 16.920000000000073,
+      "text": "So with this meeting, really, you're in a situation where if you go and attend the meeting, you're going to end up leaving it because of the anxiety. If you don't attend it, you have these concerns about the performance in your jobs. You're kind of stuck, right?",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 549.14,
+      "end_time": 554.76,
+      "duration": 5.6200000000000045,
+      "text": "Any other symptoms that you think may or may not be related to this intense anxiety?",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 564.04,
+      "end_time": 564.4,
+      "duration": 0.36000000000001364,
+      "text": "I.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 584.69,
+      "end_time": 585.89,
+      "duration": 1.1999999999999318,
+      "text": "Does that have any effect on.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 598.29,
+      "end_time": 600.21,
+      "duration": 1.9200000000000728,
+      "text": "They're picking up on the alcohol.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 611.77,
+      "end_time": 613.45,
+      "duration": 1.6800000000000637,
+      "text": "Any sadness or anything like that.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 625.85,
+      "end_time": 627.21,
+      "duration": 1.3600000000000136,
+      "text": "You feel really down.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 630.73,
+      "end_time": 653.59,
+      "duration": 22.860000000000014,
+      "text": "Sasha, I know it's been tough going through all this, and these symptoms have been tough for you. We'll get you scheduled in here to get treated a couple days. We'll get you in a couple days, and you can start working with a counselor to address these symptoms. I appreciate you spending this time with me. It was helpful to get a better understanding of what you're going through.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_030.wav"
+    },
+    {
+      "chunk_number": 31,
+      "start_time": 654.63,
+      "end_time": 655.11,
+      "duration": 0.4800000000000182,
+      "text": "Thanks.",
+      "chunk_file": "data/chunks/therapist/liJPBeFbJ3Q/chunk_therapist_031.wav"
+    }
+  ]
+}

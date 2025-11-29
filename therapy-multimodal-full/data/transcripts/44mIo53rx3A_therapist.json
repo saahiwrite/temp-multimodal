@@ -1,0 +1,437 @@
+{
+  "metadata": {
+    "video_id": "44mIo53rx3A",
+    "source_file": "data/raw/youtube_wavs/44mIo53rx3A.wav",
+    "date_processed": "2025-11-11T17:15:51.184058",
+    "total_duration": 767.488,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 12.24,
+      "end_time": 18.24,
+      "duration": 5.999999999999998,
+      "text": "Hi, there. Ms. Stone? Yes. Hi, I'm Vijay Daniels. Sorry, let me wash my hands.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 20.92,
+      "end_time": 30.56,
+      "duration": 9.639999999999997,
+      "text": "Oh, thank you. That's the next thing I was going to ask you. So, Dorothy, the nurse mentioned to me that you wanted to talk about your care. What's going on?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 50.88,
+      "end_time": 67.97,
+      "duration": 17.089999999999996,
+      "text": "Okay. No, I totally understand that. I mean, that is quite a scary thing to go through, and I think we do need to talk about this more, and I'm glad that you've asked to talk to me about this. So I had a little bit of a look through your chart, so I think I understand why they did it, but did anybody explain it to you?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 92.22,
+      "end_time": 116.66,
+      "duration": 24.439999999999998,
+      "text": "Absolutely. And you know what? There's no right answer when it comes to deciding on things that are aggressive, like the tube. We really want to know what the patient values in terms of things that are that invasive. And so absolutely will respect whatever it is that you want. But I do need to find out a little bit more about you in terms of. What is your understanding of what brought you into hospital?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 141.559,
+      "end_time": 146.199,
+      "duration": 4.640000000000015,
+      "text": "So you pretty much showed up to emergency, and very quickly they put that tube down.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 147.239,
+      "end_time": 149.639,
+      "duration": 2.4000000000000057,
+      "text": "Did anybody ask you if you were okay with that?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 156.77,
+      "end_time": 158.29,
+      "duration": 1.5199999999999818,
+      "text": "They didn't quite pick up on that.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 165.49,
+      "end_time": 167.13,
+      "duration": 1.6399999999999864,
+      "text": "The tube you've had down three times?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 167.33,
+      "end_time": 168.69,
+      "duration": 1.3599999999999852,
+      "text": "Yes. Oh, wow. Okay.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 170.61,
+      "end_time": 175.49,
+      "duration": 4.8799999999999955,
+      "text": "Okay. And so you have congestive heart failure, and it sounds like you had a breathing problem.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 176.13,
+      "end_time": 179.49,
+      "duration": 3.3600000000000136,
+      "text": "And do you know why they would have put the tube down? Do you know what they were trying to do?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 191.67,
+      "end_time": 228.88,
+      "duration": 37.21000000000001,
+      "text": "Right. So it sounds like you understand that. I mean, usually we only put a tube in if that was the only thing we could do to save you. Most of the time with congestive heart failure, we'll give some medications. Have you heard of Lasix or furosemide? No. Okay. It's a medication we'll often give if someone is in heart failure, but if someone is really sick, and then we don't think we have time to give it, that's the time we would think of a breathing tube. I haven't had a chance to look through the chart, but it would suggest to me you were pretty close to dying when you came in.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 234.48,
+      "end_time": 235.04,
+      "duration": 0.5600000000000023,
+      "text": "Okay.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 247.6,
+      "end_time": 265.319,
+      "duration": 17.719000000000023,
+      "text": "No. My throne already what I'm hearing from you. Exactly. I'm just gonna say exactly what you said. Sounds like you've lived a good life. You've been through this a few times. You know exactly what it involves. And if I could paraphrase to you, quality of life is more important than quantity at this stage. Is that correct?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 277.878,
+      "end_time": 352.76,
+      "duration": 74.882,
+      "text": "That's an excellent question. So first, I did want to answer your previous question based on what we're talking about. Absolutely. I agree with you that it is your wish and we will respect that wish, that we're not going to put a breathing tube down again. And then, of course, your second question, which is great as well, is how do we make sure this doesn't happen? So what I'm gonna do after our conversation, and I do have a few more questions to ask you, but after a conversation, I write a note documenting what we talked about, that we talked about the breathing tube and your reasons for why you don't want it, which, of course, makes sense to me. And then what I do is I document a short form called Goals of Care. Just so it's a really easy way for everyone to look at the form, and in two seconds, they know exactly what you want. We will give you a copy of that to take home, but I find that's not usually enough. What we also do, what I do is I tend to, when you leave hospital, dictate a note to your family doctor and that note's actually available online for anyone who might see you in any emergency department in Alberta. And in that note, it will very clearly state you and I had this conversation and you really didn't want the breathing, too. So I'll reassure you, we'll do everything we can to make sure people understand you don't want that tube. Okay.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 359.0,
+      "end_time": 359.56,
+      "duration": 0.5600000000000023,
+      "text": "Okay.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 371.0,
+      "end_time": 373.72,
+      "duration": 2.7200000000000273,
+      "text": "I do want to ask you just a few other questions related to this.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 374.45,
+      "end_time": 390.93,
+      "duration": 16.480000000000018,
+      "text": "And the first question might sound a little off putting, but I sort of have to ask it. Anytime someone is changing the kind of therapy they want, we do have to ask, how is your mood? How are you feeling?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 399.89,
+      "end_time": 409.42,
+      "duration": 9.53000000000003,
+      "text": "Okay, excellent. And how are you feeling overall about life before you came into hospital? Like when you're healthy, as healthy as you can be, say, a few weeks ago?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 413.66,
+      "end_time": 414.3,
+      "duration": 0.6399999999999864,
+      "text": "Okay.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 417.82,
+      "end_time": 428.58,
+      "duration": 10.759999999999991,
+      "text": "Okay, great. Yeah. And then other related questions. We did talk about the tube that we wouldn't put it in, but again, we want to make sure we know everything that you might want or not want.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 429.34,
+      "end_time": 435.2,
+      "duration": 5.860000000000014,
+      "text": "So if we had to give you medications to get your breathing better, is that something you'd be willing to have?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 440.88,
+      "end_time": 461.31,
+      "duration": 20.430000000000007,
+      "text": "Okay. And then usually along the lines with the intubation, when people don't want the intubation, we often also want to know if a nurse were to walk into the room and find, just by bad luck, you had passed away, or if someone just found you at home, you had passed away, would you ever want people pushing on your chest and giving you shocks, trying to bring you back to life?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 469.95,
+      "end_time": 472.43,
+      "duration": 2.480000000000018,
+      "text": "And that all makes sense to me. With the no breathing tube.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 475.87,
+      "end_time": 482.75,
+      "duration": 6.8799999999999955,
+      "text": "There are some other things we can do. That's not a breathing tube, but they're a little aggressive. And one is. Have you ever heard of bipap?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 485.63,
+      "end_time": 504.94,
+      "duration": 19.310000000000002,
+      "text": "It's a mass that really pushes air into you. It's a little uncomfortable, but nothing as bad as a breathing tube. It may be hard to answer this question because you don't know what that is, but do you have any thoughts on that? If you were really sick. If we were to try just a mask, and we would do it just as long as you were okay with it and comfortable at the time, would.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 506.26,
+      "end_time": 509.7,
+      "duration": 3.4399999999999977,
+      "text": "Not usually. Most times with BiPAP, it's only about two to six hours.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 512.82,
+      "end_time": 523.34,
+      "duration": 10.519999999999982,
+      "text": "Okay. And if we had to put large IVs and lines into your wrist and stuff and take you to the intensive care unit, again, we wouldn't do breathing tube, but this is just to watch you closely.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 532.22,
+      "end_time": 545.34,
+      "duration": 13.120000000000005,
+      "text": "Okay. All right, so let me just summarize. I mean, it sounds like before you came into hospital, you know, life was pretty good. I mean, it sounds like you've had some rough times with the heart failure. Yes. We're very clear. We do not want to put the breathing tube down.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 546.02,
+      "end_time": 560.92,
+      "duration": 14.899999999999977,
+      "text": "But we're okay with medicines. We're okay with a mask. We wouldn't restart your heart. I think that's pretty much everything I think I needed to hear. But is there anything else that you wanted to cover or talk about that I've missed?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_030.wav"
+    },
+    {
+      "chunk_number": 31,
+      "start_time": 574.28,
+      "end_time": 574.76,
+      "duration": 0.4800000000000182,
+      "text": "Yes.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_031.wav"
+    },
+    {
+      "chunk_number": 32,
+      "start_time": 578.97,
+      "end_time": 596.77,
+      "duration": 17.799999999999955,
+      "text": "Okay. I do want to say that this is not set in stone in the sense that if you ever change your mind, we can have the conversation again. But if we don't hear from you, this is what we'll go with. No breathing tube, no restarting the heart. I just want you to know that in case anything were to change.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_032.wav"
+    },
+    {
+      "chunk_number": 33,
+      "start_time": 603.69,
+      "end_time": 607.97,
+      "duration": 4.279999999999973,
+      "text": "Okay. I don't think you will either. But it's just nice so that you're aware of that.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_033.wav"
+    },
+    {
+      "chunk_number": 34,
+      "start_time": 609.17,
+      "end_time": 614.53,
+      "duration": 5.360000000000014,
+      "text": "Honestly, I mean, there's some other questions I tend to ask people when I don't know them. Well, just kind of routine stuff.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_034.wav"
+    },
+    {
+      "chunk_number": 35,
+      "start_time": 615.09,
+      "end_time": 616.89,
+      "duration": 1.7999999999999545,
+      "text": "And maybe we'll just quickly go through it.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_035.wav"
+    },
+    {
+      "chunk_number": 36,
+      "start_time": 617.33,
+      "end_time": 619.65,
+      "duration": 2.3199999999999363,
+      "text": "Your medical history is the heart failure. Anything else?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_036.wav"
+    },
+    {
+      "chunk_number": 37,
+      "start_time": 626.25,
+      "end_time": 628.65,
+      "duration": 2.3999999999999773,
+      "text": "Okay. That's okay. We can usually. We have it written down.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_037.wav"
+    },
+    {
+      "chunk_number": 38,
+      "start_time": 629.05,
+      "end_time": 636.09,
+      "duration": 7.040000000000077,
+      "text": "Your medications. I think I saw you're on aspirin and digoxin. I think two others. Do you happen to know or have them written down?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_038.wav"
+    },
+    {
+      "chunk_number": 39,
+      "start_time": 640.89,
+      "end_time": 643.69,
+      "duration": 2.800000000000068,
+      "text": "Okay. Oh, so you are on the water pill, the furosemide.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_039.wav"
+    },
+    {
+      "chunk_number": 40,
+      "start_time": 644.85,
+      "end_time": 647.01,
+      "duration": 2.159999999999968,
+      "text": "Yes. And then Dulciasam. Okay, great.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_040.wav"
+    },
+    {
+      "chunk_number": 41,
+      "start_time": 648.65,
+      "end_time": 649.61,
+      "duration": 0.9600000000000364,
+      "text": "Any allergies?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_041.wav"
+    },
+    {
+      "chunk_number": 42,
+      "start_time": 650.33,
+      "end_time": 657.53,
+      "duration": 7.199999999999932,
+      "text": "Okay. And I won't ask about anything that runs in your family, given your age. They told me you're 70, is that correct?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_042.wav"
+    },
+    {
+      "chunk_number": 43,
+      "start_time": 658.81,
+      "end_time": 662.41,
+      "duration": 3.6000000000000227,
+      "text": "And I do have to ask the following questions completely unrelated to what we're talking about.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_043.wav"
+    },
+    {
+      "chunk_number": 44,
+      "start_time": 663.27,
+      "end_time": 664.07,
+      "duration": 0.8000000000000682,
+      "text": "Do you smoke at all?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_044.wav"
+    },
+    {
+      "chunk_number": 45,
+      "start_time": 664.71,
+      "end_time": 665.99,
+      "duration": 1.2799999999999727,
+      "text": "Do you drink any alcohol?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_045.wav"
+    },
+    {
+      "chunk_number": 46,
+      "start_time": 667.59,
+      "end_time": 673.27,
+      "duration": 5.67999999999995,
+      "text": "Okay, and this will sound crazy, but I have to ask. Any street drugs, illegal drugs, anything like that?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_046.wav"
+    },
+    {
+      "chunk_number": 47,
+      "start_time": 677.51,
+      "end_time": 681.43,
+      "duration": 3.919999999999959,
+      "text": "I forgot to ask. Any over the counter herbals in addition to these?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_047.wav"
+    },
+    {
+      "chunk_number": 48,
+      "start_time": 684.39,
+      "end_time": 686.23,
+      "duration": 1.8400000000000318,
+      "text": "And where are you living right now?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_048.wav"
+    },
+    {
+      "chunk_number": 49,
+      "start_time": 700.27,
+      "end_time": 702.91,
+      "duration": 2.6399999999999864,
+      "text": "How do you feel about that? That change? Six months ago?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_049.wav"
+    },
+    {
+      "chunk_number": 50,
+      "start_time": 712.91,
+      "end_time": 717.98,
+      "duration": 5.07000000000005,
+      "text": "Right. So are you feeling better about being in that place now? Their new home?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_050.wav"
+    },
+    {
+      "chunk_number": 51,
+      "start_time": 732.62,
+      "end_time": 744.22,
+      "duration": 11.600000000000023,
+      "text": "Right. Okay. So I think I sort of have all the information I need to make sure that your wishes are respected just one last time. Anything else that you want to talk about today?",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_051.wav"
+    },
+    {
+      "chunk_number": 52,
+      "start_time": 752.3,
+      "end_time": 754.54,
+      "duration": 2.240000000000009,
+      "text": "Okay. All right. Well, it was very nice to meet you. Still.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_052.wav"
+    },
+    {
+      "chunk_number": 53,
+      "start_time": 756.06,
+      "end_time": 756.86,
+      "duration": 0.8000000000000682,
+      "text": "See ya. Okay.",
+      "chunk_file": "data/chunks/therapist/44mIo53rx3A/chunk_therapist_053.wav"
+    }
+  ]
+}

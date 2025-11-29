@@ -1,0 +1,805 @@
+{
+  "metadata": {
+    "video_id": "7_gmIvbjt3w",
+    "source_file": "data/raw/youtube_wavs/7_gmIvbjt3w.wav",
+    "date_processed": "2025-11-12T11:38:30.811882",
+    "total_duration": 1149.423,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.64,
+      "end_time": 15.76,
+      "duration": 1.1199999999999992,
+      "text": "Hi, Sam. How are you doing today?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 16.72,
+      "end_time": 17.52,
+      "duration": 0.8000000000000007,
+      "text": "You doing all right?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 19.28,
+      "end_time": 24.48,
+      "duration": 5.199999999999999,
+      "text": "I see that this is the first time you've come in. You filled out some of the other paperwork.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 26.64,
+      "end_time": 28.72,
+      "duration": 2.0799999999999983,
+      "text": "A lot of pages. Yeah. How'd that go?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 32.62,
+      "end_time": 35.02,
+      "duration": 2.4000000000000057,
+      "text": "Nothing surprising in there? No.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 36.22,
+      "end_time": 38.14,
+      "duration": 1.9200000000000017,
+      "text": "Pretty standard. Nothing distressing?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 39.34,
+      "end_time": 61.58,
+      "duration": 22.239999999999995,
+      "text": "Not yet. Okay. I'm going to ask you a series of questions as part of a process called intake. So this document that I'll be making notes on will go in your chart, and it'll help guide your care for the time that you're with me.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 63.88,
+      "end_time": 77.56,
+      "duration": 13.68,
+      "text": "So these questions are going to be more detailed and more emotionally oriented than a lot of those questions that you were answering on the forms you filled out before.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 78.92,
+      "end_time": 88.76,
+      "duration": 9.840000000000003,
+      "text": "That was more like factual information that we need for insurance or record keeping. This is more about you and what you've been going through.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 89.96,
+      "end_time": 91.56,
+      "duration": 1.6000000000000085,
+      "text": "You comfortable with that? Yeah.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 92.2,
+      "end_time": 102.66,
+      "duration": 10.459999999999994,
+      "text": "It's okay. If at any time you don't like one of the questions or you don't want to answer one of the questions, just let me know and we'll just. We'll just skip over that.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 105.46,
+      "end_time": 106.74,
+      "duration": 1.2800000000000011,
+      "text": "So what brings you in today?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 118.26,
+      "end_time": 119.7,
+      "duration": 1.4399999999999977,
+      "text": "Things haven't been fantastic?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 121.38,
+      "end_time": 122.9,
+      "duration": 1.5200000000000102,
+      "text": "And you're worried they're gonna get worse?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 126.18,
+      "end_time": 134.32,
+      "duration": 8.139999999999986,
+      "text": "What would you say that main problem is? That motivation come in?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 147.44,
+      "end_time": 152.4,
+      "duration": 4.960000000000008,
+      "text": "So anxiety, you said, is like a nervousness that's.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 164.22,
+      "end_time": 164.78,
+      "duration": 0.5600000000000023,
+      "text": "How long?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 171.26,
+      "end_time": 176.06,
+      "duration": 4.800000000000011,
+      "text": "How old are you now? 23. So this is around 10 years you've.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 179.5,
+      "end_time": 180.18,
+      "duration": 0.6800000000000068,
+      "text": "Off and on.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 180.78,
+      "end_time": 182.7,
+      "duration": 1.9199999999999875,
+      "text": "So there's times when you're not anxious?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 190.06,
+      "end_time": 203.16,
+      "duration": 13.099999999999994,
+      "text": "If you were to rate your anxiety, anxiety, on a scale of 1 to 10, with 1 being really no anxiety and 10 being the worst it's been in the last 10 years. How much anxiety do you have right now?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 208.04,
+      "end_time": 209.56,
+      "duration": 1.5200000000000102,
+      "text": "When was the last time you were a 10?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 215.4,
+      "end_time": 216.92,
+      "duration": 1.5199999999999818,
+      "text": "When was the last time you were a one?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 221.56,
+      "end_time": 223.31,
+      "duration": 1.75,
+      "text": "No, approximately.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 237.14,
+      "end_time": 238.18,
+      "duration": 1.0400000000000205,
+      "text": "About a couple months ago.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 239.219,
+      "end_time": 245.94,
+      "duration": 6.721000000000004,
+      "text": "Okay. So the anxiety is one problem. Any other problems?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 270.32,
+      "end_time": 274.48,
+      "duration": 4.160000000000025,
+      "text": "So sometimes when you go out you drink more than you want to.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 275.52,
+      "end_time": 276.4,
+      "duration": 0.8799999999999955,
+      "text": "What happens then?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 294.54,
+      "end_time": 302.54,
+      "duration": 8.0,
+      "text": "So the consequences of drinking in the longer run, you're not too fond of those, but in the short run, yeah.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 306.54,
+      "end_time": 311.82,
+      "duration": 5.279999999999973,
+      "text": "So you want the anxiety to be lessened? Do you want the drinking to be lessened?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_030.wav"
+    },
+    {
+      "chunk_number": 31,
+      "start_time": 322.96,
+      "end_time": 323.96,
+      "duration": 1.0,
+      "text": "Is that what happens now?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_031.wav"
+    },
+    {
+      "chunk_number": 32,
+      "start_time": 327.32,
+      "end_time": 330.12,
+      "duration": 2.8000000000000114,
+      "text": "Sometimes, yeah. Do you remember the last time you blacked out?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_032.wav"
+    },
+    {
+      "chunk_number": 33,
+      "start_time": 333.96,
+      "end_time": 335.0,
+      "duration": 1.0400000000000205,
+      "text": "Month ago, yeah.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_033.wav"
+    },
+    {
+      "chunk_number": 34,
+      "start_time": 340.12,
+      "end_time": 341.72,
+      "duration": 1.6000000000000227,
+      "text": "At what age did you start drinking?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_034.wav"
+    },
+    {
+      "chunk_number": 35,
+      "start_time": 343.96,
+      "end_time": 355.06,
+      "duration": 11.100000000000023,
+      "text": "At 14, yeah. Alright. Any other problems you have? Anxiety you have? Drinking alcohol? Any other problems?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_035.wav"
+    },
+    {
+      "chunk_number": 36,
+      "start_time": 358.74,
+      "end_time": 360.66,
+      "duration": 1.920000000000016,
+      "text": "So those are the two main things that are.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_036.wav"
+    },
+    {
+      "chunk_number": 37,
+      "start_time": 361.38,
+      "end_time": 362.06,
+      "duration": 0.6800000000000068,
+      "text": "That are bothering.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_037.wav"
+    },
+    {
+      "chunk_number": 38,
+      "start_time": 362.42,
+      "end_time": 371.54,
+      "duration": 9.120000000000005,
+      "text": "Yeah. All right. So I want to ask you some questions about your history.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_038.wav"
+    },
+    {
+      "chunk_number": 39,
+      "start_time": 372.58,
+      "end_time": 395.36,
+      "duration": 22.78000000000003,
+      "text": "All right. And I'm gonna try to divide this up into different areas and just kind of move from one area to the next. There'll be some overlap. Okay. So if I the same question more than once, it's just kind of part of that overlap that occurs. First, I'd like to cover your family history. So can you tell me about your immediate family?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_039.wav"
+    },
+    {
+      "chunk_number": 40,
+      "start_time": 417.82,
+      "end_time": 421.9,
+      "duration": 4.079999999999984,
+      "text": "Alright. What type of relationship do you have with your sister?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_040.wav"
+    },
+    {
+      "chunk_number": 41,
+      "start_time": 433.26,
+      "end_time": 434.78,
+      "duration": 1.5199999999999818,
+      "text": "Would you describe it as distant?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_041.wav"
+    },
+    {
+      "chunk_number": 42,
+      "start_time": 443.02,
+      "end_time": 447.96,
+      "duration": 4.939999999999998,
+      "text": "Do you know what caused the relationship end up that way?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_042.wav"
+    },
+    {
+      "chunk_number": 43,
+      "start_time": 465.72,
+      "end_time": 467.16,
+      "duration": 1.4399999999999977,
+      "text": "Who compared you to your sister?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_043.wav"
+    },
+    {
+      "chunk_number": 44,
+      "start_time": 470.04,
+      "end_time": 470.52,
+      "duration": 0.47999999999996135,
+      "text": "Yeah.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_044.wav"
+    },
+    {
+      "chunk_number": 45,
+      "start_time": 475.56,
+      "end_time": 477.8,
+      "duration": 2.240000000000009,
+      "text": "Was this a frequent occurrence, the comparison?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_045.wav"
+    },
+    {
+      "chunk_number": 46,
+      "start_time": 480.58,
+      "end_time": 482.5,
+      "duration": 1.920000000000016,
+      "text": "Do you feel like it had an impact on you?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_046.wav"
+    },
+    {
+      "chunk_number": 47,
+      "start_time": 496.82,
+      "end_time": 504.34,
+      "duration": 7.519999999999982,
+      "text": "All right, so let's move out a little further. So you talked about your mother, your father, your sister, Any other siblings?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_047.wav"
+    },
+    {
+      "chunk_number": 48,
+      "start_time": 505.46,
+      "end_time": 506.98,
+      "duration": 1.5200000000000387,
+      "text": "How about grandparents?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_048.wav"
+    },
+    {
+      "chunk_number": 49,
+      "start_time": 516.08,
+      "end_time": 518.24,
+      "duration": 2.159999999999968,
+      "text": "Good relationship? Yeah.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_049.wav"
+    },
+    {
+      "chunk_number": 50,
+      "start_time": 526.319,
+      "end_time": 529.76,
+      "duration": 3.441000000000031,
+      "text": "All right. So there's not one grandparent you're particularly close to?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_050.wav"
+    },
+    {
+      "chunk_number": 51,
+      "start_time": 543.98,
+      "end_time": 547.18,
+      "duration": 3.199999999999932,
+      "text": "How about aunts, uncles, cousins?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_051.wav"
+    },
+    {
+      "chunk_number": 52,
+      "start_time": 563.18,
+      "end_time": 565.02,
+      "duration": 1.8400000000000318,
+      "text": "Everybody's cordial, yeah.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_052.wav"
+    },
+    {
+      "chunk_number": 53,
+      "start_time": 568.06,
+      "end_time": 577.64,
+      "duration": 9.580000000000041,
+      "text": "All right, so when's the last time you spoke, say, for example, with one of your cousins?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_053.wav"
+    },
+    {
+      "chunk_number": 54,
+      "start_time": 582.96,
+      "end_time": 594.52,
+      "duration": 11.559999999999945,
+      "text": "A couple weeks ago, yeah. Do any of the relatives that you mentioned or any of them aware of your anxiety and. Or your drinking?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_054.wav"
+    },
+    {
+      "chunk_number": 55,
+      "start_time": 596.44,
+      "end_time": 599.56,
+      "duration": 3.119999999999891,
+      "text": "Yeah. Nobody else?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_055.wav"
+    },
+    {
+      "chunk_number": 56,
+      "start_time": 613.3,
+      "end_time": 615.7,
+      "duration": 2.400000000000091,
+      "text": "So you believe that they told her?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_056.wav"
+    },
+    {
+      "chunk_number": 57,
+      "start_time": 619.3,
+      "end_time": 621.14,
+      "duration": 1.8400000000000318,
+      "text": "But she's not mentioned that to you directly?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_057.wav"
+    },
+    {
+      "chunk_number": 58,
+      "start_time": 630.9,
+      "end_time": 636.9,
+      "duration": 6.0,
+      "text": "So I can see this bothers you.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_058.wav"
+    },
+    {
+      "chunk_number": 59,
+      "start_time": 640.4,
+      "end_time": 668.32,
+      "duration": 27.920000000000073,
+      "text": "Annoying, yeah. Some of these topics that we're gonna touch on in this intake we can talk about in greater detail later on. Okay. All right, so. And maybe your relationship with your mother and father and your sister would be topics we'd touch on later on. Maybe not. But I want to let you know that we can come back to anything and review it.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_059.wav"
+    },
+    {
+      "chunk_number": 60,
+      "start_time": 670.46,
+      "end_time": 687.5,
+      "duration": 17.039999999999964,
+      "text": "So I want to move kind of out of family history a bit and to social relationships again. It's kind of similar. A little bit of overlap here. Can you tell me about any romantic interests, friends, anything like that?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_060.wav"
+    },
+    {
+      "chunk_number": 61,
+      "start_time": 692.86,
+      "end_time": 693.42,
+      "duration": 0.5599999999999454,
+      "text": "Okay.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_061.wav"
+    },
+    {
+      "chunk_number": 62,
+      "start_time": 700.22,
+      "end_time": 701.1,
+      "duration": 0.8799999999999955,
+      "text": "About how many?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_062.wav"
+    },
+    {
+      "chunk_number": 63,
+      "start_time": 716.44,
+      "end_time": 720.68,
+      "duration": 4.239999999999895,
+      "text": "All right. And then you have some other friends that you're not as close to?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_063.wav"
+    },
+    {
+      "chunk_number": 64,
+      "start_time": 729.64,
+      "end_time": 731.08,
+      "duration": 1.4400000000000546,
+      "text": "Do they know about your problems?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_064.wav"
+    },
+    {
+      "chunk_number": 65,
+      "start_time": 742.82,
+      "end_time": 746.5,
+      "duration": 3.67999999999995,
+      "text": "How about you? Said the guy you're seeing for six months, does he know about the problems?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_065.wav"
+    },
+    {
+      "chunk_number": 66,
+      "start_time": 760.1,
+      "end_time": 761.62,
+      "duration": 1.5199999999999818,
+      "text": "So he's supportive?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_066.wav"
+    },
+    {
+      "chunk_number": 67,
+      "start_time": 764.74,
+      "end_time": 778.2,
+      "duration": 13.460000000000036,
+      "text": "All right, so some of the questions I'm going to ask you, this gives me a good opportunity to talk about this I probably could guess the answer to, but I still want to ask, not be presumptuous.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_067.wav"
+    },
+    {
+      "chunk_number": 68,
+      "start_time": 778.88,
+      "end_time": 779.68,
+      "duration": 0.7999999999999545,
+      "text": "Do you have any children?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_068.wav"
+    },
+    {
+      "chunk_number": 69,
+      "start_time": 786.56,
+      "end_time": 798.26,
+      "duration": 11.700000000000045,
+      "text": "Okay. How about nieces or nephews? No. Any other social relationships that I missed here that are important to you?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_069.wav"
+    },
+    {
+      "chunk_number": 70,
+      "start_time": 808.099,
+      "end_time": 822.18,
+      "duration": 14.080999999999904,
+      "text": "All right. She said you were 23. Mm. I wanna ask you some questions about your medical history. Okay. All right. Have you had any surgeries in your lifetime?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_070.wav"
+    },
+    {
+      "chunk_number": 71,
+      "start_time": 828.24,
+      "end_time": 831.76,
+      "duration": 3.519999999999982,
+      "text": "Any other serious medical conditions? No.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_071.wav"
+    },
+    {
+      "chunk_number": 72,
+      "start_time": 840.24,
+      "end_time": 843.52,
+      "duration": 3.2799999999999727,
+      "text": "Are you on any medications for physical problems?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_072.wav"
+    },
+    {
+      "chunk_number": 73,
+      "start_time": 852.94,
+      "end_time": 858.14,
+      "duration": 5.199999999999932,
+      "text": "All right, how about your activity level? Do you stay fairly active?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_073.wav"
+    },
+    {
+      "chunk_number": 74,
+      "start_time": 869.34,
+      "end_time": 874.3,
+      "duration": 4.959999999999923,
+      "text": "All right, so you consider yourself an active person?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_074.wav"
+    },
+    {
+      "chunk_number": 75,
+      "start_time": 881.8,
+      "end_time": 884.28,
+      "duration": 2.480000000000018,
+      "text": "All right. Would you generally say you're in good health then?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_075.wav"
+    },
+    {
+      "chunk_number": 76,
+      "start_time": 888.76,
+      "end_time": 899.0,
+      "duration": 10.240000000000009,
+      "text": "Physically, yeah. No other illnesses, surgeries, procedures? No.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_076.wav"
+    },
+    {
+      "chunk_number": 77,
+      "start_time": 902.12,
+      "end_time": 907.8,
+      "duration": 5.67999999999995,
+      "text": "So I want to shift gears a little bit again. And now talk about psychiatric history.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_077.wav"
+    },
+    {
+      "chunk_number": 78,
+      "start_time": 908.76,
+      "end_time": 923.22,
+      "duration": 14.460000000000036,
+      "text": "All right. And what I'm getting at here is kind of a history of any diagnoses, medications, other times you've been treated by a counselor or somebody like a counselor? Let's start with medications, y'. All. Any medications?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_078.wav"
+    },
+    {
+      "chunk_number": 79,
+      "start_time": 925.46,
+      "end_time": 937.24,
+      "duration": 11.779999999999973,
+      "text": "Mental health? No. How about history of diagnoses? You've been diagnosed with a mental health condition?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_079.wav"
+    },
+    {
+      "chunk_number": 80,
+      "start_time": 949.16,
+      "end_time": 950.92,
+      "duration": 1.759999999999991,
+      "text": "Do you remember specifically what he said?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_080.wav"
+    },
+    {
+      "chunk_number": 81,
+      "start_time": 965.32,
+      "end_time": 968.08,
+      "duration": 2.759999999999991,
+      "text": "So how old are old were you yourself?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_081.wav"
+    },
+    {
+      "chunk_number": 82,
+      "start_time": 972.24,
+      "end_time": 974.08,
+      "duration": 1.8400000000000318,
+      "text": "All right, so. And that was the counselor?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_082.wav"
+    },
+    {
+      "chunk_number": 83,
+      "start_time": 978.08,
+      "end_time": 984.2,
+      "duration": 6.1200000000000045,
+      "text": "All right, so you saw the counselor. Counselor indicated you had some type of anxiety disorder.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_083.wav"
+    },
+    {
+      "chunk_number": 84,
+      "start_time": 987.04,
+      "end_time": 988.96,
+      "duration": 1.9200000000000728,
+      "text": "Do you feel that was a fair assessment?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_084.wav"
+    },
+    {
+      "chunk_number": 85,
+      "start_time": 990.48,
+      "end_time": 994.52,
+      "duration": 4.039999999999964,
+      "text": "Yeah. Yeah. And how long did you see the counselor?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_085.wav"
+    },
+    {
+      "chunk_number": 86,
+      "start_time": 997.36,
+      "end_time": 999.16,
+      "duration": 1.7999999999999545,
+      "text": "Maybe five or six sessions?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_086.wav"
+    },
+    {
+      "chunk_number": 87,
+      "start_time": 1004.76,
+      "end_time": 1006.68,
+      "duration": 1.919999999999959,
+      "text": "And why did you discontinue the treatment?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_087.wav"
+    },
+    {
+      "chunk_number": 88,
+      "start_time": 1028.47,
+      "end_time": 1031.43,
+      "duration": 2.9600000000000364,
+      "text": "Any mention at that time about the drinking?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_088.wav"
+    },
+    {
+      "chunk_number": 89,
+      "start_time": 1039.11,
+      "end_time": 1045.8,
+      "duration": 6.690000000000055,
+      "text": "How about other mental health professionals? Like a psychiatrist, a psychologist, a marriage and family therapist?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_089.wav"
+    },
+    {
+      "chunk_number": 90,
+      "start_time": 1053.87,
+      "end_time": 1055.47,
+      "duration": 1.6000000000001364,
+      "text": "You weren't prescribed any medication?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_090.wav"
+    },
+    {
+      "chunk_number": 91,
+      "start_time": 1057.31,
+      "end_time": 1059.87,
+      "duration": 2.5599999999999454,
+      "text": "And what do you think happened there that you didn't stick with that?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_091.wav"
+    },
+    {
+      "chunk_number": 92,
+      "start_time": 1073.15,
+      "end_time": 1078.41,
+      "duration": 5.259999999999991,
+      "text": "Can you tell me about when you saw the psychiatrist in relation to when you saw the counselor?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_092.wav"
+    },
+    {
+      "chunk_number": 93,
+      "start_time": 1097.05,
+      "end_time": 1098.89,
+      "duration": 1.8400000000001455,
+      "text": "Do you feel you're in a different state of mind now?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_093.wav"
+    },
+    {
+      "chunk_number": 94,
+      "start_time": 1101.05,
+      "end_time": 1101.85,
+      "duration": 0.7999999999999545,
+      "text": "Tell me about that.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_094.wav"
+    },
+    {
+      "chunk_number": 95,
+      "start_time": 1117.86,
+      "end_time": 1118.26,
+      "duration": 0.40000000000009095,
+      "text": "So.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_095.wav"
+    },
+    {
+      "chunk_number": 96,
+      "start_time": 1126.98,
+      "end_time": 1137.79,
+      "duration": 10.809999999999945,
+      "text": "So you feel like you're ready to commit to treatment a little more vigorously? Yeah, at this point. Okay.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_096.wav"
+    },
+    {
+      "chunk_number": 97,
+      "start_time": 1139.91,
+      "end_time": 1140.79,
+      "duration": 0.8799999999998818,
+      "text": "And back then?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_097.wav"
+    },
+    {
+      "chunk_number": 98,
+      "start_time": 1142.23,
+      "end_time": 1145.75,
+      "duration": 3.519999999999982,
+      "text": "Okay. And no other treatment providers?",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_098.wav"
+    },
+    {
+      "chunk_number": 99,
+      "start_time": 1147.59,
+      "end_time": 1148.71,
+      "duration": 1.1200000000001182,
+      "text": "Okay. Just those two.",
+      "chunk_file": "data/chunks/therapist/7_gmIvbjt3w/chunk_therapist_099.wav"
+    }
+  ]
+}

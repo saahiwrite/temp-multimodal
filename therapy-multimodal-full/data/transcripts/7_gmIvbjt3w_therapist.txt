@@ -1,0 +1,305 @@
+THERAPIST-ONLY TRANSCRIPT
+================================================================================
+
+Video ID: 7_gmIvbjt3w
+Source WAV: data/raw/youtube_wavs/7_gmIvbjt3w.wav
+Therapist label: A
+Date: 2025-11-12 11:38:30
+
+[14.6s - 15.8s] (Chunk 001)
+Hi, Sam. How are you doing today?
+
+[16.7s - 17.5s] (Chunk 002)
+You doing all right?
+
+[19.3s - 24.5s] (Chunk 003)
+I see that this is the first time you've come in. You filled out some of the other paperwork.
+
+[26.6s - 28.7s] (Chunk 004)
+A lot of pages. Yeah. How'd that go?
+
+[32.6s - 35.0s] (Chunk 005)
+Nothing surprising in there? No.
+
+[36.2s - 38.1s] (Chunk 006)
+Pretty standard. Nothing distressing?
+
+[39.3s - 61.6s] (Chunk 007)
+Not yet. Okay. I'm going to ask you a series of questions as part of a process called intake. So this document that I'll be making notes on will go in your chart, and it'll help guide your care for the time that you're with me.
+
+[63.9s - 77.6s] (Chunk 008)
+So these questions are going to be more detailed and more emotionally oriented than a lot of those questions that you were answering on the forms you filled out before.
+
+[78.9s - 88.8s] (Chunk 009)
+That was more like factual information that we need for insurance or record keeping. This is more about you and what you've been going through.
+
+[90.0s - 91.6s] (Chunk 010)
+You comfortable with that? Yeah.
+
+[92.2s - 102.7s] (Chunk 011)
+It's okay. If at any time you don't like one of the questions or you don't want to answer one of the questions, just let me know and we'll just. We'll just skip over that.
+
+[105.5s - 106.7s] (Chunk 012)
+So what brings you in today?
+
+[118.3s - 119.7s] (Chunk 013)
+Things haven't been fantastic?
+
+[121.4s - 122.9s] (Chunk 014)
+And you're worried they're gonna get worse?
+
+[126.2s - 134.3s] (Chunk 015)
+What would you say that main problem is? That motivation come in?
+
+[147.4s - 152.4s] (Chunk 016)
+So anxiety, you said, is like a nervousness that's.
+
+[164.2s - 164.8s] (Chunk 017)
+How long?
+
+[171.3s - 176.1s] (Chunk 018)
+How old are you now? 23. So this is around 10 years you've.
+
+[179.5s - 180.2s] (Chunk 019)
+Off and on.
+
+[180.8s - 182.7s] (Chunk 020)
+So there's times when you're not anxious?
+
+[190.1s - 203.2s] (Chunk 021)
+If you were to rate your anxiety, anxiety, on a scale of 1 to 10, with 1 being really no anxiety and 10 being the worst it's been in the last 10 years. How much anxiety do you have right now?
+
+[208.0s - 209.6s] (Chunk 022)
+When was the last time you were a 10?
+
+[215.4s - 216.9s] (Chunk 023)
+When was the last time you were a one?
+
+[221.6s - 223.3s] (Chunk 024)
+No, approximately.
+
+[237.1s - 238.2s] (Chunk 025)
+About a couple months ago.
+
+[239.2s - 245.9s] (Chunk 026)
+Okay. So the anxiety is one problem. Any other problems?
+
+[270.3s - 274.5s] (Chunk 027)
+So sometimes when you go out you drink more than you want to.
+
+[275.5s - 276.4s] (Chunk 028)
+What happens then?
+
+[294.5s - 302.5s] (Chunk 029)
+So the consequences of drinking in the longer run, you're not too fond of those, but in the short run, yeah.
+
+[306.5s - 311.8s] (Chunk 030)
+So you want the anxiety to be lessened? Do you want the drinking to be lessened?
+
+[323.0s - 324.0s] (Chunk 031)
+Is that what happens now?
+
+[327.3s - 330.1s] (Chunk 032)
+Sometimes, yeah. Do you remember the last time you blacked out?
+
+[334.0s - 335.0s] (Chunk 033)
+Month ago, yeah.
+
+[340.1s - 341.7s] (Chunk 034)
+At what age did you start drinking?
+
+[344.0s - 355.1s] (Chunk 035)
+At 14, yeah. Alright. Any other problems you have? Anxiety you have? Drinking alcohol? Any other problems?
+
+[358.7s - 360.7s] (Chunk 036)
+So those are the two main things that are.
+
+[361.4s - 362.1s] (Chunk 037)
+That are bothering.
+
+[362.4s - 371.5s] (Chunk 038)
+Yeah. All right. So I want to ask you some questions about your history.
+
+[372.6s - 395.4s] (Chunk 039)
+All right. And I'm gonna try to divide this up into different areas and just kind of move from one area to the next. There'll be some overlap. Okay. So if I the same question more than once, it's just kind of part of that overlap that occurs. First, I'd like to cover your family history. So can you tell me about your immediate family?
+
+[417.8s - 421.9s] (Chunk 040)
+Alright. What type of relationship do you have with your sister?
+
+[433.3s - 434.8s] (Chunk 041)
+Would you describe it as distant?
+
+[443.0s - 448.0s] (Chunk 042)
+Do you know what caused the relationship end up that way?
+
+[465.7s - 467.2s] (Chunk 043)
+Who compared you to your sister?
+
+[470.0s - 470.5s] (Chunk 044)
+Yeah.
+
+[475.6s - 477.8s] (Chunk 045)
+Was this a frequent occurrence, the comparison?
+
+[480.6s - 482.5s] (Chunk 046)
+Do you feel like it had an impact on you?
+
+[496.8s - 504.3s] (Chunk 047)
+All right, so let's move out a little further. So you talked about your mother, your father, your sister, Any other siblings?
+
+[505.5s - 507.0s] (Chunk 048)
+How about grandparents?
+
+[516.1s - 518.2s] (Chunk 049)
+Good relationship? Yeah.
+
+[526.3s - 529.8s] (Chunk 050)
+All right. So there's not one grandparent you're particularly close to?
+
+[544.0s - 547.2s] (Chunk 051)
+How about aunts, uncles, cousins?
+
+[563.2s - 565.0s] (Chunk 052)
+Everybody's cordial, yeah.
+
+[568.1s - 577.6s] (Chunk 053)
+All right, so when's the last time you spoke, say, for example, with one of your cousins?
+
+[583.0s - 594.5s] (Chunk 054)
+A couple weeks ago, yeah. Do any of the relatives that you mentioned or any of them aware of your anxiety and. Or your drinking?
+
+[596.4s - 599.6s] (Chunk 055)
+Yeah. Nobody else?
+
+[613.3s - 615.7s] (Chunk 056)
+So you believe that they told her?
+
+[619.3s - 621.1s] (Chunk 057)
+But she's not mentioned that to you directly?
+
+[630.9s - 636.9s] (Chunk 058)
+So I can see this bothers you.
+
+[640.4s - 668.3s] (Chunk 059)
+Annoying, yeah. Some of these topics that we're gonna touch on in this intake we can talk about in greater detail later on. Okay. All right, so. And maybe your relationship with your mother and father and your sister would be topics we'd touch on later on. Maybe not. But I want to let you know that we can come back to anything and review it.
+
+[670.5s - 687.5s] (Chunk 060)
+So I want to move kind of out of family history a bit and to social relationships again. It's kind of similar. A little bit of overlap here. Can you tell me about any romantic interests, friends, anything like that?
+
+[692.9s - 693.4s] (Chunk 061)
+Okay.
+
+[700.2s - 701.1s] (Chunk 062)
+About how many?
+
+[716.4s - 720.7s] (Chunk 063)
+All right. And then you have some other friends that you're not as close to?
+
+[729.6s - 731.1s] (Chunk 064)
+Do they know about your problems?
+
+[742.8s - 746.5s] (Chunk 065)
+How about you? Said the guy you're seeing for six months, does he know about the problems?
+
+[760.1s - 761.6s] (Chunk 066)
+So he's supportive?
+
+[764.7s - 778.2s] (Chunk 067)
+All right, so some of the questions I'm going to ask you, this gives me a good opportunity to talk about this I probably could guess the answer to, but I still want to ask, not be presumptuous.
+
+[778.9s - 779.7s] (Chunk 068)
+Do you have any children?
+
+[786.6s - 798.3s] (Chunk 069)
+Okay. How about nieces or nephews? No. Any other social relationships that I missed here that are important to you?
+
+[808.1s - 822.2s] (Chunk 070)
+All right. She said you were 23. Mm. I wanna ask you some questions about your medical history. Okay. All right. Have you had any surgeries in your lifetime?
+
+[828.2s - 831.8s] (Chunk 071)
+Any other serious medical conditions? No.
+
+[840.2s - 843.5s] (Chunk 072)
+Are you on any medications for physical problems?
+
+[852.9s - 858.1s] (Chunk 073)
+All right, how about your activity level? Do you stay fairly active?
+
+[869.3s - 874.3s] (Chunk 074)
+All right, so you consider yourself an active person?
+
+[881.8s - 884.3s] (Chunk 075)
+All right. Would you generally say you're in good health then?
+
+[888.8s - 899.0s] (Chunk 076)
+Physically, yeah. No other illnesses, surgeries, procedures? No.
+
+[902.1s - 907.8s] (Chunk 077)
+So I want to shift gears a little bit again. And now talk about psychiatric history.
+
+[908.8s - 923.2s] (Chunk 078)
+All right. And what I'm getting at here is kind of a history of any diagnoses, medications, other times you've been treated by a counselor or somebody like a counselor? Let's start with medications, y'. All. Any medications?
+
+[925.5s - 937.2s] (Chunk 079)
+Mental health? No. How about history of diagnoses? You've been diagnosed with a mental health condition?
+
+[949.2s - 950.9s] (Chunk 080)
+Do you remember specifically what he said?
+
+[965.3s - 968.1s] (Chunk 081)
+So how old are old were you yourself?
+
+[972.2s - 974.1s] (Chunk 082)
+All right, so. And that was the counselor?
+
+[978.1s - 984.2s] (Chunk 083)
+All right, so you saw the counselor. Counselor indicated you had some type of anxiety disorder.
+
+[987.0s - 989.0s] (Chunk 084)
+Do you feel that was a fair assessment?
+
+[990.5s - 994.5s] (Chunk 085)
+Yeah. Yeah. And how long did you see the counselor?
+
+[997.4s - 999.2s] (Chunk 086)
+Maybe five or six sessions?
+
+[1004.8s - 1006.7s] (Chunk 087)
+And why did you discontinue the treatment?
+
+[1028.5s - 1031.4s] (Chunk 088)
+Any mention at that time about the drinking?
+
+[1039.1s - 1045.8s] (Chunk 089)
+How about other mental health professionals? Like a psychiatrist, a psychologist, a marriage and family therapist?
+
+[1053.9s - 1055.5s] (Chunk 090)
+You weren't prescribed any medication?
+
+[1057.3s - 1059.9s] (Chunk 091)
+And what do you think happened there that you didn't stick with that?
+
+[1073.2s - 1078.4s] (Chunk 092)
+Can you tell me about when you saw the psychiatrist in relation to when you saw the counselor?
+
+[1097.0s - 1098.9s] (Chunk 093)
+Do you feel you're in a different state of mind now?
+
+[1101.0s - 1101.8s] (Chunk 094)
+Tell me about that.
+
+[1117.9s - 1118.3s] (Chunk 095)
+So.
+
+[1127.0s - 1137.8s] (Chunk 096)
+So you feel like you're ready to commit to treatment a little more vigorously? Yeah, at this point. Okay.
+
+[1139.9s - 1140.8s] (Chunk 097)
+And back then?
+
+[1142.2s - 1145.8s] (Chunk 098)
+Okay. And no other treatment providers?
+
+[1147.6s - 1148.7s] (Chunk 099)
+Okay. Just those two.
+

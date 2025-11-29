@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "video_id": "BYbCvD_8QYE",
+    "source_file": "data/raw/youtube_wavs/BYbCvD_8QYE.wav",
+    "date_processed": "2025-11-11T16:50:44.869162",
+    "total_duration": 470.03,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 13.92,
+      "end_time": 15.04,
+      "duration": 1.1199999999999992,
+      "text": "Hi, Sherry. How you doing today?",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 16.4,
+      "end_time": 17.92,
+      "duration": 1.5200000000000031,
+      "text": "I'm doing well. Thanks for asking.",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 19.92,
+      "end_time": 20.8,
+      "duration": 0.879999999999999,
+      "text": "So you're doing great?",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 22.64,
+      "end_time": 29.43,
+      "duration": 6.789999999999999,
+      "text": "I know your brother brought you in today, and he had expressed some concerns about your mood. Do you know what that's about?",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 140.23,
+      "end_time": 158.61,
+      "duration": 18.380000000000024,
+      "text": "Alright, so you feel like everything's kind of going your way and you're really excited about the new business idea. I know your brother was a little concerned with how much you've been spending on the business idea. And he mentioned some things about different relationships you've had that are new.",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 234.4,
+      "end_time": 240.14,
+      "duration": 5.739999999999981,
+      "text": "He's worried that you don't. One of the things is that new relationship, they don't know the guy too well.",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 249.58,
+      "end_time": 253.86,
+      "duration": 4.280000000000001,
+      "text": "Alright, so your brother just doesn't in your mind, he just doesn't get it?",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 280.64,
+      "end_time": 284.96,
+      "duration": 4.319999999999993,
+      "text": "All right. Have you noticed through all this any change in sleep patterns?",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 305.37,
+      "end_time": 306.97,
+      "duration": 1.6000000000000227,
+      "text": "All right, so you do feel rested.",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 307.45,
+      "end_time": 315.81,
+      "duration": 8.360000000000014,
+      "text": "But you haven't been sleeping as much? No. And you. You clearly seem like you're in a good mood. No. No sadness or anything like that?",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 320.88,
+      "end_time": 327.04,
+      "duration": 6.160000000000025,
+      "text": "You're doing pretty well that way. Have you ever been down or depressed?",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 353.33,
+      "end_time": 363.49,
+      "duration": 10.160000000000025,
+      "text": "You ever feel this way before? Kind of in a really good mood? No. No, Nothing like this. So what do you think brought all this on?",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 373.97,
+      "end_time": 378.21,
+      "duration": 4.239999999999952,
+      "text": "Just kind of realizing that's kind of changed your life for the better.",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 381.73,
+      "end_time": 387.09,
+      "duration": 5.359999999999957,
+      "text": "All right. And you mentioned before that you got in some trouble at work, right?",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 387.81,
+      "end_time": 389.17,
+      "duration": 1.3600000000000136,
+      "text": "How bad did that turn out?",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 425.5,
+      "end_time": 426.7,
+      "duration": 1.1999999999999886,
+      "text": "You're not too worried about that?",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 428.79,
+      "end_time": 432.79,
+      "duration": 4.0,
+      "text": "Any medical conditions you know of? How about drug and alcohol use?",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 435.11,
+      "end_time": 440.07,
+      "duration": 4.9599999999999795,
+      "text": "Really? Well, are you seeing or hearing anything that other people can't see or hear?",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 441.19,
+      "end_time": 460.27,
+      "duration": 19.079999999999984,
+      "text": "No, nothing like that. All right, Sherry, so I know that you're feeling pretty well, but I would like you to see a counselor. Maybe help you as you contemplate these different things we've been talking about. If you'd be okay with talking to.",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 461.95,
+      "end_time": 468.829,
+      "duration": 6.879000000000019,
+      "text": "You'd be okay with that? I'll get that set up. It'll just take a moment. And I want to thank you for answering my questions. This has been helpful.",
+      "chunk_file": "data/chunks/therapist/BYbCvD_8QYE/chunk_therapist_020.wav"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+THERAPIST-ONLY TRANSCRIPT
+================================================================================
+
+Video ID: 0Xkd2WNtvI4
+Source WAV: data/raw/youtube_wavs/0Xkd2WNtvI4.wav
+Therapist label: A
+Date: 2025-11-11 16:39:21
+
+[14.3s - 15.5s] (Chunk 001)
+Hi, Jackie. How you doing today?
+
+[17.5s - 25.6s] (Chunk 002)
+I'm doing well, thanks for asking. I understand you've been having some difficulties recently that have brought you into the agency.
+
+[82.4s - 86.3s] (Chunk 003)
+So I can understand why that would be distressing. Have you seen a physician about this?
+
+[89.7s - 91.1s] (Chunk 004)
+And what'd they say?
+
+[112.1s - 117.1s] (Chunk 005)
+So what would you like from counseling? What would a goal be?
+
+[139.8s - 154.6s] (Chunk 006)
+All right. So after you were yelling things or you hit him like you're asleep during this time when you wake up, what's going through your mind then?
+
+[186.2s - 187.5s] (Chunk 007)
+But now you're starting to wonder.
+
+[192.7s - 195.0s] (Chunk 008)
+You're starting to wonder if you didn't have this disorder before.
+
+[214.8s - 232.4s] (Chunk 009)
+So he's been paying attention to what's going on with your sleep. Does the. The episode of yelling or moving around, does it happen in any certain time limit? Like, does it happen right after you go to sleep or a while after.
+
+[247.8s - 251.1s] (Chunk 010)
+Does it ever happen when you take, like, a nap, like a short nap?
+
+[262.5s - 268.8s] (Chunk 011)
+All right, so only at night when you're sleeping overnight and in the middle of that sleep.
+
+[272.0s - 276.7s] (Chunk 012)
+All right. Would you be okay with signing a release so I can communicate with your decision?
+
+[279.2s - 282.4s] (Chunk 013)
+And do you want your husband to be part of the castling?
+
+[287.2s - 288.8s] (Chunk 014)
+And you'd be okay signing release for him?
+
+[291.4s - 299.6s] (Chunk 015)
+So I'll get you scheduled in to see a counselor. I appreciate you telling me what's going on. It's been helpful.
+

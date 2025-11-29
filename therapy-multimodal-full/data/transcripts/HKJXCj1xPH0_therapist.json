@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "video_id": "HKJXCj1xPH0",
+    "source_file": "data/raw/youtube_wavs/HKJXCj1xPH0.wav",
+    "date_processed": "2025-11-11T17:03:23.614993",
+    "total_duration": 646.664,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.4,
+      "end_time": 15.6,
+      "duration": 1.1999999999999993,
+      "text": "Hi, Sasha. How are you doing today?",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 17.84,
+      "end_time": 27.29,
+      "duration": 9.45,
+      "text": "I'm doing okay. Thank you for asking. I understand that you've been having some difficulty with some symptoms. Is that right?",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 28.17,
+      "end_time": 29.85,
+      "duration": 1.6799999999999997,
+      "text": "Can you tell me about what's been going on?",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 56.5,
+      "end_time": 66.58,
+      "duration": 10.079999999999998,
+      "text": "Start getting really nervous. So you have a morning meeting at work, and so does each person at the meeting present in a row?",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 68.34,
+      "end_time": 77.94,
+      "duration": 9.599999999999994,
+      "text": "We all take turns. And when you start to feel nervous, when it's your time to talk, or before or after that.",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 95.75,
+      "end_time": 97.75,
+      "duration": 2.0,
+      "text": "So there's around 10 people at the meeting.",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 98.95,
+      "end_time": 110.94,
+      "duration": 11.989999999999995,
+      "text": "And as luck would have it, you tend to be toward the end. So can you describe what's happening, say, from the beginning of the meeting in terms of what you're experiencing?",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 158.64,
+      "end_time": 167.89,
+      "duration": 9.25,
+      "text": "On the physical sensation, being nervous, and the. The mental sensation. You're not really hearing what they're saying.",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 170.29,
+      "end_time": 177.89,
+      "duration": 7.599999999999994,
+      "text": "All right, so go on. So you have these physical symptoms, this nervousness. What happens then?",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 219.78,
+      "end_time": 231.3,
+      "duration": 11.52000000000001,
+      "text": "Alright, so. So in the moment when you're, when it's your turn to present, you're still feeling that same nervousness? Like that doesn't, that doesn't go away at all.",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 232.42,
+      "end_time": 237.38,
+      "duration": 4.960000000000008,
+      "text": "And you're trying to hold your body kind of still, like almost like keep control.",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 239.39,
+      "end_time": 248.99,
+      "duration": 9.600000000000023,
+      "text": "And then your voice is kind of sounds like crackly or breaking up as you're trying to read from like bullet points, like on a. Like an outline.",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 250.67,
+      "end_time": 255.23,
+      "duration": 4.560000000000002,
+      "text": "What happens when you have read the last point?",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 290.15,
+      "end_time": 327.09,
+      "duration": 36.94,
+      "text": "All right, so then the nervousness, that stronger feeling of nervousness that goes away, it's replaced by a more general feeling of nervousness about how your boss will think of you because of the presentation quality. Because as you're presenting and kind of staying still and your voice is crackling, he's picking up on that. And you're aware of that. How long have you noticed these symptoms that appear in this way?",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 370.57,
+      "end_time": 398.01,
+      "duration": 27.439999999999998,
+      "text": "The last few weeks is when you noticed it. So you had some nervousness before presenting in college, but you just kind of thought of it as normal. Didn't really impair your ability to present, didn't affect your grades or anything. Right. Do you have any other symptoms that you think may be related or even unrelated to what's going on?",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 429.27,
+      "end_time": 438.07,
+      "duration": 8.800000000000011,
+      "text": "So whatever you have going on, you think that maybe she has that going on too? Maybe the same set of symptoms, at least?",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 457.49,
+      "end_time": 461.25,
+      "duration": 3.759999999999991,
+      "text": "All right. Any feelings of sadness or anything like that?",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 481.67,
+      "end_time": 485.99,
+      "duration": 4.319999999999993,
+      "text": "Do you have any substance use going on? Alcohol, anything else?",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 492.39,
+      "end_time": 504.55,
+      "duration": 12.160000000000025,
+      "text": "And these. I know this is something recent for you, but in these meetings so far, has the nervousness ever caused you to leave the room before they came around to your turn?",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 543.22,
+      "end_time": 552.58,
+      "duration": 9.360000000000014,
+      "text": "Are you ever worried about what they're thinking about? You mentioned what your boss could be thinking about you. Have you ever worried about what the other workers at the table are thinking about?",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 588.3,
+      "end_time": 595.74,
+      "duration": 7.440000000000055,
+      "text": "Have you ever felt. You mentioned you're nervous at the beginning of the meeting. Have you ever felt nervous? Well, in advance of the meeting?",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 617.31,
+      "end_time": 641.19,
+      "duration": 23.88000000000011,
+      "text": "Alright, so you have, you have this nervousness. It's fairly intense, pretty much. Only at these meetings it's been bothering you for a few weeks, Something new, something a little frightening for you. We'll get you set up with treatment. I'll get you in to see somebody in the next few days if that works for you.",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 642.07,
+      "end_time": 644.71,
+      "duration": 2.6399999999999864,
+      "text": "And I appreciate you spending this time with me. It's been helpful.",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 645.71,
+      "end_time": 646.63,
+      "duration": 0.9199999999999591,
+      "text": "Thanks, Sasha.",
+      "chunk_file": "data/chunks/therapist/HKJXCj1xPH0/chunk_therapist_024.wav"
+    }
+  ]
+}

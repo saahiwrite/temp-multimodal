@@ -1,0 +1,565 @@
+{
+  "metadata": {
+    "video_id": "Xj3q96mCfC8",
+    "source_file": "data/raw/youtube_wavs/Xj3q96mCfC8.wav",
+    "date_processed": "2025-11-12T11:43:03.953920",
+    "total_duration": 1549.888,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.4,
+      "end_time": 15.52,
+      "duration": 1.1199999999999992,
+      "text": "Hi Lee. How you doing today?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 17.6,
+      "end_time": 18.4,
+      "duration": 0.7999999999999972,
+      "text": "You doing good?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 21.68,
+      "end_time": 22.24,
+      "duration": 0.5599999999999987,
+      "text": "Yeah.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 59.42,
+      "end_time": 67.18,
+      "duration": 7.760000000000005,
+      "text": "So nervousness and some anxiety around dating. You said you'd never really dated before.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 85.0,
+      "end_time": 85.8,
+      "duration": 0.7999999999999972,
+      "text": "Scary for you.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 120.45,
+      "end_time": 128.77,
+      "duration": 8.320000000000007,
+      "text": "Alright, so no dating in high school and what type of interactions did you have in high school? You said, you said hi a few times.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 159.01,
+      "end_time": 189.28,
+      "duration": 30.27000000000001,
+      "text": "So let's talk about your anxiety. You have anxiety and earlier reaction just to thinking about it. Right? You think about dating, it's just, it's a lot for you. Do you think this anxiety comes from a fear of might happen or is this something more how you'll be perceived? Like what do you think is leading to?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 237.86,
+      "end_time": 241.86,
+      "duration": 4.0,
+      "text": "So that process is far removed from you. You look at that and think, I.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 249.86,
+      "end_time": 255.94,
+      "duration": 6.079999999999984,
+      "text": "So how would you say. How would you describe yourself? How do you feel about yourself?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 299.81,
+      "end_time": 321.86,
+      "duration": 22.05000000000001,
+      "text": "Is there a particular outcome that you're afraid of? Like, when you're. Well, you're in college now, right. So likely interact with males to some extent. Is there when an opportunity comes up, when somebody's interested in you, is there a particular fear that comes to mind?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 336.5,
+      "end_time": 339.06,
+      "duration": 2.5600000000000023,
+      "text": "So you think yourself as unattractive and awkward?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 339.91,
+      "end_time": 343.19,
+      "duration": 3.2799999999999727,
+      "text": "And you question why they would be interested in you?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 345.75,
+      "end_time": 353.99,
+      "duration": 8.240000000000009,
+      "text": "So have you ever had evidence presented to the contrary, like people who thought you were attractive and not awkward?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 373.25,
+      "end_time": 380.69,
+      "duration": 7.439999999999998,
+      "text": "You have. But there's some. So they're telling you that. But there's something else telling you that you're not.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 382.85,
+      "end_time": 384.13,
+      "duration": 1.2799999999999727,
+      "text": "Where do you think that's coming from?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 409.52,
+      "end_time": 412.96,
+      "duration": 3.4399999999999977,
+      "text": "So you think her reasoning for not allowing you to date.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 417.2,
+      "end_time": 419.11,
+      "duration": 1.910000000000025,
+      "text": "Were your sisters allowed to date?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 435.019,
+      "end_time": 447.8,
+      "duration": 12.781000000000006,
+      "text": "So you feel like you were. Of you and your sisters, you were the one treated the most strictly on that. But was it much more strictly or just a little differently?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 482.26,
+      "end_time": 485.54,
+      "duration": 3.2800000000000296,
+      "text": "So the way you perceive yourself, the self image here, is part of this.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 487.38,
+      "end_time": 504.67,
+      "duration": 17.29000000000002,
+      "text": "So you have evidence that says that men would be interested in going out with you, dating you, but. But internally, these thoughts you're having say you're just not worthy. You know what I mean? That's kind of the theme of it, right?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 507.87,
+      "end_time": 526.99,
+      "duration": 19.120000000000005,
+      "text": "And maybe this is tied to a core belief. Like we talked about core beliefs before cognitive therapy. Are there any of those core beliefs in the list I gave you a few weeks ago that kind of stood out that you think might be core beliefs you have?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 534.03,
+      "end_time": 534.67,
+      "duration": 0.6399999999999864,
+      "text": "Any others?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 539.63,
+      "end_time": 541.47,
+      "duration": 1.8400000000000318,
+      "text": "So fear of being rejected.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 543.07,
+      "end_time": 581.41,
+      "duration": 38.33999999999992,
+      "text": "So unlovable. And a fear of being rejected. And then when you have interactions in the moment, like, say you're in class and there's a man sitting next to you in class and they're interested in you, he's interested in you, and he says something that expresses that he's interested, you're immediately suspect.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 582.89,
+      "end_time": 583.69,
+      "duration": 0.8000000000000682,
+      "text": "That's what you heard.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 622.43,
+      "end_time": 623.63,
+      "duration": 1.2000000000000455,
+      "text": "It takes you right back there.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 625.27,
+      "end_time": 633.67,
+      "duration": 8.399999999999977,
+      "text": "So how do your parents feel about now? Have they said anything like your sisters are married and you're not? Have they pointed that out?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 682.79,
+      "end_time": 701.35,
+      "duration": 18.56000000000006,
+      "text": "So that's different than being unlovable, right? Yeah. I mean, her reasoning, as you're describing, her reasoning sounds more like she wants you to reach a higher educational goal.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 707.68,
+      "end_time": 708.56,
+      "duration": 0.8799999999999955,
+      "text": "What do you want?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 745.86,
+      "end_time": 759.92,
+      "duration": 14.059999999999945,
+      "text": "There's opposing forces at work here. Right. I mean, you're motivated to try it. It's a goal. You want to be able to date. You want to look about what's important to you. Do you want to get married like your sisters?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_030.wav"
+    },
+    {
+      "chunk_number": 31,
+      "start_time": 761.32,
+      "end_time": 803.17,
+      "duration": 41.84999999999991,
+      "text": "You do. So you have these clear goals, and that's one force. And then this opposing force is this. Well, one of them would be this anxiety that comes over you in the moment when a man's talking to you, like in that way. Right. Like about going out. Right. Topic like that. So a part of you is saying, I really want to move forward and date different people and see if I can find a good match. And another part of you is saying, I need to run away, like you said, fight or flight. Right. I want to run away and not have this awkwardness, this anxiety.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_031.wav"
+    },
+    {
+      "chunk_number": 32,
+      "start_time": 853.4,
+      "end_time": 860.45,
+      "duration": 7.050000000000068,
+      "text": "And what you said is you don't know what would happen. So you don't know that it would be bad. You don't know that it'll be a bad experience.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_032.wav"
+    },
+    {
+      "chunk_number": 33,
+      "start_time": 865.29,
+      "end_time": 888.7,
+      "duration": 23.410000000000082,
+      "text": "But you don't know if it's going to be good either. So there's a risk. Right. So in the situation you're in, if you can get through that anxiety and have a conversation, it could end up where things went very well or didn't. So what happens if it doesn't go well?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_033.wav"
+    },
+    {
+      "chunk_number": 34,
+      "start_time": 912.31,
+      "end_time": 912.95,
+      "duration": 0.6400000000001,
+      "text": "Good point.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_034.wav"
+    },
+    {
+      "chunk_number": 35,
+      "start_time": 941.66,
+      "end_time": 944.58,
+      "duration": 2.9200000000000728,
+      "text": "It's hard, you know, it's difficult for you. This is painful for you.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_035.wav"
+    },
+    {
+      "chunk_number": 36,
+      "start_time": 945.34,
+      "end_time": 992.14,
+      "duration": 46.799999999999955,
+      "text": "You're fighting through some strong feelings. If you try to look at the logical, right, it's likely you just because of the way it works. You'd have to date several people to find somebody that was a match. Right. So some of those relationships you'll end. Maybe some the man will end. But eventually, one likely you would stumble on or neither one of you would end it. So there's risk involved here. There's a risk of rejection. There's a risk of having to reject. That doesn't seem to be the risk you're most worried about, though. You're more worried about the risk of being rejected.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_036.wav"
+    },
+    {
+      "chunk_number": 37,
+      "start_time": 995.18,
+      "end_time": 996.7,
+      "duration": 1.5200000000000955,
+      "text": "Because you're questioning their intent.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_037.wav"
+    },
+    {
+      "chunk_number": 38,
+      "start_time": 999.82,
+      "end_time": 1003.5,
+      "duration": 3.67999999999995,
+      "text": "So can you survive being rejected?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_038.wav"
+    },
+    {
+      "chunk_number": 39,
+      "start_time": 1038.37,
+      "end_time": 1056.69,
+      "duration": 18.320000000000164,
+      "text": "And you took that behavior from your mother as rejection. And it seems like that may not have been her reason for doing that. You don't know for sure. But even if it was, which it seems unlikely it would been, that's still just one person.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_039.wav"
+    },
+    {
+      "chunk_number": 40,
+      "start_time": 1059.17,
+      "end_time": 1067.26,
+      "duration": 8.089999999999918,
+      "text": "So even if we just take it to the extreme and say, for some reason, yeah, you know, she didn't think you were worthy, that's just one person's opinion.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_040.wav"
+    },
+    {
+      "chunk_number": 41,
+      "start_time": 1071.26,
+      "end_time": 1073.18,
+      "duration": 1.9200000000000728,
+      "text": "And their opinions are valid too, right?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_041.wav"
+    },
+    {
+      "chunk_number": 42,
+      "start_time": 1075.02,
+      "end_time": 1106.25,
+      "duration": 31.230000000000018,
+      "text": "So if you really look at it, weigh the evidence and look at it logically, the imbalance of the evidence would say that you are worthy. Right. You're not unlovable. But still, in any type of relational situation, there's going to be rejection. So there's potential pain up ahead, but the reward could be you find somebody that you want to be with. And that's really your goal.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_042.wav"
+    },
+    {
+      "chunk_number": 43,
+      "start_time": 1109.05,
+      "end_time": 1116.14,
+      "duration": 7.0900000000001455,
+      "text": "So really, part of this is pushing through a good deal of uncomfortableness, discomfort, right?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_043.wav"
+    },
+    {
+      "chunk_number": 44,
+      "start_time": 1119.1,
+      "end_time": 1119.82,
+      "duration": 0.7200000000000273,
+      "text": "A lot of it.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_044.wav"
+    },
+    {
+      "chunk_number": 45,
+      "start_time": 1134.38,
+      "end_time": 1157.3,
+      "duration": 22.919999999999845,
+      "text": "So let's set up kind of a behavioral experiment. So let's take it one step at a time. Let's say that back to the situation I alluded to earlier. You're in class and there's somebody that's interested in you, sitting next to you, or whoever they are, and they come and initiate a conversation. What's your reaction now? What would you do now?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_045.wav"
+    },
+    {
+      "chunk_number": 46,
+      "start_time": 1178.84,
+      "end_time": 1179.92,
+      "duration": 1.0800000000001546,
+      "text": "You've never reached that step?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_046.wav"
+    },
+    {
+      "chunk_number": 47,
+      "start_time": 1188.4,
+      "end_time": 1191.88,
+      "duration": 3.480000000000018,
+      "text": "Your current reaction is to not look them in the eye, not engage in a discussion.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_047.wav"
+    },
+    {
+      "chunk_number": 48,
+      "start_time": 1192.2,
+      "end_time": 1238.53,
+      "duration": 46.32999999999993,
+      "text": "And just kind of shy away. So the behavioral experiment is to not do that, but instead kind of proactively engage in another behavior, which would be to introduce yourself. So let's just make that the experiment. You seem like you're pretty comfortable and you have some confidence you could do that. Right. And that's not a particularly long amount of time. You're just, just have to get through that introduction. And the worst that they could do if you introduce yourself, I mean, I guess they could reject you at that point, but that seems pretty unlikely. I mean, you're just introducing yourself. Right?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_048.wav"
+    },
+    {
+      "chunk_number": 49,
+      "start_time": 1242.21,
+      "end_time": 1245.97,
+      "duration": 3.759999999999991,
+      "text": "Yeah. That's not a great indicator that they would be a suitable mate. Right.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_049.wav"
+    },
+    {
+      "chunk_number": 50,
+      "start_time": 1246.77,
+      "end_time": 1256.7,
+      "duration": 9.930000000000064,
+      "text": "So you introduce yourself and you're open. I guess the second part would be you're open to whatever conversation comes next.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_050.wav"
+    },
+    {
+      "chunk_number": 51,
+      "start_time": 1258.38,
+      "end_time": 1276.77,
+      "duration": 18.389999999999873,
+      "text": "So you're not committing to anything. Right. You're not committing to an engaged, long engaged social interaction. You're just saying here's my name, what's your name? Or whatever and just see where the conversation goes. So this is, this is really all new?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_051.wav"
+    },
+    {
+      "chunk_number": 52,
+      "start_time": 1297.57,
+      "end_time": 1299.25,
+      "duration": 1.6800000000000637,
+      "text": "So not doing that's embarrassing.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_052.wav"
+    },
+    {
+      "chunk_number": 53,
+      "start_time": 1299.89,
+      "end_time": 1303.41,
+      "duration": 3.519999999999982,
+      "text": "So by doing that you can overcome that embarrassment, but you'll have some anxiety.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_053.wav"
+    },
+    {
+      "chunk_number": 54,
+      "start_time": 1303.85,
+      "end_time": 1304.85,
+      "duration": 1.0,
+      "text": "So there's a trade off.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_054.wav"
+    },
+    {
+      "chunk_number": 55,
+      "start_time": 1305.49,
+      "end_time": 1311.25,
+      "duration": 5.759999999999991,
+      "text": "But my guess is the more you introduce yourself, the less that anxiety will be.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_055.wav"
+    },
+    {
+      "chunk_number": 56,
+      "start_time": 1315.49,
+      "end_time": 1322.77,
+      "duration": 7.279999999999973,
+      "text": "So let's just, let's just start with that. Let's start with that. And when's the next time you'll be in the class?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_056.wav"
+    },
+    {
+      "chunk_number": 57,
+      "start_time": 1325.33,
+      "end_time": 1330.69,
+      "duration": 5.360000000000127,
+      "text": "Okay, next week. So you'll have the opportunity in that class to introduce yourself to who's there?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_057.wav"
+    },
+    {
+      "chunk_number": 58,
+      "start_time": 1333.25,
+      "end_time": 1334.05,
+      "duration": 0.7999999999999545,
+      "text": "You're always early?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_058.wav"
+    },
+    {
+      "chunk_number": 59,
+      "start_time": 1338.25,
+      "end_time": 1348.05,
+      "duration": 9.799999999999955,
+      "text": "So it's good to be early. Okay, so you're always early. And this way, you know, people come in. Right. One at a time, whatever. You can introduce yourself.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_059.wav"
+    },
+    {
+      "chunk_number": 60,
+      "start_time": 1349.17,
+      "end_time": 1359.02,
+      "duration": 9.849999999999909,
+      "text": "And that's really for this first experiment. That and just being open to whatever conversation comes next and just talking.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_060.wav"
+    },
+    {
+      "chunk_number": 61,
+      "start_time": 1363.9,
+      "end_time": 1402.23,
+      "duration": 38.32999999999993,
+      "text": "So try not to borrow any worry into the future past that. Okay. Like, in terms of will they like me? What will they think of me, or the scale. Just focus on the introduction and the conversation and just try to enjoy that. I know there's some anxiety with it, certainly a lot. But try to enjoy that experience and try to look at it as a victory. It's an important step for you to overcome this initial contact fear. So if you can get through that, the possibilities are wide open.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_061.wav"
+    },
+    {
+      "chunk_number": 62,
+      "start_time": 1415.44,
+      "end_time": 1485.4,
+      "duration": 69.96000000000004,
+      "text": "So as you're doing this behavioral experiment, I want you to keep track of some cognitive things, if possible. If you don't, we'll work on it later. But I want you to try to be aware of what you're thinking through the process. Again, if you're not, that's okay. You might be focused on thinking about what they're saying, and that's good. But if you can recollect anything after the fact, like, well, you know, I was thinking that he might not want to talk to me, and he did. Or you're thinking again, like, thoughts of not being lovable, thoughts of unlovability. Keep track of those thoughts. That's secondary to the behavior. Introduce yourself and have the conversation if one happens. But if you can also maybe note some of those thoughts, the best time is right after the conversation's over. Just quickly write them down. Kind of what happened and what you're thinking, and to an extent, to some extent, what you're feeling, if you remember that. And I think it would be good for us to kind of track that as you work to overcome this first step obstacle. That sound good?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_062.wav"
+    },
+    {
+      "chunk_number": 63,
+      "start_time": 1493.8,
+      "end_time": 1495.48,
+      "duration": 1.6800000000000637,
+      "text": "So you're looking forward to it? In a way?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_063.wav"
+    },
+    {
+      "chunk_number": 64,
+      "start_time": 1502.28,
+      "end_time": 1503.8,
+      "duration": 1.5199999999999818,
+      "text": "So you start school next week?",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_064.wav"
+    },
+    {
+      "chunk_number": 65,
+      "start_time": 1505.4,
+      "end_time": 1527.83,
+      "duration": 22.429999999999836,
+      "text": "And I'll see you in a week, and we'll go over kind of what happened from that first day of school. If there's no opportunity, there's not much to talk about. If there was really not many people to talk to, that's fine. I mean, we'll have opportunities later, but try to introduce yourself to those that you see.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_065.wav"
+    },
+    {
+      "chunk_number": 66,
+      "start_time": 1530.39,
+      "end_time": 1536.38,
+      "duration": 5.990000000000009,
+      "text": "Whether you have an interest in them or not. Just to get comfortable with introducing yourself.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_066.wav"
+    },
+    {
+      "chunk_number": 67,
+      "start_time": 1537.58,
+      "end_time": 1542.06,
+      "duration": 4.480000000000018,
+      "text": "So have something to discuss and build upon as you move into your second week of school.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_067.wav"
+    },
+    {
+      "chunk_number": 68,
+      "start_time": 1544.46,
+      "end_time": 1547.38,
+      "duration": 2.9200000000000728,
+      "text": "Okay. So I'll see you in a week, and we'll go from there.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_068.wav"
+    },
+    {
+      "chunk_number": 69,
+      "start_time": 1548.66,
+      "end_time": 1549.02,
+      "duration": 0.35999999999989996,
+      "text": "Thanks.",
+      "chunk_file": "data/chunks/therapist/Xj3q96mCfC8/chunk_therapist_069.wav"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "video_id": "Yv9QS8KJnDE",
+    "source_file": "data/raw/youtube_wavs/Yv9QS8KJnDE.wav",
+    "date_processed": "2025-11-11T17:45:59.790130",
+    "total_duration": 377.731,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.4,
+      "end_time": 28.17,
+      "duration": 13.770000000000001,
+      "text": "So I want to switch gears a little to social relationships. So this would be like romantic partners, friends, co workers, Anybody notable in that realm that you can tell me about?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 31.85,
+      "end_time": 32.25,
+      "duration": 0.3999999999999986,
+      "text": "But.",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 53.66,
+      "end_time": 55.02,
+      "duration": 1.3600000000000065,
+      "text": "How many close friends do you have?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 58.22,
+      "end_time": 62.46,
+      "duration": 4.240000000000002,
+      "text": "One or two? Yeah. And how often do you talk with them?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 67.34,
+      "end_time": 67.9,
+      "duration": 0.5600000000000023,
+      "text": "All right.",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 72.86,
+      "end_time": 74.54,
+      "duration": 1.6800000000000068,
+      "text": "How about any romantic interests?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 102.71,
+      "end_time": 103.83,
+      "duration": 1.1200000000000045,
+      "text": "You were in an accident?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 110.08,
+      "end_time": 122.16,
+      "duration": 12.079999999999998,
+      "text": "All right, we'll get to that in a bit. So you've had some. Some boyfriends? Yeah. And they became annoyed? Yeah. Do you have one now?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 123.72,
+      "end_time": 141.37,
+      "duration": 17.650000000000006,
+      "text": "Not. So I want to switch gears again a little bit and talk about your medical history. Okay. How old are you?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 143.85,
+      "end_time": 147.29,
+      "duration": 3.4399999999999977,
+      "text": "24. Do you have any health problems currently?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 162.18,
+      "end_time": 164.5,
+      "duration": 2.319999999999993,
+      "text": "So tell me about the damage sustained in the car accident.",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 174.58,
+      "end_time": 183.26,
+      "duration": 8.679999999999978,
+      "text": "So you were driving a car and you're under the influence of cocaine and you drove into a car that's parked? Yes. What kind of injuries did you sustain?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 187.58,
+      "end_time": 191.02,
+      "duration": 3.4399999999999977,
+      "text": "You said it still causes you to limp now? Yeah.",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 195.5,
+      "end_time": 200.14,
+      "duration": 4.639999999999986,
+      "text": "In terms of the pain? Yeah. Do you take any medications for the pain?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 210.79,
+      "end_time": 213.19,
+      "duration": 2.4000000000000057,
+      "text": "Okay. Did you have a surgery for that?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 216.39,
+      "end_time": 219.91,
+      "duration": 3.5200000000000102,
+      "text": "Yeah. Any other surgeries or health problems?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 227.67,
+      "end_time": 229.91,
+      "duration": 2.240000000000009,
+      "text": "Sprained your wrist? Mm. Which wrist?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 231.11,
+      "end_time": 235.36,
+      "duration": 4.25,
+      "text": "Right. Okay. What hand is your dominant hand?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 236.4,
+      "end_time": 237.6,
+      "duration": 1.1999999999999886,
+      "text": "Does that affect you at all?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 241.04,
+      "end_time": 257.04,
+      "duration": 16.00000000000003,
+      "text": "Any other health concerns in the past? Currently, no. Nothing. Are any of these problems you mentioned, do you think, tied in with the problems you mentioned earlier, like the anger, marijuana use?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 269.14,
+      "end_time": 281.78,
+      "duration": 12.639999999999986,
+      "text": "Right. So there's some connection there. Maybe, yeah. All right. I want to switch gears again and talk about your mental health history. Okay.",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 285.45,
+      "end_time": 290.49,
+      "duration": 5.0400000000000205,
+      "text": "Clearly you're here today seeking treatment. Have you ever been treated before for mental health conditions?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 300.97,
+      "end_time": 305.93,
+      "duration": 4.9599999999999795,
+      "text": "Post traumatic stress disorder? Yeah. Were you ever diagnosed with that?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 310.28,
+      "end_time": 312.52,
+      "duration": 2.240000000000009,
+      "text": "How long were you treated by the psychiatrist?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 314.92,
+      "end_time": 319.56,
+      "duration": 4.639999999999986,
+      "text": "I honestly don't even know any other mental health professionals.",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 330.52,
+      "end_time": 332.6,
+      "duration": 2.080000000000041,
+      "text": "That's just a one time thing that happened.",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 333.64,
+      "end_time": 334.16,
+      "duration": 0.5200000000000387,
+      "text": "Three times.",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 335.62,
+      "end_time": 348.58,
+      "duration": 12.95999999999998,
+      "text": "Stop going. All right. Any other diagnosis you're aware of in the past? No. You mentioned ptsd, might have been a diagnosis. You're not sure?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 349.3,
+      "end_time": 359.46,
+      "duration": 10.159999999999968,
+      "text": "But nothing else? I'm not sure. All right. How would you characterize your experiences so far with the mental health treatment system?",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 372.51,
+      "end_time": 377.74,
+      "duration": 5.230000000000018,
+      "text": "So, so far, you don't seem like you're impressed. No. Okay.",
+      "chunk_file": "data/chunks/therapist/Yv9QS8KJnDE/chunk_therapist_030.wav"
+    }
+  ]
+}

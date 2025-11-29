@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "video_id": "UxCT6zVPk7A",
+    "source_file": "data/raw/youtube_wavs/UxCT6zVPk7A.wav",
+    "date_processed": "2025-11-11T16:41:49.487447",
+    "total_duration": 616.2,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.72,
+      "end_time": 18.0,
+      "duration": 3.2799999999999994,
+      "text": "Hi, Jason. How you doing today? I'm here. You're good?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 22.08,
+      "end_time": 22.72,
+      "duration": 0.6400000000000006,
+      "text": "You're here?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 24.16,
+      "end_time": 25.28,
+      "duration": 1.120000000000001,
+      "text": "What's been going on?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 46.7,
+      "end_time": 49.34,
+      "duration": 2.6400000000000006,
+      "text": "Do you know what you're charged with?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 58.46,
+      "end_time": 61.94,
+      "duration": 3.479999999999997,
+      "text": "The government? Do you have anybody specific? Nope.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 63.1,
+      "end_time": 63.81,
+      "duration": 0.7100000000000009,
+      "text": "The entire government.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 66.2,
+      "end_time": 70.28,
+      "duration": 4.079999999999998,
+      "text": "How long have they been wanting to do this to you?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 79.32,
+      "end_time": 80.08,
+      "duration": 0.7600000000000051,
+      "text": "Always there.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 93.4,
+      "end_time": 95.0,
+      "duration": 1.5999999999999943,
+      "text": "You've been taking medications?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 114.74,
+      "end_time": 117.78,
+      "duration": 3.0400000000000063,
+      "text": "Do you know what they want to do with that information?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 121.94,
+      "end_time": 122.86,
+      "duration": 0.9200000000000017,
+      "text": "To take over the world.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 147.2,
+      "end_time": 151.12,
+      "duration": 3.920000000000016,
+      "text": "So what can you do in this situation?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 155.28,
+      "end_time": 166.3,
+      "duration": 11.02000000000001,
+      "text": "Well, you say the government's monitoring everything and that they want to put you in jail if you don't take your medication. Do you have any options? Are you stuck?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 181.18,
+      "end_time": 185.26,
+      "duration": 4.079999999999984,
+      "text": "So one option is that being home, being home, you're safe.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 196.68,
+      "end_time": 197.56,
+      "duration": 0.8799999999999955,
+      "text": "Are you safe here?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 208.52,
+      "end_time": 212.48,
+      "duration": 3.9599999999999795,
+      "text": "So it's not safe here. It's not safe out in the world. At home, you're safe at home.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 216.6,
+      "end_time": 222.48,
+      "duration": 5.8799999999999955,
+      "text": "So if you could have your way, you would just stay home most of the time? All the time.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 245.22,
+      "end_time": 250.18,
+      "duration": 4.960000000000008,
+      "text": "So how do you know that they're in the lights? How did you discover that?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 253.74,
+      "end_time": 254.74,
+      "duration": 1.0,
+      "text": "It's common knowledge.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 258.16,
+      "end_time": 263.84,
+      "duration": 5.67999999999995,
+      "text": "Do you ever hear things that other people can't hear or see things other people can't see?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 281.74,
+      "end_time": 282.46,
+      "duration": 0.7199999999999704,
+      "text": "Everybody can hear it.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 282.94,
+      "end_time": 283.98,
+      "duration": 1.0400000000000205,
+      "text": "What's it sound like to you?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 294.06,
+      "end_time": 302.06,
+      "duration": 8.0,
+      "text": "Oh, just making some notes. Just making some progress notes. Is it? Where are you?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 308.56,
+      "end_time": 312.32,
+      "duration": 3.759999999999991,
+      "text": "They get well, this chart will get locked in the chart room down the hall.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 315.92,
+      "end_time": 317.36,
+      "duration": 1.4399999999999977,
+      "text": "Mostly everybody works here.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 324.8,
+      "end_time": 326.48,
+      "duration": 1.6800000000000068,
+      "text": "Does it worry that there's notes?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 359.26,
+      "end_time": 365.18,
+      "duration": 5.920000000000016,
+      "text": "I cannot take notes. What kind of information and notes are you worried that the government's going to get?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 385.62,
+      "end_time": 390.58,
+      "duration": 4.9599999999999795,
+      "text": "So without the protection that your house offers, they could control your mind?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 407.28,
+      "end_time": 426.7,
+      "duration": 19.420000000000016,
+      "text": "All right, so can you tell me about your mood through all this? So this sounds really stressful. You're describing an environment where the government's frequently looking at what you're doing. What are the feelings there? You feel sad or angry?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 428.22,
+      "end_time": 429.1,
+      "duration": 0.8799999999999955,
+      "text": "You feel fine?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_030.wav"
+    },
+    {
+      "chunk_number": 31,
+      "start_time": 440.22,
+      "end_time": 444.18,
+      "duration": 3.9599999999999795,
+      "text": "Kind of resigned that the government's gonna do this.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_031.wav"
+    },
+    {
+      "chunk_number": 32,
+      "start_time": 460.62,
+      "end_time": 465.02,
+      "duration": 4.399999999999977,
+      "text": "Are you worried that something is going to happen that's similar to what happened on the bus?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_032.wav"
+    },
+    {
+      "chunk_number": 33,
+      "start_time": 486.38,
+      "end_time": 495.66,
+      "duration": 9.28000000000003,
+      "text": "So you'll avoid that in the future because it didn't really work. Yes, you weren't able to help them understand what's going on.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_033.wav"
+    },
+    {
+      "chunk_number": 34,
+      "start_time": 510.79,
+      "end_time": 515.39,
+      "duration": 4.599999999999966,
+      "text": "But they weren't open to that idea. No, quite the opposite.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_034.wav"
+    },
+    {
+      "chunk_number": 35,
+      "start_time": 519.11,
+      "end_time": 524.55,
+      "duration": 5.439999999999941,
+      "text": "How are your family relationships? How's that going?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_035.wav"
+    },
+    {
+      "chunk_number": 36,
+      "start_time": 525.83,
+      "end_time": 526.23,
+      "duration": 0.39999999999997726,
+      "text": "Yeah.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_036.wav"
+    },
+    {
+      "chunk_number": 37,
+      "start_time": 537.4,
+      "end_time": 538.68,
+      "duration": 1.2799999999999727,
+      "text": "So you get along with her okay?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_037.wav"
+    },
+    {
+      "chunk_number": 38,
+      "start_time": 540.76,
+      "end_time": 545.96,
+      "duration": 5.2000000000000455,
+      "text": "Yeah. Anybody else you have contact with? Friends, family?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_038.wav"
+    },
+    {
+      "chunk_number": 39,
+      "start_time": 566.54,
+      "end_time": 591.67,
+      "duration": 25.129999999999995,
+      "text": "All right, Jason. Well, I'm sorry to hear that you're under stress. I'm glad to hear you feel like your mood's okay. You're not down or anxious or anything, answering these questions for me, this has been helpful, and I'm going to recommend you continue to see a counselor here, if that's okay. I realize you're court ordered.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_039.wav"
+    },
+    {
+      "chunk_number": 40,
+      "start_time": 594.63,
+      "end_time": 595.51,
+      "duration": 0.8799999999999955,
+      "text": "It could be me.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_040.wav"
+    },
+    {
+      "chunk_number": 41,
+      "start_time": 595.99,
+      "end_time": 597.07,
+      "duration": 1.080000000000041,
+      "text": "Would that make you feel more comfortable?",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_041.wav"
+    },
+    {
+      "chunk_number": 42,
+      "start_time": 600.55,
+      "end_time": 609.03,
+      "duration": 8.480000000000018,
+      "text": "Well, then I'll put on the schedule. We'll set a time up front where I'll see you, let's say, in three days. That works.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_042.wav"
+    },
+    {
+      "chunk_number": 43,
+      "start_time": 611.35,
+      "end_time": 612.47,
+      "duration": 1.1200000000000045,
+      "text": "And we'll go from there.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_043.wav"
+    },
+    {
+      "chunk_number": 44,
+      "start_time": 613.75,
+      "end_time": 614.47,
+      "duration": 0.7200000000000273,
+      "text": "Thanks, Jason.",
+      "chunk_file": "data/chunks/therapist/UxCT6zVPk7A/chunk_therapist_044.wav"
+    }
+  ]
+}

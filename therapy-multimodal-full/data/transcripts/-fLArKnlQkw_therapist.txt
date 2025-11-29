@@ -1,0 +1,113 @@
+THERAPIST-ONLY TRANSCRIPT
+================================================================================
+
+Video ID: -fLArKnlQkw
+Source WAV: data/raw/youtube_wavs/-fLArKnlQkw.wav
+Therapist label: A
+Date: 2025-11-11 16:43:50
+
+[14.0s - 15.2s] (Chunk 001)
+Hi, Jackie. How you doing today?
+
+[18.5s - 27.8s] (Chunk 002)
+I'm okay, thanks for asking. I see that you have signed a release so I could talk to your mother and that she brought you in today.
+
+[29.1s - 30.2s] (Chunk 003)
+What's going on there?
+
+[35.1s - 36.7s] (Chunk 004)
+Your family thinks you have a drinking problem?
+
+[55.9s - 58.3s] (Chunk 005)
+So they ask you to come into the agency?
+
+[64.7s - 69.0s] (Chunk 006)
+Do you. Do you believe that you have a drinking problem?
+
+[76.1s - 77.0s] (Chunk 007)
+You think it's okay?
+
+[80.8s - 83.5s] (Chunk 008)
+Do you mind if I ask you a few questions related to your drinking?
+
+[86.9s - 90.7s] (Chunk 009)
+So how often do you drink now?
+
+[115.0s - 116.1s] (Chunk 010)
+How about on the weekend?
+
+[134.5s - 137.6s] (Chunk 011)
+And how much are you drinking, let's say on the weekend?
+
+[163.2s - 164.4s] (Chunk 012)
+Alright. How about during the week?
+
+[178.9s - 181.9s] (Chunk 013)
+Are you drinking more than you want to?
+
+[202.3s - 203.8s] (Chunk 014)
+So you've tried to cut down before?
+
+[210.9s - 212.6s] (Chunk 015)
+Do you have cravings for alcohol?
+
+[227.5s - 235.2s] (Chunk 016)
+So are you using exclusively alcohol or are there other drugs involved right now?
+
+[245.4s - 247.7s] (Chunk 017)
+So when was the last time you were inpatient?
+
+[254.4s - 261.4s] (Chunk 018)
+Four or five months ago. And at that time you used cocaine?
+
+[266.4s - 268.1s] (Chunk 019)
+And why did you stop using cocaine?
+
+[290.2s - 291.6s] (Chunk 020)
+Do you crave cocaine?
+
+[295.4s - 305.7s] (Chunk 021)
+Just alcohol. How about your work? Are you having any trouble keeping your job or your performance at your job?
+
+[323.8s - 327.6s] (Chunk 022)
+Alright. Any social problems because of the alcohol use?
+
+[357.0s - 362.8s] (Chunk 023)
+So you're having some social problems? Yeah, not so much with your friends a little bit, but more with your family.
+
+[389.1s - 391.2s] (Chunk 024)
+So there have been some. Some problems with the.
+
+[392.9s - 400.5s] (Chunk 025)
+With the friends? Yeah. Have you found that you're engaging in any activities that are physically dangerous because of alcohol?
+
+[424.1s - 437.2s] (Chunk 026)
+Do you find that you have any exacerbation of symptoms that you have already, like, any medical or mental health problems made worse by the alcohol?
+
+[440.2s - 440.7s] (Chunk 027)
+Yeah.
+
+[444.2s - 454.6s] (Chunk 028)
+So did you notice a point after you started drinking when you had to increase the amount that you drank to get the same effect?
+
+[456.4s - 457.3s] (Chunk 029)
+When did that happen?
+
+[471.0s - 476.5s] (Chunk 030)
+When was the last time you noticed that you noticed you had to drink a lot more to get the same effect?
+
+[499.9s - 508.6s] (Chunk 031)
+How about withdrawal? Do you have any symptoms of withdrawal when you stop drinking? Physical symptoms? Anxiety?
+
+[515.5s - 516.1s] (Chunk 032)
+Craving?
+
+[519.4s - 520.1s] (Chunk 033)
+Headache?
+
+[525.2s - 529.4s] (Chunk 034)
+All right. Jackie, are you open to seeing a counselor here at the agency?
+
+[544.4s - 555.3s] (Chunk 035)
+All right, so you'll want to try it out. Yeah, I'll get you scheduled to see a counselor. I want to thank you for telling me about what's going on and for answering my questions. It's been helpful.
+

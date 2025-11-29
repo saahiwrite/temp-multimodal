@@ -1,0 +1,621 @@
+{
+  "metadata": {
+    "video_id": "tBd5VGCKnjA",
+    "source_file": "data/raw/youtube_wavs/tBd5VGCKnjA.wav",
+    "date_processed": "2025-11-12T11:42:08.157382",
+    "total_duration": 1190.174,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.72,
+      "end_time": 15.72,
+      "duration": 1.0,
+      "text": "Elisa, how you doing today?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 17.92,
+      "end_time": 18.56,
+      "duration": 0.639999999999997,
+      "text": "Doing well.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 20.24,
+      "end_time": 21.12,
+      "duration": 0.8800000000000026,
+      "text": "What's going on?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 27.95,
+      "end_time": 29.71,
+      "duration": 1.7600000000000016,
+      "text": "So you have family flying in?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 53.48,
+      "end_time": 56.32,
+      "duration": 2.8400000000000034,
+      "text": "So you have to cross four times?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 58.64,
+      "end_time": 60.96,
+      "duration": 2.3200000000000003,
+      "text": "So what kind of feeling is this bringing up for you?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 66.16,
+      "end_time": 67.56,
+      "duration": 1.4000000000000057,
+      "text": "So you're anxious right here with me?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 69.28,
+      "end_time": 86.53,
+      "duration": 17.25,
+      "text": "So I want to try to scale this and we talked about this before with cognitive therapy. So let's say that 10 is really the most anxious you ever felt about crossing bridges. And one is no anxiety. Where would you be right now?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 90.61,
+      "end_time": 90.97,
+      "duration": 0.35999999999999943,
+      "text": "Eight.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 91.49,
+      "end_time": 92.33,
+      "duration": 0.8400000000000034,
+      "text": "A lot of anxiety.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 100.77,
+      "end_time": 104.73,
+      "duration": 3.960000000000008,
+      "text": "And what's it on that day reaches a 10.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 106.95,
+      "end_time": 111.75,
+      "duration": 4.799999999999997,
+      "text": "All right, so but even now, how far away is the. Until they.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 114.39,
+      "end_time": 118.95,
+      "duration": 4.560000000000002,
+      "text": "So even now, a week out. This is. Nate. This is really hurting.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 122.31,
+      "end_time": 127.19,
+      "duration": 4.8799999999999955,
+      "text": "So for your job and local travel, you don't really have to cross any.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 131.07,
+      "end_time": 131.254,
+      "duration": 0.1839999999999975,
+      "text": "20.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 138.96,
+      "end_time": 139.68,
+      "duration": 0.7199999999999989,
+      "text": "No bridges?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 145.44,
+      "end_time": 146.4,
+      "duration": 0.960000000000008,
+      "text": "That worked out well.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 148.32,
+      "end_time": 166.85,
+      "duration": 18.53,
+      "text": "But coming up, picking up the family you will be crossing. So let's look at this at each stage. Okay. So I mean, you're clearly anxious now, as you mentioned, but let's go to. Let's try to move forward a week to the day that they'll be flying. What time are they flying in?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 168.77,
+      "end_time": 171.93,
+      "duration": 3.1599999999999966,
+      "text": "In the afternoon. So about what time would you have to leave to.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 177.37,
+      "end_time": 177.77,
+      "duration": 0.4000000000000057,
+      "text": "Really.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 196.59,
+      "end_time": 211.55,
+      "duration": 14.960000000000008,
+      "text": "All right, so let's go to that day. Let's go to that day and to that afternoon. So you're still at home. And let's say we're about 15 minutes before you have to get in the car. What are you thinking then?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 234.51,
+      "end_time": 235.71,
+      "duration": 1.200000000000017,
+      "text": "And that's what's going through your mind?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 278.96,
+      "end_time": 300.1,
+      "duration": 21.140000000000043,
+      "text": "It's a big place, a lot going on. So you're sitting at home and 15 minutes before getting the car and you're thinking, I have to do this. But your reasons are positive, like you save money and protect your parents from having to be there alone. So when does the anxiety come in?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 355.52,
+      "end_time": 366.16,
+      "duration": 10.640000000000043,
+      "text": "So you're anxious before you leave and you're starting to think about the bridge. At that point, you're already thinking about it. How about when you get in your car, you start driving toward the bridge?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 384.21,
+      "end_time": 385.53,
+      "duration": 1.3199999999999932,
+      "text": "So you know you're going over one side.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 389.05,
+      "end_time": 391.85,
+      "duration": 2.8000000000000114,
+      "text": "So before that, when you can still exit, what's your anxiety level?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 394.9,
+      "end_time": 395.3,
+      "duration": 0.4000000000000341,
+      "text": "Yeah.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 403.94,
+      "end_time": 406.42,
+      "duration": 2.480000000000018,
+      "text": "It's still high, but it's not maxed out yet.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 410.18,
+      "end_time": 411.7,
+      "duration": 1.5199999999999818,
+      "text": "And how about when you cross through the.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 415.54,
+      "end_time": 427.55,
+      "duration": 12.009999999999991,
+      "text": "So your specific fear as you start to cross this is the Ben Franklin, the first bridge, right. You can go across, is that your car will go off the bridge.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_030.wav"
+    },
+    {
+      "chunk_number": 31,
+      "start_time": 430.03,
+      "end_time": 435.39,
+      "duration": 5.360000000000014,
+      "text": "And when does that. So that's a 10. Anxiety. When does that anxiety start to go away?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_031.wav"
+    },
+    {
+      "chunk_number": 32,
+      "start_time": 462.39,
+      "end_time": 468.31,
+      "duration": 5.920000000000016,
+      "text": "All right, so then you cross the second bridge, the Gerard Point Bridge. You go to the airport. Is your anxiety drop any of those points?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_032.wav"
+    },
+    {
+      "chunk_number": 33,
+      "start_time": 476.68,
+      "end_time": 477.44,
+      "duration": 0.7599999999999909,
+      "text": "It's almost gone.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_033.wav"
+    },
+    {
+      "chunk_number": 34,
+      "start_time": 478.96,
+      "end_time": 482.16,
+      "duration": 3.2000000000000455,
+      "text": "And when do you start thinking about that you're going to have to cross them again?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_034.wav"
+    },
+    {
+      "chunk_number": 35,
+      "start_time": 493.92,
+      "end_time": 494.72,
+      "duration": 0.8000000000000114,
+      "text": "Not going very quickly.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_035.wav"
+    },
+    {
+      "chunk_number": 36,
+      "start_time": 501.25,
+      "end_time": 516.89,
+      "duration": 15.639999999999986,
+      "text": "All right. So you're doing everything you can to keep your car on the bridge, but you're still feeling anxiety, like you're gonna go off the bridge.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_036.wav"
+    },
+    {
+      "chunk_number": 37,
+      "start_time": 518.13,
+      "end_time": 519.93,
+      "duration": 1.7999999999999545,
+      "text": "The whole time until you start really descending.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_037.wav"
+    },
+    {
+      "chunk_number": 38,
+      "start_time": 520.49,
+      "end_time": 521.73,
+      "duration": 1.240000000000009,
+      "text": "And then you feel like you made it.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_038.wav"
+    },
+    {
+      "chunk_number": 39,
+      "start_time": 526.979,
+      "end_time": 527.699,
+      "duration": 0.7199999999999136,
+      "text": "Because the air.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_039.wav"
+    },
+    {
+      "chunk_number": 40,
+      "start_time": 543.779,
+      "end_time": 546.499,
+      "duration": 2.7200000000000273,
+      "text": "So in the lower level, it's not as bad.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_040.wav"
+    },
+    {
+      "chunk_number": 41,
+      "start_time": 558.02,
+      "end_time": 561.7,
+      "duration": 3.6800000000000637,
+      "text": "Are you aware of any time a car would have gone off the bridge?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_041.wav"
+    },
+    {
+      "chunk_number": 42,
+      "start_time": 576.57,
+      "end_time": 578.09,
+      "duration": 1.5199999999999818,
+      "text": "Do you think it's a high risk?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_042.wav"
+    },
+    {
+      "chunk_number": 43,
+      "start_time": 602.58,
+      "end_time": 620.86,
+      "duration": 18.279999999999973,
+      "text": "So you've done some calculations, Geometry. Right. And you conclude that it's not really likely, but it could. It could fly off the. All right. But either way, your anxiety is maxed out on each bridge.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_043.wav"
+    },
+    {
+      "chunk_number": 44,
+      "start_time": 622.1,
+      "end_time": 627.58,
+      "duration": 5.480000000000018,
+      "text": "Now, when you get home, when you get your parents back to. You take them back to your home.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_044.wav"
+    },
+    {
+      "chunk_number": 45,
+      "start_time": 628.63,
+      "end_time": 629.35,
+      "duration": 0.7200000000000273,
+      "text": "How do you feel then?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_045.wav"
+    },
+    {
+      "chunk_number": 46,
+      "start_time": 638.87,
+      "end_time": 644.389,
+      "duration": 5.5190000000000055,
+      "text": "All right, so when you arrive home, you're down to one.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_046.wav"
+    },
+    {
+      "chunk_number": 47,
+      "start_time": 648.55,
+      "end_time": 656.15,
+      "duration": 7.600000000000023,
+      "text": "All right. So going back to the first stage, like when you're getting ready, you were thinking that you have to go.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_047.wav"
+    },
+    {
+      "chunk_number": 48,
+      "start_time": 657.21,
+      "end_time": 660.49,
+      "duration": 3.2799999999999727,
+      "text": "And it would save your parents money.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_048.wav"
+    },
+    {
+      "chunk_number": 49,
+      "start_time": 666.37,
+      "end_time": 666.73,
+      "duration": 0.36000000000001364,
+      "text": "Okay.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_049.wav"
+    },
+    {
+      "chunk_number": 50,
+      "start_time": 680.49,
+      "end_time": 683.29,
+      "duration": 2.7999999999999545,
+      "text": "How important is there safety to you?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_050.wav"
+    },
+    {
+      "chunk_number": 51,
+      "start_time": 688.21,
+      "end_time": 691.25,
+      "duration": 3.0399999999999636,
+      "text": "So, I mean, clearly it sounds like you picked them up before.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_051.wav"
+    },
+    {
+      "chunk_number": 52,
+      "start_time": 693.25,
+      "end_time": 699.01,
+      "duration": 5.759999999999991,
+      "text": "So picking them up is. It's worth all the anxiety?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_052.wav"
+    },
+    {
+      "chunk_number": 53,
+      "start_time": 702.21,
+      "end_time": 702.93,
+      "duration": 0.7199999999999136,
+      "text": "It's tough.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_053.wav"
+    },
+    {
+      "chunk_number": 54,
+      "start_time": 710.7,
+      "end_time": 714.14,
+      "duration": 3.439999999999941,
+      "text": "It's worth it. But you wish that you could do it without anxiety.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_054.wav"
+    },
+    {
+      "chunk_number": 55,
+      "start_time": 723.82,
+      "end_time": 735.43,
+      "duration": 11.6099999999999,
+      "text": "There's no. There's no route without any bridges yet to find. And how long have we had the. The anxiety with driving bridges?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_055.wav"
+    },
+    {
+      "chunk_number": 56,
+      "start_time": 770.54,
+      "end_time": 773.62,
+      "duration": 3.080000000000041,
+      "text": "But it developed along the way somewhere, and it's been with you ever since?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_056.wav"
+    },
+    {
+      "chunk_number": 57,
+      "start_time": 775.66,
+      "end_time": 809.46,
+      "duration": 33.80000000000007,
+      "text": "So I'd like to do what in cognitive therapy, we call a reframe. And actually, you've kind of already done it, but I want to make it a little clearer. So you suffer the anxiety and you suffer it to protect, mostly to protect your parents. So as you're going over the bridge, you're thinking about the automatic thought. We talked about these before. Right. The thought that kind of pops in your mind is, I'm going to fly off the bridge.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_057.wav"
+    },
+    {
+      "chunk_number": 58,
+      "start_time": 812.59,
+      "end_time": 832.71,
+      "duration": 20.120000000000005,
+      "text": "So that seems pretty unlikely. Right. That's not something that maybe, as you talked about geometrically, maybe there's a way that your car could fly the bridge with physics and all, maybe it could happen, but it seems like it would be fairly unlikely.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_058.wav"
+    },
+    {
+      "chunk_number": 59,
+      "start_time": 834.43,
+      "end_time": 877.2,
+      "duration": 42.770000000000095,
+      "text": "So you could challenge that. And this isn't the reframe part, but you could challenge that on Mac Thought, which, with a statement and adaptive response, like, it's pretty unlikely anything's going to happen. That might help a bit to keep applying that. The chances are vastly in your favor, considering how many cars cross that bridge and how many fly off the bridge. I don't know if I've ever heard of a car flying off one of those bridges. But the other, you know, the reframe part is that you're doing this. You're willing to take on the bridges and have this anxiety for the betterment of your parents, for their safety.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_059.wav"
+    },
+    {
+      "chunk_number": 60,
+      "start_time": 880.0,
+      "end_time": 900.25,
+      "duration": 20.25,
+      "text": "So in this whole equation of crossing bridges and anxiety, you're really the good guy in this. You're willing to. You're willing to suffer and overcome fear to make sure your parents are safe.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_060.wav"
+    },
+    {
+      "chunk_number": 61,
+      "start_time": 906.41,
+      "end_time": 914.49,
+      "duration": 8.080000000000041,
+      "text": "Yeah. I mean, and you've thought about before. Like before you leave, you think I really have to pick them up. But you've never really connected it to.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_061.wav"
+    },
+    {
+      "chunk_number": 62,
+      "start_time": 919.54,
+      "end_time": 920.82,
+      "duration": 1.2800000000000864,
+      "text": "Well, into being the good guy.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_062.wav"
+    },
+    {
+      "chunk_number": 63,
+      "start_time": 922.9,
+      "end_time": 923.78,
+      "duration": 0.8799999999999955,
+      "text": "Does that make sense?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_063.wav"
+    },
+    {
+      "chunk_number": 64,
+      "start_time": 937.14,
+      "end_time": 964.95,
+      "duration": 27.81000000000006,
+      "text": "Yeah. You've overcome it before to pick them up. And when you pick up a Paganio, you'll overcome it again and you'll suffer. But the difference here is that that reframe. I want you to apply that reframe when you're feeling that anxiety as you get ready to leave and as you drive toward the bridge, that you're really, you know, you're doing what you feel is right for the good of your family.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_064.wav"
+    },
+    {
+      "chunk_number": 65,
+      "start_time": 967.91,
+      "end_time": 997.28,
+      "duration": 29.370000000000005,
+      "text": "The automatic thought that's going to come in is you're going to fly off the bridge. That's what the anxiety is about. This fear of. And the reframe. In this case, the reframe adaptive response is, I'm doing this for my family. And the probability is pretty low that I'm sorry, if the bridge, that's a separate thing. But the reframe is I'm the hero of this. I think that's a great. You're the hero of this situation.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_065.wav"
+    },
+    {
+      "chunk_number": 66,
+      "start_time": 1003.2,
+      "end_time": 1019.16,
+      "duration": 15.959999999999923,
+      "text": "The whole day just kind of go over that, rather than like something you must do because really you don't have to do it, strictly speaking. Right. I know you feel you have to do it, but you're willing to do it. You're willing to sacrifice and suffer to do it.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_066.wav"
+    },
+    {
+      "chunk_number": 67,
+      "start_time": 1022.41,
+      "end_time": 1045.77,
+      "duration": 23.360000000000014,
+      "text": "And I'd rather that be the theme that you're getting is a positive theme that you're willing to do. It has to be done. It's uncomfortable. You'll survive it, but it's uncomfortable. And focus on that kind of reframe, then focusing on the very low probability or the risk that you're going to fly off the bridge. So that's very low risk.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_067.wav"
+    },
+    {
+      "chunk_number": 68,
+      "start_time": 1049.219,
+      "end_time": 1050.379,
+      "duration": 1.1599999999998545,
+      "text": "Does that Kind of make sense.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_068.wav"
+    },
+    {
+      "chunk_number": 69,
+      "start_time": 1053.779,
+      "end_time": 1080.43,
+      "duration": 26.651000000000067,
+      "text": "So it's not so much being forced to do it, being forced into an anxious situation. You're voluntarily being brave. I know it's hard. It's hard for you. You're saying it's a 10 on the anxiety scale. That's the highest score. Right. So it's hard for you. But the way to look at it maybe would be your doing has to be done. You're too fully good. Your family, they need you.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_069.wav"
+    },
+    {
+      "chunk_number": 70,
+      "start_time": 1088.43,
+      "end_time": 1091.31,
+      "duration": 2.8799999999998818,
+      "text": "Have you ever had any close calls on a bridge or anything?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_070.wav"
+    },
+    {
+      "chunk_number": 71,
+      "start_time": 1141.46,
+      "end_time": 1143.3,
+      "duration": 1.8399999999999181,
+      "text": "So you've always managed to overcome.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_071.wav"
+    },
+    {
+      "chunk_number": 72,
+      "start_time": 1145.54,
+      "end_time": 1160.89,
+      "duration": 15.350000000000136,
+      "text": "And that might be another good automatic thought or adaptive response to. Of that automatic thought is that I've always managed to overcome this, and it hurts, but I've managed to overcome it. Am I kind of taking charge like that and being assertive that might help reduce that automatic thought?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_072.wav"
+    },
+    {
+      "chunk_number": 73,
+      "start_time": 1163.21,
+      "end_time": 1164.65,
+      "duration": 1.4400000000000546,
+      "text": "Do you think you could try that this time?",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_073.wav"
+    },
+    {
+      "chunk_number": 74,
+      "start_time": 1173.61,
+      "end_time": 1179.14,
+      "duration": 5.5300000000002,
+      "text": "Yeah. All right, so I'll see you again in two weeks, which will give you.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_074.wav"
+    },
+    {
+      "chunk_number": 75,
+      "start_time": 1182.02,
+      "end_time": 1186.34,
+      "duration": 4.319999999999936,
+      "text": "And then we'll see how things went with that and we'll move from there.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_075.wav"
+    },
+    {
+      "chunk_number": 76,
+      "start_time": 1187.22,
+      "end_time": 1188.82,
+      "duration": 1.599999999999909,
+      "text": "All right. Thanks, Lisa.",
+      "chunk_file": "data/chunks/therapist/tBd5VGCKnjA/chunk_therapist_076.wav"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+THERAPIST-ONLY TRANSCRIPT
+================================================================================
+
+Video ID: 7FLBpiEEedg
+Source WAV: data/raw/youtube_wavs/7FLBpiEEedg.wav
+Therapist label: A
+Date: 2025-11-11 16:47:26
+
+[14.5s - 15.8s] (Chunk 001)
+Hi, Jessica. How you doing today?
+
+[16.9s - 17.6s] (Chunk 002)
+You okay?
+
+[18.6s - 26.2s] (Chunk 003)
+I understand you've been having some difficulty with some symptoms lately. Yes, you tell me about that.
+
+[65.3s - 71.2s] (Chunk 004)
+So you're having anxiety and a lot of other symptoms, and you're having intrusive memories. Can you tell me about the event?
+
+[102.4s - 105.3s] (Chunk 005)
+Does it keep replaying, that accident?
+
+[107.3s - 111.0s] (Chunk 006)
+Okay, tell me about how you're experiencing that.
+
+[146.4s - 157.4s] (Chunk 007)
+So these times when you're reliving the accident, does something trigger that or does that happen just on its own?
+
+[180.8s - 188.6s] (Chunk 008)
+So this has been causing you clearly causing you distress a lot. Has it been interfering at all with relationships?
+
+[209.2s - 217.4s] (Chunk 009)
+Do you find that your mood's irritable or any anger outbursts all the time? That happens frequently, yeah.
+
+[220.9s - 225.2s] (Chunk 010)
+Do you feel like your behavior has become reckless, like taking more chances?
+
+[231.8s - 243.7s] (Chunk 011)
+Somewhat, yeah. How about your memory of the accent? Is it constant, or does your memory change, like, you lose some of that memory?
+
+[257.0s - 258.2s] (Chunk 012)
+You can't remember any of it?
+
+[262.1s - 264.2s] (Chunk 013)
+So the memory kind of comes and goes.
+
+[268.4s - 270.9s] (Chunk 014)
+Who do you hold responsible for the accident?
+
+[297.1s - 300.0s] (Chunk 015)
+Did the other driver get a ticket for an accident?
+
+[317.6s - 318.9s] (Chunk 016)
+So you still blame yourself?
+
+[322.1s - 334.8s] (Chunk 017)
+How about your emotional state since these symptoms have started? Has it been mostly unhappy or down neutral anytime when you're happy?
+
+[341.6s - 343.4s] (Chunk 018)
+Just your mood's always down?
+
+[347.6s - 359.4s] (Chunk 019)
+How about with driving? Like. So have you been avoiding driving or have you driven since the accident?
+
+[379.5s - 385.4s] (Chunk 020)
+So you're avoiding it, but you have driven. Tell me about the experience when you go to drive.
+
+[399.7s - 401.6s] (Chunk 021)
+Terms of anxiety or what's going on.
+
+[417.6s - 428.7s] (Chunk 022)
+It's very stressful. It is. Do you find that when you are driving that you are more aware of what other cars are doing and what you're doing in your car?
+
+[449.4s - 450.6s] (Chunk 023)
+More aware of your surroundings.
+
+[453.4s - 470.0s] (Chunk 024)
+So when something surprises us, there's a natural response where we're startled. This is called a startle response and everybody has that. Have you noticed that that's changed for you since these symptoms have started?
+
+[473.5s - 474.7s] (Chunk 025)
+How's it changed.
+
+[491.5s - 492.8s] (Chunk 026)
+You find yourself jumping?
+
+[494.2s - 499.3s] (Chunk 027)
+Okay. How about your ability to concentrate? Has that changed at all?
+
+[517.3s - 522.1s] (Chunk 028)
+Alright, how about sleeping? How you doing? Sleep?
+
+[547.5s - 555.4s] (Chunk 029)
+So. A lot of challenges with sleep. Do you use any drugs or alcohol?
+
+[556.2s - 572.4s] (Chunk 030)
+How about medical problems? Nothing like that. Are there times from when these symptoms started when you feel kind of separated from your own body? Like it's like an unreal experience?
+
+[578.9s - 582.8s] (Chunk 031)
+Can you tell me about this? Well.
+
+[666.8s - 668.0s] (Chunk 032)
+This has happened a few times.
+
+[684.4s - 706.8s] (Chunk 033)
+How about a time when you felt like the world became unreal? So you're not detached from your body, but the world becomes unreal or dreamlike or distorted? Have you ever had that happen? No. It's more being separated from your body. More that feeling.
+
+[708.6s - 711.6s] (Chunk 034)
+And you mentioned time slowing down.
+
+[716.1s - 716.8s] (Chunk 035)
+Slow motion?
+
+[729.2s - 733.5s] (Chunk 036)
+Jessica, I'm gonna get you in to see a counselor here, if you're okay with that.
+
+[738.2s - 753.5s] (Chunk 037)
+I appreciate you taking the time to explain these symptoms. I know they're distressing for you and for taking the time to answer my questions, it's been helpful for me to help figure out what's going on and help manage your care.
+
+[756.5s - 757.0s] (Chunk 038)
+Thanks.
+

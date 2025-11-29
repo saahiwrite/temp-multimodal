@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "video_id": "X4OEhMWbSss",
+    "source_file": "data/raw/youtube_wavs/X4OEhMWbSss.wav",
+    "date_processed": "2025-11-11T17:27:53.681375",
+    "total_duration": 745.442,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.4,
+      "end_time": 15.52,
+      "duration": 1.1199999999999992,
+      "text": "Hey, Erica. How you doing today?",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 17.6,
+      "end_time": 38.78,
+      "duration": 21.18,
+      "text": "You're doing good. I was hoping today we could revisit the two chair technique. We used it a few sessions ago, you might remember. And I know in the last sess, I felt like we were kind of getting to a point where we identified a conflict. You know what I'm referring to.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 50.22,
+      "end_time": 77.72,
+      "duration": 27.5,
+      "text": "So we have a part that wants to settle down and a part that wants to keep going with the career. So for this two chair, what I'd like to do is in the chair where you're seated now, this will be the emotional self. In this case, the side that wants to pursue the career.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 79.16,
+      "end_time": 80.56,
+      "duration": 1.4000000000000057,
+      "text": "From what I saw before, that seems.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 82.92,
+      "end_time": 84.64,
+      "duration": 1.7199999999999989,
+      "text": "You're more emotionally connected. That's what you want.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 85.72,
+      "end_time": 98.26,
+      "duration": 12.540000000000006,
+      "text": "So this will be the side of you that has the needs and the wants and more the emotion. Okay. So that's who you. You'll be in this chair. That makes sense.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 99.22,
+      "end_time": 119.22,
+      "duration": 20.0,
+      "text": "In the other chair, let's have that critic that's inside, that internal critic that's advocating for settling down, for getting married, for having kids. In a way, it represents a societal pressure.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 122.18,
+      "end_time": 127.67,
+      "duration": 5.489999999999995,
+      "text": "Do those two sides seem separate to you?",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 132.23,
+      "end_time": 137.11,
+      "duration": 4.880000000000024,
+      "text": "You feel like you can be the emotional self here and the internal critic there?",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 138.83,
+      "end_time": 172.45,
+      "duration": 33.619999999999976,
+      "text": "Okay, so I think you remember how this works. You'll be talking to, in this case, the internal critic. So the internal critic's on the side of settling down, getting married, and then when you're ready to have the critic respond, you'll switch to that chair and respond to the emotional need, driven and wanting side. Make sense? Yeah. Okay, so whenever you're ready, go ahead and speak directly to the internal critic.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 211.84,
+      "end_time": 213.44,
+      "duration": 1.5999999999999943,
+      "text": "So you've made your statement? Yeah. You ready to switch?",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 213.8,
+      "end_time": 216.64,
+      "duration": 2.839999999999975,
+      "text": "Okay. Go ahead, switch. So now you're the internal critic.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 262.21,
+      "end_time": 290.51,
+      "duration": 28.30000000000001,
+      "text": "The internal critic cues in the emotional side, in this case the career side. Being selfish. Now notice your posture. Very linear and you're upright. I notice you kind of put your hand out a little bit when you were talking. Try to think of the internal critic's body movements. Try to act that out a little bit.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 328.7,
+      "end_time": 330.54,
+      "duration": 1.8400000000000318,
+      "text": "You want to jump at the emotional side?",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 333.68,
+      "end_time": 338.64,
+      "duration": 4.9599999999999795,
+      "text": "Alright, so that's the internal critic. Are you ready to respond back to the internal critic from the emotional side?",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 342.44,
+      "end_time": 352.72,
+      "duration": 10.28000000000003,
+      "text": "Okay, so the internal critic is just called you selfish and among other things, this is your response.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 373.42,
+      "end_time": 390.78,
+      "duration": 17.359999999999957,
+      "text": "Let me interrupt you. So your hands are pointing back toward the career emotional self. What can you do with your hands that really embody what you want to communicate to the internal critic? Is there anything else you want to do right now? They are pointing toward you.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 409.51,
+      "end_time": 414.55,
+      "duration": 5.0400000000000205,
+      "text": "So continue and have. Use that motion. You're pushing the internal critic away.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 416.63,
+      "end_time": 417.03,
+      "duration": 0.39999999999997726,
+      "text": "All right.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 442.68,
+      "end_time": 450.55,
+      "duration": 7.8700000000000045,
+      "text": "Does the internal critic have something to say back? No. All right.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 456.39,
+      "end_time": 461.59,
+      "duration": 5.199999999999989,
+      "text": "Okay, so you've now pushed the emotional side, has pushed the critic away.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 504.07,
+      "end_time": 517.51,
+      "duration": 13.439999999999998,
+      "text": "All right, so the internal critic is. Now you have your hands down here as the internal critic. Is the internal critic less angry, less assertive?",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 521.07,
+      "end_time": 521.83,
+      "duration": 0.7599999999999909,
+      "text": "Less pushy.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 541.53,
+      "end_time": 551.29,
+      "duration": 9.759999999999991,
+      "text": "So the critic is more separated now, maybe a little bit, but also has a different outlook, more quiet.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 565.83,
+      "end_time": 569.83,
+      "duration": 4.0,
+      "text": "So the critic has lost some of its vigor and determination.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 573.35,
+      "end_time": 577.55,
+      "duration": 4.199999999999932,
+      "text": "So move back to the emotional and then just face toward me.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 580.47,
+      "end_time": 588.31,
+      "duration": 7.839999999999918,
+      "text": "What have you. What have you gained here through your communication back and forth with the internal critic?",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 628.2,
+      "end_time": 648.36,
+      "duration": 20.159999999999968,
+      "text": "So at the end of this conflict, after we split into the two parts here, the end of this conflict is eventually a decision. It's a decision to pursue a career or settle down. Do you feel you gain more clarity in that decision?",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 663.14,
+      "end_time": 672.02,
+      "duration": 8.879999999999995,
+      "text": "So that's really been your decision all along, but the internal critic was harassing you this whole time?",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 674.34,
+      "end_time": 687.52,
+      "duration": 13.17999999999995,
+      "text": "And today you were able to kind of shove that internal critic back a little and allow that internal critic to see how strongly you feel with the decision you've made.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_030.wav"
+    },
+    {
+      "chunk_number": 31,
+      "start_time": 688.28,
+      "end_time": 689.08,
+      "duration": 0.8000000000000682,
+      "text": "Is that accurate?",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_031.wav"
+    },
+    {
+      "chunk_number": 32,
+      "start_time": 691.04,
+      "end_time": 693.12,
+      "duration": 2.080000000000041,
+      "text": "Do you feel it was helpful technique for you?",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_032.wav"
+    },
+    {
+      "chunk_number": 33,
+      "start_time": 706.24,
+      "end_time": 708.56,
+      "duration": 2.3199999999999363,
+      "text": "So it was able to give you some clarity.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_033.wav"
+    },
+    {
+      "chunk_number": 34,
+      "start_time": 709.52,
+      "end_time": 741.26,
+      "duration": 31.74000000000001,
+      "text": "Right. All right, well, let's. Why don't you reflect on what's happened here between now and the next session? Kind of a lot happened, and it seems like you've gained clarity for your decision. And then we'll pick up with the next session and see how things have progressed with. See if that internal critic is still harassing you or if it kind of stays back and if you have more peace with the decision. That sound like a plan?",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_034.wav"
+    },
+    {
+      "chunk_number": 35,
+      "start_time": 742.46,
+      "end_time": 744.22,
+      "duration": 1.759999999999991,
+      "text": "Thanks, Erica. I'll see you next week.",
+      "chunk_file": "data/chunks/therapist/X4OEhMWbSss/chunk_therapist_035.wav"
+    }
+  ]
+}

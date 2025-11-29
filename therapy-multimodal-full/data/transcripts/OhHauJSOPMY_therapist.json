@@ -1,0 +1,309 @@
+{
+  "metadata": {
+    "video_id": "OhHauJSOPMY",
+    "source_file": "data/raw/youtube_wavs/OhHauJSOPMY.wav",
+    "date_processed": "2025-11-11T17:01:33.053683",
+    "total_duration": 479.295,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.16,
+      "end_time": 15.16,
+      "duration": 1.0,
+      "text": "Hi, Emma. How are you doing today?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 17.28,
+      "end_time": 25.2,
+      "duration": 7.919999999999998,
+      "text": "I'm doing well, thank you for asking. I understand that you've come here today because you've had some symptoms that have been bothering you.",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 35.8,
+      "end_time": 40.12,
+      "duration": 4.32,
+      "text": "You've lost three jobs in the past year? Is it because of the anxiety?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 67.46,
+      "end_time": 86.44,
+      "duration": 18.980000000000004,
+      "text": "Alright. So you have a. You have a system you go through of unplugging different objects in your apartment and you're worried that they're going to cause problem if they're left plugged in.",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 93.16,
+      "end_time": 96.04,
+      "duration": 2.8800000000000097,
+      "text": "So you're afraid that if you leave them plugged in, they'll overheat?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 97.16,
+      "end_time": 99.16,
+      "duration": 2.0,
+      "text": "And your apartment will catch on fire.",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 100.52,
+      "end_time": 104.36,
+      "duration": 3.8400000000000034,
+      "text": "And you have a particular order you go in as you unplug?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 107.24,
+      "end_time": 114.64,
+      "duration": 7.400000000000006,
+      "text": "What happens if you're unplugging the items and you get distracted or something interrupts that?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 122.96,
+      "end_time": 129.44,
+      "duration": 6.480000000000004,
+      "text": "Will you plug the objects back in or how will you do it? For the items that are already unplugged.",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 136.64,
+      "end_time": 138.12,
+      "duration": 1.4800000000000182,
+      "text": "I should go back and plug them in?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 138.56,
+      "end_time": 144.28,
+      "duration": 5.719999999999999,
+      "text": "Unplug them. What's your anxiety level like as you start that process?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 146.52,
+      "end_time": 147.08,
+      "duration": 0.5600000000000023,
+      "text": "Is it?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 148.36,
+      "end_time": 150.12,
+      "duration": 1.759999999999991,
+      "text": "How about toward the end of the process?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 162.04,
+      "end_time": 175.68,
+      "duration": 13.640000000000015,
+      "text": "Okay. So when it comes back, everything's unplugged. So you have to plug everything back in and unplug it and go through the whole process again. It's just pretty distressing.",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 178.16,
+      "end_time": 183.84,
+      "duration": 5.680000000000007,
+      "text": "And you think that this is what led to the problems with employment?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 219.99,
+      "end_time": 222.95,
+      "duration": 2.9599999999999795,
+      "text": "So your employer wasn't happy with that?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 224.23,
+      "end_time": 225.83,
+      "duration": 1.6000000000000227,
+      "text": "And that led to you losing your job?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 227.51,
+      "end_time": 228.55,
+      "duration": 1.0400000000000205,
+      "text": "Are you working now?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 258.57,
+      "end_time": 271.13,
+      "duration": 12.560000000000002,
+      "text": "Wasn't a good fit. All right, so these symptoms have caused you some real problems with employment. And how about with your anxiety level?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 276.41,
+      "end_time": 290.25,
+      "duration": 13.839999999999975,
+      "text": "If we were to put on a scale, like, where 1 was very little anxiety and 10 was the worst anxiety you've ever experienced, what kind of anxiety are you having on a daily basis now?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 293.37,
+      "end_time": 295.05,
+      "duration": 1.6800000000000068,
+      "text": "A 10. So the worst ever?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 297.22,
+      "end_time": 305.54,
+      "duration": 8.319999999999993,
+      "text": "And checking the doors, checking light switches, unplugging everything. This reduces your anxiety for a while.",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 309.14,
+      "end_time": 310.18,
+      "duration": 1.0400000000000205,
+      "text": "But then it comes back.",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 312.98,
+      "end_time": 318.5,
+      "duration": 5.519999999999982,
+      "text": "Is there anything else that you do that helps to reduce the anxiety?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 356.72,
+      "end_time": 359.52,
+      "duration": 2.7999999999999545,
+      "text": "Do you know how long you've had these symptoms?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 366.64,
+      "end_time": 367.76,
+      "duration": 1.1200000000000045,
+      "text": "So sometime.",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 368.8,
+      "end_time": 372.16,
+      "duration": 3.3600000000000136,
+      "text": "Did they start off like they are now or are they different?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 392.54,
+      "end_time": 395.34,
+      "duration": 2.7999999999999545,
+      "text": "Was it the same thing? That it helped reduce anxiety?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 397.66,
+      "end_time": 398.86,
+      "duration": 1.1999999999999886,
+      "text": "Did it cause you any trouble?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 409.43,
+      "end_time": 414.63,
+      "duration": 5.199999999999989,
+      "text": "Were you ever taken somewhere and diagnosed or treated?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_030.wav"
+    },
+    {
+      "chunk_number": 31,
+      "start_time": 422.15,
+      "end_time": 426.55,
+      "duration": 4.400000000000034,
+      "text": "And now it's. Now it's the worst it's ever been.",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_031.wav"
+    },
+    {
+      "chunk_number": 32,
+      "start_time": 430.77,
+      "end_time": 436.21,
+      "duration": 5.439999999999998,
+      "text": "Do you feel like you're able to go back to work with the symptoms the way they are now?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_032.wav"
+    },
+    {
+      "chunk_number": 33,
+      "start_time": 441.41,
+      "end_time": 442.69,
+      "duration": 1.2799999999999727,
+      "text": "Because they're so disruptive.",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_033.wav"
+    },
+    {
+      "chunk_number": 34,
+      "start_time": 446.05,
+      "end_time": 449.09,
+      "duration": 3.0399999999999636,
+      "text": "Have you ever had any medical conditions?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_034.wav"
+    },
+    {
+      "chunk_number": 35,
+      "start_time": 451.01,
+      "end_time": 461.1,
+      "duration": 10.090000000000032,
+      "text": "Nothing. All right. And have you ever used or. Do you use any type of drug or alcohol?",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_035.wav"
+    },
+    {
+      "chunk_number": 36,
+      "start_time": 462.38,
+      "end_time": 477.26,
+      "duration": 14.879999999999995,
+      "text": "None. Emma, I want to thank you for coming in. I'm gonna get you scheduled to see one of our counselors. I appreciate you spending this time with me. It's helped me to understand what you're going through.",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_036.wav"
+    },
+    {
+      "chunk_number": 37,
+      "start_time": 478.46,
+      "end_time": 478.94,
+      "duration": 0.4800000000000182,
+      "text": "Thanks.",
+      "chunk_file": "data/chunks/therapist/OhHauJSOPMY/chunk_therapist_037.wav"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+THERAPIST-ONLY TRANSCRIPT
+================================================================================
+
+Video ID: HIgQKH3Y1VE
+Source WAV: data/raw/youtube_wavs/HIgQKH3Y1VE.wav
+Therapist label: A
+Date: 2025-11-11 16:58:10
+
+[15.4s - 16.6s] (Chunk 001)
+Hi, Sarah. How are you doing today?
+
+[22.1s - 27.2s] (Chunk 002)
+Doing okay. I understand you have some symptoms that have been bothering you.
+
+[57.6s - 67.5s] (Chunk 003)
+About seven or eight months, yeah. Would you say that this anxiety has been affecting you more days than it doesn't?
+
+[75.8s - 84.2s] (Chunk 004)
+More often than not, yeah. Do you find yourself struggling to control the anxiety? Um.
+
+[91.3s - 94.6s] (Chunk 005)
+So it sounds like you are struggling to take it under control.
+
+[97.9s - 102.3s] (Chunk 006)
+Tell me about how it's been affecting. You mentioned school.
+
+[145.9s - 147.1s] (Chunk 007)
+Really distressing for you.
+
+[147.8s - 149.8s] (Chunk 008)
+And that's at school. How about at home?
+
+[182.7s - 184.7s] (Chunk 009)
+So a good deal of worrying.
+
+[185.9s - 199.0s] (Chunk 010)
+All the time. Okay. So I want to ask you a few questions about this and some that might be related. Do you drink or use any drugs?
+
+[199.9s - 203.4s] (Chunk 011)
+Not at all. Do you have any medical conditions?
+
+[204.5s - 214.1s] (Chunk 012)
+Nothing. Have you ever been diagnosed with any other mental health disorders? No, none. Do you ever have panic attacks?
+
+[215.8s - 222.8s] (Chunk 013)
+Have you ever had one in the past? No. No. No. So a lot of anxiety, but no panic?
+
+[227.4s - 228.4s] (Chunk 014)
+Intense anxiety?
+
+[229.0s - 233.1s] (Chunk 015)
+But never a situation where you felt you had to flee from a room or anything like that?
+
+[235.1s - 236.3s] (Chunk 016)
+Any past trauma?
+
+[238.1s - 244.7s] (Chunk 017)
+Okay. Do you sometimes feel keyed up, on edge, or restless?
+
+[249.6s - 255.5s] (Chunk 018)
+Do you find yourself easily fatigued, tired all the time. Tired all the time?
+
+[257.2s - 261.3s] (Chunk 019)
+Do you have any trouble concentrating or finding your mind going blank?
+
+[262.6s - 262.9s] (Chunk 020)
+No.
+
+[264.7s - 268.5s] (Chunk 021)
+How about irritability? You find yourself irritable?
+
+[271.3s - 272.6s] (Chunk 022)
+Any muscle tension?
+
+[274.2s - 274.6s] (Chunk 023)
+No.
+
+[277.0s - 285.6s] (Chunk 024)
+How about any trouble sleeping? So this would be falling asleep, staying asleep, having unsatisfying sleep, anything like that?
+
+[298.1s - 302.4s] (Chunk 025)
+So you think that might be causing your sleep disturbance?
+
+[314.4s - 315.9s] (Chunk 026)
+How about before you moved there?
+
+[321.1s - 325.1s] (Chunk 027)
+How long ago was it that you moved to the foyer now?
+
+[327.8s - 328.5s] (Chunk 028)
+A couple years?
+
+[329.3s - 331.8s] (Chunk 029)
+So you've had this noise at night for a couple years?
+
+[332.9s - 334.3s] (Chunk 030)
+Symptoms started eight months ago?
+
+[348.1s - 364.0s] (Chunk 031)
+Okay. How about any vacations or anything? No vacations, huh? All right, so you've pretty much been sleeping at your home every night for as long as these symptoms have been around.
+
+[364.7s - 377.2s] (Chunk 032)
+Yeah. All right. All right, Sarah, I appreciate you answering these questions for me. This has been helpful. I'm gonna get you scheduled with a counselor, and they should be able to see you in a couple days.
+
+[382.9s - 385.3s] (Chunk 033)
+Absolutely. Take care, Sarah.
+

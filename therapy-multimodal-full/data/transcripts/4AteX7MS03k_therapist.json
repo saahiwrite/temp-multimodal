@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "video_id": "4AteX7MS03k",
+    "source_file": "data/raw/youtube_wavs/4AteX7MS03k.wav",
+    "date_processed": "2025-11-11T16:57:43.338577",
+    "total_duration": 419.109,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.8,
+      "end_time": 16.0,
+      "duration": 1.1999999999999993,
+      "text": "Hi, Sarah. How you doing today?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 20.24,
+      "end_time": 21.28,
+      "duration": 1.0400000000000027,
+      "text": "You're hanging in there?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 22.0,
+      "end_time": 26.56,
+      "duration": 4.559999999999999,
+      "text": "I understand you've been having some symptoms that have been bothering you. Can you tell me about those?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 62.54,
+      "end_time": 70.94,
+      "duration": 8.399999999999999,
+      "text": "So a lot of. Lot of worrying. And how many days would you say you worry in a typical week?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 94.61,
+      "end_time": 96.05,
+      "duration": 1.4399999999999977,
+      "text": "It's very distressing for you.",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 97.73,
+      "end_time": 100.77,
+      "duration": 3.039999999999992,
+      "text": "And you mentioned it's impacting school.",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 132.31,
+      "end_time": 135.19,
+      "duration": 2.8799999999999955,
+      "text": "So both at school and at home?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 136.71,
+      "end_time": 139.69,
+      "duration": 2.9799999999999898,
+      "text": "You find it difficult to control the anxiety?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 142.97,
+      "end_time": 144.73,
+      "duration": 1.759999999999991,
+      "text": "That'S affecting in a major way.",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 147.05,
+      "end_time": 155.85,
+      "duration": 8.799999999999983,
+      "text": "I'm going to ask you some other questions that may be tied in with this. Okay. Do you use any alcohol or drugs?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 157.69,
+      "end_time": 158.09,
+      "duration": 0.4000000000000057,
+      "text": "Some.",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 169.04,
+      "end_time": 170.8,
+      "duration": 1.7600000000000193,
+      "text": "Control, but it's under control.",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 171.76,
+      "end_time": 173.68,
+      "duration": 1.920000000000016,
+      "text": "How often would you say you drink?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 177.92,
+      "end_time": 180.8,
+      "duration": 2.880000000000024,
+      "text": "Yeah. And how much would you say you drink?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 187.76,
+      "end_time": 190.12,
+      "duration": 2.3600000000000136,
+      "text": "Okay, how about the drug?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 196.28,
+      "end_time": 197.32,
+      "duration": 1.039999999999992,
+      "text": "So just now and then.",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 200.84,
+      "end_time": 208.04,
+      "duration": 7.199999999999989,
+      "text": "A couple times a week. All right. Have you ever had a panic attack?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 209.24,
+      "end_time": 215.96,
+      "duration": 6.719999999999999,
+      "text": "No. Have you ever had any trauma in your history?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 241.48,
+      "end_time": 247.33,
+      "duration": 5.850000000000023,
+      "text": "So she's. She's been on your mind and when you think about her, what's the feeling that comes up?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 262.21,
+      "end_time": 266.69,
+      "duration": 4.480000000000018,
+      "text": "All right, so when you're thinking about her, you're having some worry.",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 270.45,
+      "end_time": 271.81,
+      "duration": 1.3600000000000136,
+      "text": "That's been distressing you?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 275.4,
+      "end_time": 287.56,
+      "duration": 12.160000000000025,
+      "text": "All right, so I'm going to ask you some different symptoms and let me know if you've had these symptoms as part of what's going on now. Okay. Do you feel restless, keyed up or on edge?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 292.28,
+      "end_time": 297.16,
+      "duration": 4.880000000000052,
+      "text": "All right, how about. Do you feel like you get tired easily?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 299.37,
+      "end_time": 300.01,
+      "duration": 0.6399999999999864,
+      "text": "All the time?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 303.69,
+      "end_time": 308.17,
+      "duration": 4.480000000000018,
+      "text": "How about. Do you find your mind going blank or having trouble concentrating?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 317.65,
+      "end_time": 325.71,
+      "duration": 8.060000000000002,
+      "text": "Trouble concentrating. Have you noticed that your more irritable?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 330.51,
+      "end_time": 331.91,
+      "duration": 1.400000000000034,
+      "text": "Cranky. So maybe a little bit.",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 334.83,
+      "end_time": 340.99,
+      "duration": 6.160000000000025,
+      "text": "Okay. Now you mentioned you're tense all the time. Is that like a muscle tension?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 351.36,
+      "end_time": 354.4,
+      "duration": 3.0399999999999636,
+      "text": "Okay. And tell me about your sleep.",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 366.8,
+      "end_time": 371.52,
+      "duration": 4.71999999999997,
+      "text": "So you have difficulty falling asleep. How about once you fall asleep, do you stay asleep?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_030.wav"
+    },
+    {
+      "chunk_number": 31,
+      "start_time": 396.98,
+      "end_time": 399.58,
+      "duration": 2.599999999999966,
+      "text": "So sleep has been a big, big problem for you.",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_031.wav"
+    },
+    {
+      "chunk_number": 32,
+      "start_time": 402.35,
+      "end_time": 408.15,
+      "duration": 5.7999999999999545,
+      "text": "Sarah, I'd like to get you in to see a counselor. I can probably get you in to see one in just a couple days, if that's okay.",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_032.wav"
+    },
+    {
+      "chunk_number": 33,
+      "start_time": 410.03,
+      "end_time": 410.83,
+      "duration": 0.8000000000000114,
+      "text": "Would that be helpful?",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_033.wav"
+    },
+    {
+      "chunk_number": 34,
+      "start_time": 411.71,
+      "end_time": 416.27,
+      "duration": 4.560000000000002,
+      "text": "And I want to thank you for answering these questions for me. This has been really helpful.",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_034.wav"
+    },
+    {
+      "chunk_number": 35,
+      "start_time": 417.709,
+      "end_time": 418.51,
+      "duration": 0.8009999999999877,
+      "text": "Thanks, Sarah.",
+      "chunk_file": "data/chunks/therapist/4AteX7MS03k/chunk_therapist_035.wav"
+    }
+  ]
+}

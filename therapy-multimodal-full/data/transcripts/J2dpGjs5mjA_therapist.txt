@@ -1,0 +1,95 @@
+THERAPIST-ONLY TRANSCRIPT
+================================================================================
+
+Video ID: J2dpGjs5mjA
+Source WAV: data/raw/youtube_wavs/J2dpGjs5mjA.wav
+Therapist label: A
+Date: 2025-11-11 16:57:17
+
+[14.3s - 15.4s] (Chunk 001)
+Hi, Sarah, how you doing today?
+
+[20.1s - 21.1s] (Chunk 002)
+You doing all right today?
+
+[23.4s - 31.3s] (Chunk 003)
+I understand that you've been having some symptoms and that's what has brought you into our agency. Could you tell me about that?
+
+[34.3s - 35.0s] (Chunk 004)
+A lot of worry?
+
+[41.3s - 43.3s] (Chunk 005)
+Maybe about four or five months.
+
+[67.4s - 73.9s] (Chunk 006)
+All right, so a lot of worry. Some are at four or five or six months.
+
+[77.3s - 84.4s] (Chunk 007)
+Have you had this worry more days than you haven't had it in that last four to six months?
+
+[93.3s - 94.1s] (Chunk 008)
+Not quite sure.
+
+[97.4s - 100.5s] (Chunk 009)
+Do you find the worry difficult to control.
+
+[108.3s - 122.2s] (Chunk 010)
+So I'm going to ask you some questions related to this. Let me know if you've experienced these symptoms. Do you feel restless, keyed up or on edge?
+
+[124.2s - 127.5s] (Chunk 011)
+Okay, how about, are you easily tired?
+
+[130.6s - 131.5s] (Chunk 012)
+Yeah, all the time.
+
+[132.4s - 136.0s] (Chunk 013)
+You have trouble concentrating or finding your mind going blank?
+
+[141.3s - 145.4s] (Chunk 014)
+Okay. Do you find that you've been irritable?
+
+[148.3s - 149.7s] (Chunk 015)
+Any muscle tension?
+
+[152.5s - 154.1s] (Chunk 016)
+And tell me about how you've been sleeping.
+
+[167.1s - 170.1s] (Chunk 017)
+Do you drink alcohol or use any drugs?
+
+[170.9s - 174.0s] (Chunk 018)
+No. Have you ever had a panic attack?
+
+[174.9s - 176.1s] (Chunk 019)
+Any trauma in your history?
+
+[176.8s - 178.4s] (Chunk 020)
+Any mental health disorders at all?
+
+[182.0s - 185.8s] (Chunk 021)
+You find the symptoms very distressing?
+
+[187.9s - 190.5s] (Chunk 022)
+Yes. In what areas are they distressing?
+
+[196.4s - 197.1s] (Chunk 023)
+School's okay.
+
+[199.8s - 200.9s] (Chunk 024)
+Wow. Very good.
+
+[206.9s - 209.0s] (Chunk 025)
+How about when you go out with friends?
+
+[213.8s - 223.8s] (Chunk 026)
+Is there something specific to your home environment you think might be contributing to this? Because you don't have it at school, you don't have it socially? Eh.
+
+[226.9s - 233.6s] (Chunk 027)
+Some problems here and there. Nothing you could isolate as maybe causing.
+
+[239.4s - 256.2s] (Chunk 028)
+Nothing you can't work through. All right, Sarah, I'm gonna get you in to see one of our counselors, if that's okay with you. Just take a couple days for you to get in, get an appointment set, and for you to get in. Is that okay?
+
+[258.6s - 264.6s] (Chunk 029)
+Okay, I'll get that set up. And I want to thank you for answering these questions. This has been really helpful to me.
+

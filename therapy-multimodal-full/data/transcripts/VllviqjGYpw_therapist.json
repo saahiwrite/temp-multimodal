@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "video_id": "VllviqjGYpw",
+    "source_file": "data/raw/youtube_wavs/VllviqjGYpw.wav",
+    "date_processed": "2025-11-11T16:54:26.967567",
+    "total_duration": 350.784,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.48,
+      "end_time": 15.68,
+      "duration": 1.1999999999999993,
+      "text": "Hi, Sherry. How you doing today?",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 17.04,
+      "end_time": 24.8,
+      "duration": 7.760000000000002,
+      "text": "You? Doing okay? I understand you haven't been feeling too well lately. You've had some symptoms. Can you tell me what's going on?",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 37.43,
+      "end_time": 37.91,
+      "duration": 0.4799999999999969,
+      "text": "It's.",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 43.91,
+      "end_time": 45.63,
+      "duration": 1.720000000000006,
+      "text": "Little things are really irritating you?",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 46.23,
+      "end_time": 48.03,
+      "duration": 1.8000000000000043,
+      "text": "For last week?",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 50.15,
+      "end_time": 52.07,
+      "duration": 1.9200000000000017,
+      "text": "This is the first time this has happened.",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 54.16,
+      "end_time": 62.16,
+      "duration": 8.0,
+      "text": "Yeah. So tell me about the irritation. What kind of things have been.",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 116.42,
+      "end_time": 124.74,
+      "duration": 8.319999999999993,
+      "text": "Alright, so you're really, you're really irritated and you feel like these irritating events are distracting you.",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 126.74,
+      "end_time": 130.26,
+      "duration": 3.519999999999996,
+      "text": "Do you feel like your thoughts are racing?",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 160.96,
+      "end_time": 168.08,
+      "duration": 7.1200000000000045,
+      "text": "Have you found, you mentioned work? Have you found that you're more oriented toward getting goals completed?",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 173.28,
+      "end_time": 181.64,
+      "duration": 8.359999999999985,
+      "text": "No. Do you find yourself talking more or feeling like you should talk more? No, nothing like that.",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 187.12,
+      "end_time": 191.2,
+      "duration": 4.079999999999984,
+      "text": "How's your sleep been? Fine.",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 209.56,
+      "end_time": 210.72,
+      "duration": 1.1599999999999966,
+      "text": "So your sleep's been okay?",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 214.54,
+      "end_time": 220.3,
+      "duration": 5.760000000000019,
+      "text": "Have you noticed that you're at all down or, like, have depressed mood or anything like that?",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 223.58,
+      "end_time": 231.42,
+      "duration": 7.839999999999975,
+      "text": "No. Are you still finding activities that were pleasurable to be pleasurable now?",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 254.33,
+      "end_time": 271.21,
+      "duration": 16.879999999999967,
+      "text": "Any changes your appetite? No. How about any feelings of worthlessness? No, nothing like that. You mentioned that you're being distracted easily. That's affecting your concentration.",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 275.89,
+      "end_time": 282.49,
+      "duration": 6.600000000000023,
+      "text": "A little bit. Do you have any thoughts regarding death or dying?",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 283.77,
+      "end_time": 293.61,
+      "duration": 9.840000000000032,
+      "text": "Like that. And this irritable mood has been bothering you at work and you mentioned driving home any other places?",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 315.63,
+      "end_time": 349.92,
+      "duration": 34.29000000000002,
+      "text": "Any drug or alcohol usage recently? Nothing. Have you ever seen or heard things other people can't see her here? No, that's never happened. Okay. I'd like to get you in to see somebody today, if that's okay. We have a counselor that's available that can talk to you some more about this. Would that be all right? So I'll get that arranged. And I want to thank you for answering these questions. This has been helpful.",
+      "chunk_file": "data/chunks/therapist/VllviqjGYpw/chunk_therapist_019.wav"
+    }
+  ]
+}

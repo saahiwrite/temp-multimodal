@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "video_id": "dbqFCbXxwb0",
+    "source_file": "data/raw/youtube_wavs/dbqFCbXxwb0.wav",
+    "date_processed": "2025-11-11T16:46:46.215245",
+    "total_duration": 430.51,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.96,
+      "end_time": 16.08,
+      "duration": 1.1199999999999974,
+      "text": "Hi, Jackie. How you doing today?",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 17.44,
+      "end_time": 18.16,
+      "duration": 0.7199999999999989,
+      "text": "You all right?",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 20.88,
+      "end_time": 25.6,
+      "duration": 4.720000000000002,
+      "text": "Having a rough time. I understand there have been some difficulties lately that brought you into the agency.",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 26.08,
+      "end_time": 26.96,
+      "duration": 0.8800000000000026,
+      "text": "Tell me what's going on.",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 81.48,
+      "end_time": 93.8,
+      "duration": 12.319999999999993,
+      "text": "And what did you notice right away? So one of the boxers was. Sounds like knocked out. You saw that? What did you notice right away? What was happening?",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 120.42,
+      "end_time": 124.58,
+      "duration": 4.159999999999997,
+      "text": "Alright, so you left and the symptoms, they continued?",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 146.0,
+      "end_time": 147.04,
+      "duration": 1.039999999999992,
+      "text": "What kind of problems?",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 171.26,
+      "end_time": 181.42,
+      "duration": 10.159999999999997,
+      "text": "All right. Do you find that you're having memories of the incident at the boxing match that are kind of intrusive?",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 184.86,
+      "end_time": 186.3,
+      "duration": 1.4399999999999977,
+      "text": "And it's bothersome for you?",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 195.64,
+      "end_time": 203.56,
+      "duration": 7.920000000000016,
+      "text": "And you try, but yeah, the memories stay there. Any dreams related to the.",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 205.88,
+      "end_time": 206.28,
+      "duration": 0.4000000000000057,
+      "text": "No.",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 210.84,
+      "end_time": 215.96,
+      "duration": 5.1200000000000045,
+      "text": "Any times when you feel like you're reliving what you saw, like you're seeing it again?",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 220.84,
+      "end_time": 232.74,
+      "duration": 11.900000000000006,
+      "text": "You think about it? Mm. Is anything reminding you of the boxing match and then that's causing you to have symptoms?",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 268.33,
+      "end_time": 272.41,
+      "duration": 4.080000000000041,
+      "text": "Do you find yourself working to avoid, like, music that was similar?",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 288.79,
+      "end_time": 292.87,
+      "duration": 4.079999999999984,
+      "text": "Do you find that you've had any trouble remembering what happened?",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 298.63,
+      "end_time": 299.75,
+      "duration": 1.1200000000000045,
+      "text": "It's pretty clear to you?",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 303.59,
+      "end_time": 306.39,
+      "duration": 2.8000000000000114,
+      "text": "Have you been irritable at all since the.",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 334.45,
+      "end_time": 342.49,
+      "duration": 8.04000000000002,
+      "text": "How about your awareness level of what's around you? Do you find that your awareness level has increased, that you're. You're more aware?",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 395.26,
+      "end_time": 398.9,
+      "duration": 3.6399999999999864,
+      "text": "So you feel like your reaction to that was stronger than it normally would have been.",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 402.86,
+      "end_time": 405.82,
+      "duration": 2.9599999999999795,
+      "text": "Have you used drugs or alcohol recently?",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 406.7,
+      "end_time": 418.54,
+      "duration": 11.840000000000032,
+      "text": "No. Any medical problems? No. So, Jackie, I'm going to get you in to see a counselor here at the agency, if that's something that you're okay with.",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 420.38,
+      "end_time": 428.19,
+      "duration": 7.810000000000002,
+      "text": "All right. Just take a couple days to get you on the. To get you in to see somebody to get you on the schedule and get you in to see somebody, and I'll get that arranged.",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 429.43,
+      "end_time": 429.91,
+      "duration": 0.4800000000000182,
+      "text": "Thanks.",
+      "chunk_file": "data/chunks/therapist/dbqFCbXxwb0/chunk_therapist_023.wav"
+    }
+  ]
+}

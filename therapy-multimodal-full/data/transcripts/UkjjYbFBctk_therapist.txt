@@ -1,0 +1,77 @@
+THERAPIST-ONLY TRANSCRIPT
+================================================================================
+
+Video ID: UkjjYbFBctk
+Source WAV: data/raw/youtube_wavs/UkjjYbFBctk.wav
+Therapist label: A
+Date: 2025-11-11 16:51:44
+
+[14.2s - 15.4s] (Chunk 001)
+Hi, Sherry. How you doing today?
+
+[17.4s - 31.5s] (Chunk 002)
+I'm doing well, thanks for asking. So you're doing great. I noticed today your brother brought you in and he had some concerns about how your mood has been.
+
+[68.1s - 80.0s] (Chunk 003)
+Alright, so you're feeling. You're feeling pretty good and you have been for about a week. Yeah. All right. Have you. Do you feel like your sleep habits have changed?
+
+[112.0s - 117.7s] (Chunk 004)
+Alright, so you're sleeping less, but you don't feel tired at all? You feel okay?
+
+[119.7s - 125.2s] (Chunk 005)
+Do you find yourself more easily distracted by anything, things around you?
+
+[126.1s - 132.3s] (Chunk 006)
+No, Nothing like that. You mentioned you get a lot of things done at work. How about at home?
+
+[160.0s - 171.8s] (Chunk 007)
+So you're accomplishing. You're accomplishing a lot now. When your brother brought you in, he had mentioned some shopping and that's one of the things he was concerned about.
+
+[237.7s - 239.9s] (Chunk 008)
+You remember how much you spent?
+
+[259.0s - 263.7s] (Chunk 009)
+Do you feel like you spent more than you usually would spend on a trip to the mall?
+
+[281.2s - 286.1s] (Chunk 010)
+Alright. Have you ever had a time in the past when you felt this way, where you felt really good?
+
+[294.9s - 300.6s] (Chunk 011)
+Life's falling into place. So you're feeling pretty good. You feel like things are going your way?
+
+[301.4s - 309.2s] (Chunk 012)
+You're getting a lot accomplished. Any sadness or anything like that recently?
+
+[310.0s - 330.0s] (Chunk 013)
+No. Any change in appetite? You seem to have a good amount of energy. Any feelings of worthlessness? No, nothing. Any thoughts of death or dying? No. Drug and alcohol use?
+
+[331.4s - 332.7s] (Chunk 014)
+How about medical conditions?
+
+[333.6s - 340.1s] (Chunk 015)
+None. Have you ever had a time in the past when you felt depressed?
+
+[343.4s - 343.9s] (Chunk 016)
+Yeah.
+
+[359.3s - 360.2s] (Chunk 017)
+It's a new you.
+
+[361.0s - 369.0s] (Chunk 018)
+So do you know what happened with the depression in the past? Like, did you end up in the hospital or being treated in some other way?
+
+[372.6s - 373.7s] (Chunk 019)
+There's just no treatment.
+
+[384.5s - 386.0s] (Chunk 020)
+But you believe you were depressed?
+
+[388.6s - 398.3s] (Chunk 021)
+Now or back then, did you see or hear things that other people couldn't see or hear? No, not now or back then.
+
+[402.4s - 420.6s] (Chunk 022)
+All right, Sherry, answering these questions has been helpful to me. I appreciate it. I'm gonna get you over to see a counselor in just a few moments, okay? I know that you're feeling pretty good, but I'd like them to talk to you for just a bit, okay? Is that okay?
+
+[421.0s - 422.3s] (Chunk 023)
+All right. Thanks, Sherry.
+

@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "video_id": "VXJy0X0OZtI",
+    "source_file": "data/raw/youtube_wavs/VXJy0X0OZtI.wav",
+    "date_processed": "2025-11-11T17:07:02.582125",
+    "total_duration": 889.406,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 0.88,
+      "end_time": 2.0,
+      "duration": 1.12,
+      "text": "Hi, I'm Kendall Binion.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 3.56,
+      "end_time": 7.28,
+      "duration": 3.72,
+      "text": "Current doctoral candidates at the University of Wyoming Clinical Psychology program.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 13.28,
+      "end_time": 24.48,
+      "duration": 11.200000000000001,
+      "text": "This is such a big important topic to talk about because adolescent depression affects so many people and it affects so many different aspects of people's lives, such as with family, friends, work, school and so much more.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 32.89,
+      "end_time": 45.37,
+      "duration": 12.479999999999997,
+      "text": "And that's that evidence based treatment, which pretty much means that research shows that it works. So what is depression and how do you know if you or a loved one or your teen has depression or is just going through something? That kind of looks like it.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 59.63,
+      "end_time": 79.71,
+      "duration": 20.07999999999999,
+      "text": "And depression can look very different for each person. It's very individualized. In this video, we're going to cover kind of the common symptoms of depression, things that you can kind of look out for. We're also going to talk about how to find a therapist in your area, things to look out for when looking for a therapist, as well as what a typical course of treatment looks like.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 108.41,
+      "end_time": 127.89,
+      "duration": 19.480000000000004,
+      "text": "You know, this is a really important topic and it's also very common in adolescents. In fact, some 7% of adolescents meet criteria for depression. That's huge, right? That's equivalent to 1 in 14 adolescents each year meet criteria for adolescents. And the Median age is 13 to 14 years old.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 135.01,
+      "end_time": 143.99,
+      "duration": 8.980000000000018,
+      "text": "Well, one of the best things that we recommend is going to visit effectivechildtherapies.org luckily though, we've already done the work for you because we're that nice.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 187.89,
+      "end_time": 195.58,
+      "duration": 7.690000000000026,
+      "text": "So by therapy, do you mean me going laying on a couch while some old guy takes notes on a tiny notepad and talks about. Have to talk about my childhood?",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 206.38,
+      "end_time": 209.18,
+      "duration": 2.8000000000000114,
+      "text": "So if it's not on the couch, then where is it?",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 241.15,
+      "end_time": 255.15,
+      "duration": 14.0,
+      "text": "Exactly. So let's talk about a typical setup for CBT and what it kind of looks like treatment. Even though I said it was kind of different for every individual, typically sessions last anywhere from six to 20 sessions.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 264.99,
+      "end_time": 285.49,
+      "duration": 20.5,
+      "text": "Uh, no, actually, as I just said, treatment usually lasts six to 20 sessions. But here in our clinic, it's actually kind of even smaller. Usually sessions last 12 to 15 sessions, usually meeting about 50 minutes once a week. So, you know, it's very manageable. It's time oriented.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 310.35,
+      "end_time": 322.71,
+      "duration": 12.359999999999957,
+      "text": "And for the clinician, it's also very effective because we're having to constantly re evaluate and look at the progress that the client is making to make sure that they're on the right track and meeting that kind of deadline and that, you know, time push.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 340.9,
+      "end_time": 349.78,
+      "duration": 8.879999999999995,
+      "text": "Yeah. And with that kind of goal oriented, you know, direction that CBT has, one of the things that we also like to do with CBT is assign homework.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 353.62,
+      "end_time": 374.53,
+      "duration": 20.909999999999968,
+      "text": "I did, yes. But keep in mind, even though it might seem a little tedious, it's pretty easy to follow. And we're asking you to do things to reinforce those skills that we're talking about. So things. Talking like, or looking at things like, you know, looking at your behavior over the past week, kind of keeping track of what your thoughts and feelings are for that week. So nothing too major. Yeah.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 385.63,
+      "end_time": 386.27,
+      "duration": 0.6399999999999864,
+      "text": "Absolutely.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 438.01,
+      "end_time": 482.33,
+      "duration": 44.31999999999999,
+      "text": "That's awesome. Yeah. Typically, CBT starts with one to three sessions of kind of this, like, information gathering, kind of getting to know your client, getting for them to know the therapist. In this assessment period, there are two main goals. The first is understanding the symptoms and arriving at a Diagnosis, because we don't want to, you know, therapists don't want to diagnose someone with depression if that's not really something that they have. Also understanding the symptoms well enough to have an effective plan for therapy. So because it is so time sensitive and oriented, you know, we want to have a very effective plan in motion to get the most out of therapy for the client and having the best kind of treatment plan available.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 507.75,
+      "end_time": 509.83,
+      "duration": 2.079999999999984,
+      "text": "That's deep. Yeah, it is real deep.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 524.51,
+      "end_time": 528.55,
+      "duration": 4.039999999999964,
+      "text": "How the person's. The client's, you know, week has gone for them.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 538.29,
+      "end_time": 545.65,
+      "duration": 7.360000000000014,
+      "text": "Yep. Having. Going through then, like, kind of the main skill development area and like, the big chunk of therapy that you might think of.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 558.61,
+      "end_time": 608.03,
+      "duration": 49.41999999999996,
+      "text": "Yeah, absolutely. The kind of goal of the therapist is to really help the client understand the principles of the cbt, meaning that we're trying to help clients understand how one's thoughts, feelings, and emotions all really interact and influence one another. And how, like you were saying earlier, by changing one, you can change another. This can be kind of accomplished by reviewing the homework or not reviewing or not completing the homework and seeing why that didn't happen or anything like that. Any difficulty thoughts that they've been having or anything that's been really negatively impacting their mood can also be kind of reviewed in that session and kind of, you know, collaboratively discussed and looked at. So you may be wondering how effective CBT is for treating adolescent depression compared to other treatment options out there.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 615.73,
+      "end_time": 618.53,
+      "duration": 2.7999999999999545,
+      "text": "But how long until the client's feeling better all the way?",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 654.0,
+      "end_time": 659.92,
+      "duration": 5.919999999999959,
+      "text": "So, I know one of the big questions that I'm sure we all have going through our heads right now is, how does CBT relate to medication?",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 662.16,
+      "end_time": 683.69,
+      "duration": 21.530000000000086,
+      "text": "Generally, though, CBT provides the same amount of relief as medication, but we're not having the same kind of negative physiological side effects that often accompany medication. So, you know, in other words, CBT tends to be just as effective without kind of having those negative physiological, you know, just bodily reactions that sometimes accompany medication.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 703.68,
+      "end_time": 713.6,
+      "duration": 9.920000000000073,
+      "text": "Yeah, that's right. So CBT allows for kind of treating that root cause of depression, and so where medication doesn't really allow that.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 714.16,
+      "end_time": 731.62,
+      "duration": 17.460000000000036,
+      "text": "And so even though medication can work quickly to kind of alleviate symptoms, usually once people start taking that medication, the depressive symptoms can return. And so overall, CBT is better at kind of reducing those possible relapses that is often accompanied with medication use.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 750.98,
+      "end_time": 765.45,
+      "duration": 14.470000000000027,
+      "text": "And there's a lot of different ways to go about finding a therapist in your area. One of the easiest ways is just to Google Search ABCT Therapists, which stands for the association for Behavioral and Cognitive Therapists at Therapies. And just look for their website.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 770.65,
+      "end_time": 786.75,
+      "duration": 16.100000000000023,
+      "text": "Additionally, you know, you can contact your insurance provider and see if there's any therapists in your area who practice cbt. There's other factors to consider when trying to find and choose a therapist in your area, but most importantly, make sure. That they're licensed in your area.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 811.76,
+      "end_time": 818.36,
+      "duration": 6.600000000000023,
+      "text": "If you live in an area near a university, oftentimes they provide services to community members. Yeah.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 823.28,
+      "end_time": 857.03,
+      "duration": 33.75,
+      "text": "Yep. Besides cost, another additional barrier is just kind of general apprehension. So kind of feeling kind of embarrassed or, you know, a little worried about seeking treatment. But it's important not to forget that sometimes it's just difficult taking that first step. And all that we ask is just try it, Right? Just get out there and try to find the therapy and the therapist that you need and be proud of yourself for looking for help. And, you know, yeah, definitely it's a.",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 873.6,
+      "end_time": 885.84,
+      "duration": 12.240000000000009,
+      "text": "But again, like we said, the end goal is just really to help anyone who's experiencing any type of distress to find the resources that they need to get help. Besides. Right. Who wouldn't want to talk to us?",
+      "chunk_file": "data/chunks/therapist/VXJy0X0OZtI/chunk_therapist_030.wav"
+    }
+  ]
+}

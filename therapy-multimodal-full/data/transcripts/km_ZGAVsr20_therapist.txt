@@ -1,0 +1,83 @@
+THERAPIST-ONLY TRANSCRIPT
+================================================================================
+
+Video ID: km_ZGAVsr20
+Source WAV: data/raw/youtube_wavs/km_ZGAVsr20.wav
+Therapist label: A
+Date: 2025-11-11 16:44:49
+
+[14.5s - 15.0s] (Chunk 001)
+Hi Jackie.
+
+[18.9s - 28.1s] (Chunk 002)
+I'm doing okay, thanks for asking. I understand you've been having some difficulties that have facilitated you to come into our agency.
+
+[45.6s - 52.6s] (Chunk 003)
+Alright. So you feel like you're drinking more than usual? Mm. How much are you drinking now?
+
+[69.2s - 73.8s] (Chunk 004)
+Three or four nights a week. And how much are you drinking each time you go out?
+
+[106.3s - 117.0s] (Chunk 005)
+Alright, so do you know how much alcohol, like you talk about the time period, do you know how much you're actually drinking each night? Like approximately?
+
+[141.0s - 146.0s] (Chunk 006)
+Do you find that you need to drink more to get the desired effect?
+
+[165.7s - 170.2s] (Chunk 007)
+Have you made any attempts to cut down on consumption?
+
+[199.4s - 214.6s] (Chunk 008)
+So I want to talk about the time you spend using alcohol. Are you okay with the amount of time you mentioned that you're using for a longer period? But are you okay with that or is that something that's distressing you?
+
+[228.3s - 231.4s] (Chunk 009)
+Do you find that you have a craving for alcohol?
+
+[260.1s - 263.6s] (Chunk 010)
+So you're thinking about it but you're also feeling the craving?
+
+[267.9s - 274.9s] (Chunk 011)
+Okay. You mentioned work. Are you having trouble with responsibilities at work or any other area?
+
+[281.7s - 282.7s] (Chunk 012)
+Because of the drinking?
+
+[284.5s - 287.0s] (Chunk 013)
+How about any social problems due to the alcohol?
+
+[297.6s - 299.0s] (Chunk 014)
+Alright, so no social problems?
+
+[300.3s - 304.0s] (Chunk 015)
+Have you had to give up any important activities because of the alcohol use?
+
+[321.2s - 331.2s] (Chunk 016)
+Nice you haven't missed any important activities because of that. How about engaging in any activities that are physically dangerous because alcohol is involved?
+
+[338.2s - 342.5s] (Chunk 017)
+Do you have any medical or mental health history?
+
+[361.3s - 368.9s] (Chunk 018)
+It's not been an issue, no. Has any medical problem or mental health problem become worse because of the alcohol?
+
+[380.3s - 383.2s] (Chunk 019)
+So you mentioned alcohol use. Has there been any drug use?
+
+[393.8s - 394.9s] (Chunk 020)
+So it's just alcohol now?
+
+[398.5s - 405.1s] (Chunk 021)
+Do you have. When you stop drinking, do you have any physical symptoms or anxiety, any symptoms of withdrawal?
+
+[414.0s - 415.1s] (Chunk 022)
+Okay, so that's not a problem?
+
+[418.7s - 422.3s] (Chunk 023)
+Jackie, are you open to receiving counseling services at our agency?
+
+[427.3s - 429.2s] (Chunk 024)
+But you'd be okay with child?
+
+[430.7s - 438.4s] (Chunk 025)
+All right, I'm going to get you scheduled in to see a counselor. I want to thank you for telling me about what's going on and for answering my questions. It's been helpful.
+

@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "video_id": "UAIr_NlZbak",
+    "source_file": "data/raw/youtube_wavs/UAIr_NlZbak.wav",
+    "date_processed": "2025-11-11T16:49:50.019324",
+    "total_duration": 363.984,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.32,
+      "end_time": 15.52,
+      "duration": 1.1999999999999993,
+      "text": "Hi, Tiffany. How you doing today?",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 16.8,
+      "end_time": 24.6,
+      "duration": 7.800000000000001,
+      "text": "You all right? I understand you've been having some recent difficulties. The thing with the cops, his involvement.",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 72.94,
+      "end_time": 74.54,
+      "duration": 1.6000000000000085,
+      "text": "So what story were you on?",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 76.86,
+      "end_time": 82.63,
+      "duration": 5.769999999999996,
+      "text": "Third floor. So you threw the stereo out the window and it landed on the ground.",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 89.75,
+      "end_time": 90.79,
+      "duration": 1.0400000000000063,
+      "text": "So she called the.",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 113.55,
+      "end_time": 115.15,
+      "duration": 1.6000000000000085,
+      "text": "You feel it's blown out of proportion?",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 116.27,
+      "end_time": 118.03,
+      "duration": 1.7600000000000051,
+      "text": "Has anything like this happened before?",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 122.83,
+      "end_time": 127.47,
+      "duration": 4.640000000000001,
+      "text": "How about anything where you found your anger kind of strong?",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 161.26,
+      "end_time": 166.14,
+      "duration": 4.8799999999999955,
+      "text": "Yeah, but how long ago is this with the phone?",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 167.98,
+      "end_time": 175.74,
+      "duration": 7.760000000000019,
+      "text": "Four or five months. Alright. So do you find that you're angry often?",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 190.38,
+      "end_time": 192.46,
+      "duration": 2.0800000000000125,
+      "text": "So you find yourself upset on occasion.",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 251.38,
+      "end_time": 256.26,
+      "duration": 4.8799999999999955,
+      "text": "Do you feel like you planned to throw the TV or just something that came up in the moment?",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 263.14,
+      "end_time": 266.9,
+      "duration": 3.759999999999991,
+      "text": "You know, there's more. More of a spur of the moment thing.",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 269.74,
+      "end_time": 270.3,
+      "duration": 0.5600000000000023,
+      "text": "All right.",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 271.9,
+      "end_time": 290.38,
+      "duration": 18.480000000000018,
+      "text": "They ate, it got their attention, the TV and broken. So, all right, so this has. Your anger and some of your behavior has caused some recent trouble with the law. That's why you're here.",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 297.56,
+      "end_time": 301.64,
+      "duration": 4.079999999999984,
+      "text": "But now they're involved and you feel like counseling may be helpful?",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 315.32,
+      "end_time": 317.92,
+      "duration": 2.6000000000000227,
+      "text": "You don't see the anger as a.",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 328.57,
+      "end_time": 329.41,
+      "duration": 0.8400000000000318,
+      "text": "You're just not seeing it.",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 330.21,
+      "end_time": 342.13,
+      "duration": 11.920000000000016,
+      "text": "All right. Do you have any history of medical problems, Mental health problems. You ever use drugs or alcohol? No, nothing like that.",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 343.05,
+      "end_time": 354.22,
+      "duration": 11.170000000000016,
+      "text": "Okay, so it seems like you are open to the idea of counseling. I'd like to get you scheduled with one of our counselors. I get you in a couple days, if that works.",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 357.66,
+      "end_time": 361.86,
+      "duration": 4.199999999999989,
+      "text": "I appreciate you answering these questions. This has been helpful. And I'll get you set up with.",
+      "chunk_file": "data/chunks/therapist/UAIr_NlZbak/chunk_therapist_021.wav"
+    }
+  ]
+}

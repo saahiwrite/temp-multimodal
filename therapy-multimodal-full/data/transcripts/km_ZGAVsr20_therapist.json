@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "video_id": "km_ZGAVsr20",
+    "source_file": "data/raw/youtube_wavs/km_ZGAVsr20.wav",
+    "date_processed": "2025-11-11T16:44:49.645770",
+    "total_duration": 439.589,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.48,
+      "end_time": 15.0,
+      "duration": 0.5199999999999996,
+      "text": "Hi Jackie.",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 18.88,
+      "end_time": 28.05,
+      "duration": 9.170000000000002,
+      "text": "I'm doing okay, thanks for asking. I understand you've been having some difficulties that have facilitated you to come into our agency.",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 45.65,
+      "end_time": 52.61,
+      "duration": 6.960000000000001,
+      "text": "Alright. So you feel like you're drinking more than usual? Mm. How much are you drinking now?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 69.2,
+      "end_time": 73.84,
+      "duration": 4.640000000000001,
+      "text": "Three or four nights a week. And how much are you drinking each time you go out?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 106.26,
+      "end_time": 116.98,
+      "duration": 10.719999999999999,
+      "text": "Alright, so do you know how much alcohol, like you talk about the time period, do you know how much you're actually drinking each night? Like approximately?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 140.99,
+      "end_time": 146.029,
+      "duration": 5.038999999999987,
+      "text": "Do you find that you need to drink more to get the desired effect?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 165.7,
+      "end_time": 170.18,
+      "duration": 4.480000000000018,
+      "text": "Have you made any attempts to cut down on consumption?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 199.409,
+      "end_time": 214.56,
+      "duration": 15.15100000000001,
+      "text": "So I want to talk about the time you spend using alcohol. Are you okay with the amount of time you mentioned that you're using for a longer period? But are you okay with that or is that something that's distressing you?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 228.32,
+      "end_time": 231.44,
+      "duration": 3.1200000000000045,
+      "text": "Do you find that you have a craving for alcohol?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 260.08,
+      "end_time": 263.6,
+      "duration": 3.5200000000000387,
+      "text": "So you're thinking about it but you're also feeling the craving?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 267.87,
+      "end_time": 274.91,
+      "duration": 7.0400000000000205,
+      "text": "Okay. You mentioned work. Are you having trouble with responsibilities at work or any other area?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 281.71,
+      "end_time": 282.67,
+      "duration": 0.9600000000000364,
+      "text": "Because of the drinking?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 284.51,
+      "end_time": 286.99,
+      "duration": 2.480000000000018,
+      "text": "How about any social problems due to the alcohol?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 297.61,
+      "end_time": 298.97,
+      "duration": 1.3600000000000136,
+      "text": "Alright, so no social problems?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 300.33,
+      "end_time": 304.01,
+      "duration": 3.680000000000007,
+      "text": "Have you had to give up any important activities because of the alcohol use?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 321.17,
+      "end_time": 331.25,
+      "duration": 10.079999999999984,
+      "text": "Nice you haven't missed any important activities because of that. How about engaging in any activities that are physically dangerous because alcohol is involved?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 338.21,
+      "end_time": 342.53,
+      "duration": 4.319999999999993,
+      "text": "Do you have any medical or mental health history?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 361.26,
+      "end_time": 368.86,
+      "duration": 7.600000000000023,
+      "text": "It's not been an issue, no. Has any medical problem or mental health problem become worse because of the alcohol?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 380.31,
+      "end_time": 383.19,
+      "duration": 2.8799999999999955,
+      "text": "So you mentioned alcohol use. Has there been any drug use?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 393.83,
+      "end_time": 394.87,
+      "duration": 1.0400000000000205,
+      "text": "So it's just alcohol now?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 398.5,
+      "end_time": 405.06,
+      "duration": 6.560000000000002,
+      "text": "Do you have. When you stop drinking, do you have any physical symptoms or anxiety, any symptoms of withdrawal?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 414.02,
+      "end_time": 415.14,
+      "duration": 1.1200000000000045,
+      "text": "Okay, so that's not a problem?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 418.74,
+      "end_time": 422.26,
+      "duration": 3.519999999999982,
+      "text": "Jackie, are you open to receiving counseling services at our agency?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 427.3,
+      "end_time": 429.18,
+      "duration": 1.8799999999999955,
+      "text": "But you'd be okay with child?",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 430.66,
+      "end_time": 438.419,
+      "duration": 7.758999999999958,
+      "text": "All right, I'm going to get you scheduled in to see a counselor. I want to thank you for telling me about what's going on and for answering my questions. It's been helpful.",
+      "chunk_file": "data/chunks/therapist/km_ZGAVsr20/chunk_therapist_025.wav"
+    }
+  ]
+}

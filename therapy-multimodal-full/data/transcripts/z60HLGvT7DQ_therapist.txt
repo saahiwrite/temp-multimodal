@@ -1,0 +1,92 @@
+THERAPIST-ONLY TRANSCRIPT
+================================================================================
+
+Video ID: z60HLGvT7DQ
+Source WAV: data/raw/youtube_wavs/z60HLGvT7DQ.wav
+Therapist label: A
+Date: 2025-11-11 16:56:47
+
+[14.6s - 15.7s] (Chunk 001)
+Hi, Shady. How you doing today?
+
+[17.2s - 27.0s] (Chunk 002)
+You Doing okay? I understand you've been having some symptoms which have been bothering you a bit. Can you tell me what you think's going on?
+
+[34.7s - 36.1s] (Chunk 003)
+You think you might be depressed?
+
+[37.7s - 39.5s] (Chunk 004)
+Have you ever felt this way in the past?
+
+[60.6s - 65.4s] (Chunk 005)
+Been having feelings of sad, sadness, hopelessness?
+
+[71.1s - 76.6s] (Chunk 006)
+Trouble sleeping? This has been going on for a month?
+
+[80.8s - 86.8s] (Chunk 007)
+Have you noticed any change in your ability to experience fun or pleasure?
+
+[101.5s - 108.3s] (Chunk 008)
+Most of the time you're sad, but you still have fun. Have you lost an interest in pursuing things that are fun? No.
+
+[129.3s - 133.4s] (Chunk 009)
+Any change in your appetite or weight in the last couple weeks?
+
+[140.1s - 140.8s] (Chunk 010)
+Lost a few pounds.
+
+[143.0s - 149.5s] (Chunk 011)
+And you mentioned the sleep disturbers. Not been sleeping as much as you'd like to correct.
+
+[166.6s - 168.5s] (Chunk 012)
+So that's been affecting your energy level?
+
+[172.1s - 179.7s] (Chunk 013)
+Do you feel restless or the opposite, kind of like, slowed down than having either one of those feelings?
+
+[183.1s - 183.9s] (Chunk 014)
+Nothing like that?
+
+[186.5s - 189.7s] (Chunk 015)
+Have you been having any feelings of worthlessness?
+
+[193.2s - 194.0s] (Chunk 016)
+Something like that?
+
+[209.6s - 213.0s] (Chunk 017)
+How about your concentration level? Any changes there?
+
+[244.4s - 248.2s] (Chunk 018)
+Have you been having any thoughts related to death or dying?
+
+[249.7s - 265.6s] (Chunk 019)
+Nothing like that? No. So these symptoms you've been describing have been causing limitations in your functioning. In what areas?
+
+[271.0s - 271.6s] (Chunk 020)
+At work.
+
+[303.5s - 307.2s] (Chunk 021)
+All right. Any drug or alcohol use?
+
+[310.5s - 314.2s] (Chunk 022)
+How about any medical conditions?
+
+[319.2s - 322.9s] (Chunk 023)
+Do you ever see or hear things other people can't see or hear?
+
+[324.2s - 325.7s] (Chunk 024)
+No. Has that ever happened to you?
+
+[331.1s - 339.4s] (Chunk 025)
+Do you feel now, recently or ever you had a state where you were too happy, like, had a lot of.
+
+[342.9s - 359.8s] (Chunk 026)
+Like mania? Yeah. No, nothing like that ever. All right. Has there been any major event in the last month or maybe before that that you think might be causing this? No. No. Nothing.
+
+[364.1s - 377.3s] (Chunk 027)
+Nothing you'd think would cause depression or anything? No. All right. She going to get you in to see a counselor here? It'll just take a couple days to get you in. Is that okay?
+
+[378.6s - 383.7s] (Chunk 028)
+All right. I want to thank you for answering these questions for me. This has been helpful.
+

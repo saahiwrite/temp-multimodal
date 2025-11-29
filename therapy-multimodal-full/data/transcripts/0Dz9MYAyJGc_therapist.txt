@@ -1,0 +1,98 @@
+THERAPIST-ONLY TRANSCRIPT
+================================================================================
+
+Video ID: 0Dz9MYAyJGc
+Source WAV: data/raw/youtube_wavs/0Dz9MYAyJGc.wav
+Therapist label: A
+Date: 2025-11-11 17:00:35
+
+[14.6s - 15.8s] (Chunk 001)
+Hi, Lise. How you doing today?
+
+[21.8s - 26.0s] (Chunk 002)
+Yeah, I'm aware you have some symptoms that have been bothering you. Can you tell me about those?
+
+[37.4s - 60.9s] (Chunk 003)
+Adhd? Alright, so we'll talk about that. Let me ask you a few quick questions before we get to that. Do you ever feel depressed? No. Anxious? No. Any trouble with drugs or alcohol? Oh, no, nothing like that. Okay. Why do you think you have adhd?
+
+[71.4s - 74.8s] (Chunk 004)
+Alright, so trouble establishing attention.
+
+[75.8s - 79.8s] (Chunk 005)
+How about difficulty and holding attention, like once you have established it?
+
+[80.9s - 85.4s] (Chunk 006)
+Trouble with both of those. And you mentioned the word distracted.
+
+[86.8s - 98.2s] (Chunk 007)
+So you find yourself easily distracted? Yes. You do. Okay, how about. Well, give me an idea of the setting. So is this at work or school?
+
+[99.8s - 106.5s] (Chunk 008)
+It's everywhere. Time. So do you work? Yes, I do. Yeah. Do you go to school?
+
+[107.5s - 108.3s] (Chunk 009)
+How old are you?
+
+[109.3s - 120.2s] (Chunk 010)
+24. Alright. And this problem with the attention affects you at work and at school and you said everywhere?
+
+[122.9s - 128.5s] (Chunk 011)
+All right, you're 24 now. When did you first notice the attention problems?
+
+[135.2s - 146.7s] (Chunk 012)
+You've had it for a long time. Yeah. How about how disturbing is, like how much is it interfering with your functioning?
+
+[149.0s - 161.9s] (Chunk 013)
+It's really problematic for you. Okay, so I'm gonna ask you a few other questions here. We talked about the attention. So it's hard for you to give attention and hold attention?
+
+[162.6s - 172.2s] (Chunk 014)
+How about listening? Let's go with the school environment for now. Let's talk about school. How about listening in class?
+
+[174.8s - 176.0s] (Chunk 015)
+That's not a problem for you?
+
+[176.6s - 184.7s] (Chunk 016)
+How about following instructions? No. Tell me about your organizational skills.
+
+[185.8s - 186.7s] (Chunk 017)
+You're very organized.
+
+[187.6s - 199.6s] (Chunk 018)
+In college. Do you find yourself avoiding activities that require a lot of mental investment, mental energy?
+
+[200.8s - 205.9s] (Chunk 019)
+No. No. Do you. Do you move toward those type of activities?
+
+[211.4s - 217.3s] (Chunk 020)
+All right. Do you ever find yourself losing things that you need to complete different jobs or tasks?
+
+[218.0s - 234.0s] (Chunk 021)
+No. Okay. I'm gonna change gears and ask you some other questions around a different area, okay? Okay. Do you ever find yourself, like, fidgeting, tough to stay still?
+
+[234.7s - 242.9s] (Chunk 022)
+No. No. In school again, we'll kind of stick with the school environment. Okay. Do you find it difficult to stay seated?
+
+[246.2s - 249.6s] (Chunk 023)
+How do you do when you are engaging in a quiet activity?
+
+[252.1s - 254.6s] (Chunk 024)
+You do okay with that? Yeah. You don't find yourself wandering off?
+
+[255.6s - 271.0s] (Chunk 025)
+Okay. Do you ever feel like internally there's a motor running and you can't shut it off? No. No. How about being talkative? Do you find yourself talking?
+
+[272.3s - 273.1s] (Chunk 026)
+You're very talkative?
+
+[281.1s - 286.8s] (Chunk 027)
+Alright. So you feel like you talk a lot and that you interrupt?
+
+[290.5s - 310.8s] (Chunk 028)
+In a situation where it would be traditional to, like, wait in line or wait your turn, do you find that's difficult for you? No. No. Do you ever find yourself, like, for example, in class just saying something, like blurting something out without giving it much thought?
+
+[312.1s - 341.0s] (Chunk 029)
+No. Okay. All right. I think I have what I need here and I want to get you in to see a counselor. Okay. If that works for you, because you did mention this was affecting your functioning. So I want to make sure you get to see a counselor. It'll just take a couple days to get you in to see something. If that works for you, that's great. Thank you. Yeah. I appreciate you taking this time with me. This information has been helpful.
+
+[342.2s - 342.9s] (Chunk 030)
+Thanks, Elise.
+

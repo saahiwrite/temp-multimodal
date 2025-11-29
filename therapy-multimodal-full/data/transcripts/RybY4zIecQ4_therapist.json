@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "video_id": "RybY4zIecQ4",
+    "source_file": "data/raw/youtube_wavs/RybY4zIecQ4.wav",
+    "date_processed": "2025-11-11T17:32:42.912532",
+    "total_duration": 790.336,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 0.24,
+      "end_time": 0.48,
+      "duration": 0.24,
+      "text": "Sa.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 40.17,
+      "end_time": 65.25,
+      "duration": 25.08,
+      "text": "Yeah. This week has been a little bit difficult. I found it really hard to sleep the last few nights. So I think it's because a few nights ago I had, like, a really bad nightmare where I, like, envisioned the lorry, like, coming towards me, and then now I avoid sleep because I don't want to be back in that state of panic. Right.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 69.49,
+      "end_time": 69.93,
+      "duration": 0.44000000000001194,
+      "text": "Yeah.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 73.89,
+      "end_time": 95.3,
+      "duration": 21.409999999999997,
+      "text": "Like, I was really hot and I was, like, all bothered, and I just didn't want to go back to sleep. I think also because I've been having quite a lot of daydreams where I'm back at the event. It feels like I'm back there, and I'm trapped and it's happening again. So, yeah, it's been quite tough this week.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 108.84,
+      "end_time": 109.36,
+      "duration": 0.519999999999996,
+      "text": "Yeah.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 118.76,
+      "end_time": 120.88,
+      "duration": 2.1199999999999903,
+      "text": "I think I've heard of it, but I don't know much about it.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 140.41,
+      "end_time": 141.45,
+      "duration": 1.039999999999992,
+      "text": "Yeah, definitely.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 144.41,
+      "end_time": 166.06,
+      "duration": 21.650000000000006,
+      "text": "It tends to happen at night when I'm asleep. I might have a nightmare, and that might, you know, bring me back to kind of being trapped in the car and being, like, in a state of panic. But sometimes it happens when I'm at work and I'm not doing that much and my mind starts to work wander a bit.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 232.84,
+      "end_time": 235.28,
+      "duration": 2.4399999999999977,
+      "text": "That, of like time going by. Really?",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 239.44,
+      "end_time": 250.04,
+      "duration": 10.599999999999994,
+      "text": "I suppose, like if you're watching a film and like you don't realize the time passing or if you're like having a really good day and it's like five o' clock and.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 352.13,
+      "end_time": 366.75,
+      "duration": 14.620000000000005,
+      "text": "Yeah, I didn't realize that it existed, you know, in the autopilot example that you gave so before trauma. So that's interesting to see it, you know, visually there.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 372.51,
+      "end_time": 372.83,
+      "duration": 0.3199999999999932,
+      "text": "Really.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 387.01,
+      "end_time": 387.53,
+      "duration": 0.5199999999999818,
+      "text": "Yeah.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 420.3,
+      "end_time": 420.86,
+      "duration": 0.5600000000000023,
+      "text": "Okay.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 476.94,
+      "end_time": 477.38,
+      "duration": 0.4399999999999977,
+      "text": "Okay.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 482.1,
+      "end_time": 483.06,
+      "duration": 0.9599999999999795,
+      "text": "Maybe touch.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 489.6,
+      "end_time": 492.08,
+      "duration": 2.4799999999999613,
+      "text": "In my bed. Yeah, in my bedroom.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 493.28,
+      "end_time": 493.76,
+      "duration": 0.4800000000000182,
+      "text": "Yeah.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 500.08,
+      "end_time": 512.86,
+      "duration": 12.78000000000003,
+      "text": "Yeah, I have a throw on my bed, which is really soft. So maybe that could be a good thing to touch to remind me that I'm in a safe place in my bedroom.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 521.26,
+      "end_time": 521.62,
+      "duration": 0.36000000000001364,
+      "text": "Yeah.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 528.54,
+      "end_time": 534.78,
+      "duration": 6.240000000000009,
+      "text": "I could, like, keep something next to my bed that I like. A mint or something. Yeah, yeah.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 544.31,
+      "end_time": 554.55,
+      "duration": 10.240000000000009,
+      "text": "I suppose my room smells a bit like perfume or like if I've lit a candle, it's kind of got a homely smell about it.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 600.8,
+      "end_time": 601.4,
+      "duration": 0.6000000000000227,
+      "text": "Okay, cool.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 609.44,
+      "end_time": 620.57,
+      "duration": 11.129999999999995,
+      "text": "Maybe I have, like, some photos in my room which might remind me of, like, you know, loved ones or, you know, fun things that I've done.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 625.45,
+      "end_time": 634.33,
+      "duration": 8.879999999999995,
+      "text": "It's usually quite quiet in my bedroom, except for maybe like, my partner's snoring or, like, breathing.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 673.48,
+      "end_time": 704.46,
+      "duration": 30.980000000000018,
+      "text": "Well, at night it would be really useful because a lot of those things are to do with my bedroom. But also, I suppose if I was at work and I was having a daydream, then I could just have some. Or if I was in the car with my partner and I was getting in a panic, I could just have some mints nearby, maybe that would give me, like, a strong taste of something that I didn't have when I was in the car and, you know, and the lorry was coming towards me.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 756.99,
+      "end_time": 770.59,
+      "duration": 13.600000000000023,
+      "text": "Yeah, I think it could be useful. I'm willing to, you know, obviously try whatever I can with the photos. Could I use photos on my phone, like, if obviously I'm not in my room?",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 785.29,
+      "end_time": 786.13,
+      "duration": 0.8400000000000318,
+      "text": "Okay, great.",
+      "chunk_file": "data/chunks/therapist/RybY4zIecQ4/chunk_therapist_028.wav"
+    }
+  ]
+}

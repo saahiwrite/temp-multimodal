@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "video_id": "EtVJr05akR4",
+    "source_file": "data/raw/youtube_wavs/EtVJr05akR4.wav",
+    "date_processed": "2025-11-11T17:25:37.507287",
+    "total_duration": 901.642,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 4.88,
+      "end_time": 9.84,
+      "duration": 4.96,
+      "text": "Good afternoon, Bruce. I'm glad you could make it in today. Thanks for coming in.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 12.16,
+      "end_time": 32.25,
+      "duration": 20.09,
+      "text": "Last week when you were in, you had come in because you had had a positive urine analysis test for marijuana. And so we were working on ways that you could cut down or extinguish marijuana use altogether. And how did you feel about our talk last week?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 35.21,
+      "end_time": 37.13,
+      "duration": 1.9200000000000017,
+      "text": "Yeah. Just okay?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 38.33,
+      "end_time": 44.65,
+      "duration": 6.32,
+      "text": "All right. Okay. I want to refresh your memory. I've got my notes here. Do you mind if I refer to my notes?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 47.37,
+      "end_time": 97.039,
+      "duration": 49.669000000000004,
+      "text": "We had developed four strategies to help you decrease the amount of marijuana, if not cut it off altogether. And one of the items were to run more. You used to run a lot and you like to run. And so we had realized that the marijuana usage was merely a mask to self medicate for the depression. But we also know that running ups the serotonin and in many cases is just as good as an antidepressant. So you're excited about this last week. So I'm wondering how you made out with the running last week.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 102.72,
+      "end_time": 113.66,
+      "duration": 10.939999999999998,
+      "text": "Yeah. And so because of the rain and the coldness, it kind of took away from your. From your mood and your motivation to go running.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 116.54,
+      "end_time": 120.86,
+      "duration": 4.319999999999993,
+      "text": "I'm wondering what you could have done to get in the mood.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 131.34,
+      "end_time": 143.14,
+      "duration": 11.799999999999983,
+      "text": "And so because of the not exercising, did it make any difference in your marijuana usage this week?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 146.1,
+      "end_time": 151.46,
+      "duration": 5.360000000000014,
+      "text": "Okay. Okay. So how would you tie those two things together by not running?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 160.34,
+      "end_time": 179.11,
+      "duration": 18.77000000000001,
+      "text": "Yeah. So when you reflect back now on last week and the rain coming down and it was cold, I'm wondering if there's a way that you could change your perception about that such that it wouldn't stop you from running. What do you think?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 185.59,
+      "end_time": 210.92,
+      "duration": 25.329999999999984,
+      "text": "Mm, that would be a great idea. That would be an excellent idea. Some people even think that it's fun running in the rain and the cold. So that might absolutely be an alternative. The other thing was to stay away from your friends that you had considered bad influences with using the marijuana. How did you make out with that?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 219.16,
+      "end_time": 223.8,
+      "duration": 4.640000000000015,
+      "text": "So it was. It was difficult to Cut them out of your life last week?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 225.0,
+      "end_time": 227.88,
+      "duration": 2.8799999999999955,
+      "text": "And can you tell me more about what was difficult about it?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 237.08,
+      "end_time": 250.29,
+      "duration": 13.20999999999998,
+      "text": "So you didn't. It sounds like you didn't want to hurt their feelings by them thinking that you were going to avoid them. And so as a result of this, what. What happened?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 261.09,
+      "end_time": 269.02,
+      "duration": 7.930000000000007,
+      "text": "And so because you were worried about them thinking that you were trying to avoid them, you ended up using marijuana, Is that correct?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 270.78,
+      "end_time": 275.82,
+      "duration": 5.0400000000000205,
+      "text": "Yeah. And I'm wondering how you could do that differently this week.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 283.259,
+      "end_time": 286.94,
+      "duration": 3.680999999999983,
+      "text": "And what would that involve, trying hard or not to go see them?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 294.8,
+      "end_time": 310.08,
+      "duration": 15.279999999999973,
+      "text": "Yeah, sometimes it is that simple, is just making that commitment to yourself and just drawing the line. And do you have any friends that do not use marijuana that you could kind of associate with?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 318.48,
+      "end_time": 330.01,
+      "duration": 11.529999999999973,
+      "text": "Okay. How motivated, on a scale of 1 to 10, would you say you are to kind of reignite friendships with people that don't smoke pot?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 332.89,
+      "end_time": 347.29,
+      "duration": 14.400000000000034,
+      "text": "Okay, so you're still. You're still a little iffy about you. About whether you want to associate with those friends again. But I have to ask you, Bruce, what made you say three instead of one?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 355.92,
+      "end_time": 381.55,
+      "duration": 25.629999999999995,
+      "text": "I think that's great insight that you're able to see that moving towards the friends that don't smoke pot and making the effort to do that is actually going to enhance your life incredibly. And when you associated with the friends that didn't smoke pot in the past, what kind of things did you do? What was your life like?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 384.75,
+      "end_time": 387.31,
+      "duration": 2.5600000000000023,
+      "text": "Yeah. Was it fun being with them?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 407.64,
+      "end_time": 419.16,
+      "duration": 11.520000000000039,
+      "text": "So you can recall living a healthier life then and having fun outdoors and basically having a healthier life overall without using the pot?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 425.56,
+      "end_time": 456.42,
+      "duration": 30.860000000000014,
+      "text": "Mm. Sometimes it's good to remember having those good times with the friends that didn't smoke the pot because it makes you realize that you don't really need it. And I think it's a great. I think that's a great idea. The other item on your goal, rather it's a goal, not an item, was to get a pet. How did you make out with Go? And it was a dog. You were going after a dog at the spca, and how did you make out with that?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 469.06,
+      "end_time": 480.89,
+      "duration": 11.829999999999984,
+      "text": "Okay, so you had some second thoughts about that. You were excited about it in last week's session, but after you had a chance to reflect upon it, you kind of realized that it wasn't. Getting a dog was not the best thing for you.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 488.09,
+      "end_time": 507.93,
+      "duration": 19.840000000000032,
+      "text": "I think that's wise to recognize that right up front. I'm given the research on pets, any kind of pet, and how it helps people sustain from alcohol and drug use in. I'm wondering if there is another option that you might consider.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 516.17,
+      "end_time": 521.53,
+      "duration": 5.360000000000014,
+      "text": "I'm thinking, do you like pets that don't require such a commitment?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 525.93,
+      "end_time": 528.89,
+      "duration": 2.9600000000000364,
+      "text": "A dog is. The dog is a large commitment.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 537.76,
+      "end_time": 545.84,
+      "duration": 8.080000000000041,
+      "text": "Snakes. Okay. Snakes or fish. That would definitely be a star. Are these animals that you like?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 546.72,
+      "end_time": 564.91,
+      "duration": 18.18999999999994,
+      "text": "All right. I think it's important that you have an animal that you like and that you can relate to. All right, so in the final goal was to. To find and join a support group for people that were trying to be abstinent from marijuana. How did you make out with that?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_030.wav"
+    },
+    {
+      "chunk_number": 31,
+      "start_time": 581.8,
+      "end_time": 584.84,
+      "duration": 3.0400000000000773,
+      "text": "So you made the effort to go, and you went, but that was.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_031.wav"
+    },
+    {
+      "chunk_number": 32,
+      "start_time": 587.72,
+      "end_time": 605.0,
+      "duration": 17.279999999999973,
+      "text": "And so you didn't stay the whole time, and so you left early because you felt, you didn't feel in. They were the bottom of the barrel and you're still higher functioning. I can definitely understand that. I'm wondering if there is any.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_032.wav"
+    },
+    {
+      "chunk_number": 33,
+      "start_time": 607.23,
+      "end_time": 613.31,
+      "duration": 6.079999999999927,
+      "text": "You joining some sort of support group to help you. What do you think?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_033.wav"
+    },
+    {
+      "chunk_number": 34,
+      "start_time": 626.27,
+      "end_time": 630.91,
+      "duration": 4.639999999999986,
+      "text": "And what might be some positives that you would get out of a support group?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_034.wav"
+    },
+    {
+      "chunk_number": 35,
+      "start_time": 640.56,
+      "end_time": 641.0,
+      "duration": 0.44000000000005457,
+      "text": "Situation.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_035.wav"
+    },
+    {
+      "chunk_number": 36,
+      "start_time": 657.57,
+      "end_time": 715.18,
+      "duration": 57.6099999999999,
+      "text": "So you're saying that the positives of being in a support group would be that you get a chance to relate to other people who are on that same journey and to have connections with other people. And again, I can send you information that will show you that just these two items alone are incredibly helpful for not only decreasing or being abstinent from pot, but from increasing the feel good hormones in your body. The connection and the relating to other people. It might be similar when you were younger, you had mentioned last week that you were a hockey player and so you had support that was sort of like the team was sort of like a support group. I'm wondering if you could relate to people and had connection. I'm wondering if you could see a support group as a team.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_036.wav"
+    },
+    {
+      "chunk_number": 37,
+      "start_time": 729.58,
+      "end_time": 734.46,
+      "duration": 4.8799999999999955,
+      "text": "And do you remember when you were playing hockey how it felt to be encompassed in that team?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_037.wav"
+    },
+    {
+      "chunk_number": 38,
+      "start_time": 736.86,
+      "end_time": 767.55,
+      "duration": 30.68999999999994,
+      "text": "And that's because of those good feeling hormones that come neurotransmitters that come throughout your body when you have those connections. So how committed do you think you are if I were to send you a list of support groups so you could try out some others where there weren't the bottom of the barrel, as you say there, how committed do you think that you would be trying out at least two of them this coming week?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_038.wav"
+    },
+    {
+      "chunk_number": 39,
+      "start_time": 771.15,
+      "end_time": 774.99,
+      "duration": 3.840000000000032,
+      "text": "Wow. What made you say an eight rather than a four or five?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_039.wav"
+    },
+    {
+      "chunk_number": 40,
+      "start_time": 779.55,
+      "end_time": 786.99,
+      "duration": 7.440000000000055,
+      "text": "So you thought of how you remembered, you remembered how you felt when you were on the team and how it gave you that sense of connection.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_040.wav"
+    },
+    {
+      "chunk_number": 41,
+      "start_time": 798.44,
+      "end_time": 845.05,
+      "duration": 46.6099999999999,
+      "text": "Maybe. I love that analogy. Good thinking. Good thinking, Bruce. That's excellent. Wow. Well, just to summarize, today you came in, you had made some progress, but you had some stumbling blocks. You have decided that whether it's rain or shine, you're going to run anyway because you're going to have. You have a raincoat. And you're going to embrace more of your positive friends rather than the friends that are not such a good influence on you. And getting a pet, rather than getting a dog, you're going to look into getting a snake or a. What was the other thing?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_041.wav"
+    },
+    {
+      "chunk_number": 42,
+      "start_time": 846.49,
+      "end_time": 873.24,
+      "duration": 26.75,
+      "text": "Okay. And in terms of a support group, I will send you a list of support groups and you feel that on a scale of 1 to 10 that you're about an 8. And actually carrying through and trying out two of these support groups because of the hockey team analogy. Great job. So overall, how would you rate today's session?",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_042.wav"
+    },
+    {
+      "chunk_number": 43,
+      "start_time": 875.16,
+      "end_time": 878.12,
+      "duration": 2.9600000000000364,
+      "text": "And if we were to put it on a scale again, 1 to 10.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_043.wav"
+    },
+    {
+      "chunk_number": 44,
+      "start_time": 879.72,
+      "end_time": 894.76,
+      "duration": 15.039999999999964,
+      "text": "About an 8. All right. We did good. Then if we did an 8. Glad you came in today. Bruce and I will see you next week and check up, and we will. We will see how you did with these goals, and then we will move forward from there. All right. Way to go.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_044.wav"
+    },
+    {
+      "chunk_number": 45,
+      "start_time": 895.4,
+      "end_time": 895.96,
+      "duration": 0.5600000000000591,
+      "text": "All right.",
+      "chunk_file": "data/chunks/therapist/EtVJr05akR4/chunk_therapist_045.wav"
+    }
+  ]
+}

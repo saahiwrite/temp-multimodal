@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "video_id": "aTtmXde5T_Q",
+    "source_file": "data/raw/youtube_wavs/aTtmXde5T_Q.wav",
+    "date_processed": "2025-11-11T16:59:26.852834",
+    "total_duration": 419.643,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.24,
+      "end_time": 15.36,
+      "duration": 1.1199999999999992,
+      "text": "Hi, Lise. How you doing today?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 20.48,
+      "end_time": 22.16,
+      "duration": 1.6799999999999997,
+      "text": "Having some problems. What's going on?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 35.46,
+      "end_time": 36.66,
+      "duration": 1.1999999999999957,
+      "text": "Like adhd?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 37.78,
+      "end_time": 39.22,
+      "duration": 1.4399999999999977,
+      "text": "You think you might have adhd?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 40.98,
+      "end_time": 49.98,
+      "duration": 9.0,
+      "text": "All right, so let me ask you some other questions and then we'll get into some questions specifically about that and see what's going on there.",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 50.9,
+      "end_time": 52.74,
+      "duration": 1.8400000000000034,
+      "text": "Do you ever find yourself depressed?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 53.74,
+      "end_time": 63.82,
+      "duration": 10.079999999999998,
+      "text": "Anxious? No. Any trouble with drugs or alcohol? Oh, no, nothing like that. When did you first notice you had the symptoms?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 69.58,
+      "end_time": 76.06,
+      "duration": 6.480000000000004,
+      "text": "Do you know what age? No. No. All right, but you're thinking early teens, maybe before.",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 77.98,
+      "end_time": 87.85,
+      "duration": 9.86999999999999,
+      "text": "Do the symptoms, are they really bothersome to you? They causing you problems? Yeah. What kind of areas do they cause you problems?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 93.21,
+      "end_time": 93.69,
+      "duration": 0.480000000000004,
+      "text": "Yeah.",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 94.89,
+      "end_time": 95.53,
+      "duration": 0.6400000000000006,
+      "text": "Do you work?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 96.73,
+      "end_time": 98.01,
+      "duration": 1.2800000000000011,
+      "text": "Does it cause problems at work?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 99.93,
+      "end_time": 101.53,
+      "duration": 1.5999999999999943,
+      "text": "How about college?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 103.01,
+      "end_time": 104.81,
+      "duration": 1.7999999999999972,
+      "text": "Okay. How about at home?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 106.1,
+      "end_time": 118.18,
+      "duration": 12.080000000000013,
+      "text": "Okay. All right, so tell me a little bit about the symptoms that you think might indicate adhd. What's going on?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 141.9,
+      "end_time": 145.74,
+      "duration": 3.8400000000000034,
+      "text": "Alright, so you feel compelled to stand up in class?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 146.94,
+      "end_time": 149.26,
+      "duration": 2.319999999999993,
+      "text": "Even though, you know, it might draw some attention?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 156.86,
+      "end_time": 173.81,
+      "duration": 16.94999999999999,
+      "text": "Alright, so I'm gonna ask you a few questions and ask you kind of two categories of questions. Okay, so I'm going to start with the first category. Do you feel like you have trouble establishing attention? Let's look at this in terms of school.",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 176.21,
+      "end_time": 183.09,
+      "duration": 6.8799999999999955,
+      "text": "Okay. How about when you have established attention, do you. Do you find yourself struggling to hold on to it?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 183.73,
+      "end_time": 191.58,
+      "duration": 7.850000000000023,
+      "text": "Yes. And again, I'll just stick with the school environment. Right. That's a place where these symptoms bother you.",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 197.58,
+      "end_time": 201.58,
+      "duration": 4.0,
+      "text": "That's a big one. Okay. Do you have trouble listening in class?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 202.62,
+      "end_time": 208.78,
+      "duration": 6.159999999999997,
+      "text": "You do? How about following through on instructions that are provided by, say, the professor?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 213.2,
+      "end_time": 215.04,
+      "duration": 1.8400000000000034,
+      "text": "Do you find yourself organized?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 217.04,
+      "end_time": 228.24,
+      "duration": 11.200000000000017,
+      "text": "You are pretty organized. Do you find yourself in school or other settings avoiding activities that require a lot of mental effort?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 232.2,
+      "end_time": 233.52,
+      "duration": 1.3200000000000216,
+      "text": "What are some things you avoid?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 246.09,
+      "end_time": 256.73,
+      "duration": 10.640000000000015,
+      "text": "You ever find yourself losing things that you need to function at work or school? No. No. Distracted?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 258.89,
+      "end_time": 265.78,
+      "duration": 6.889999999999986,
+      "text": "I do get distracted fairly easily. Yeah. Yeah. How about forgetfulness?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 270.34,
+      "end_time": 278.74,
+      "duration": 8.400000000000034,
+      "text": "Okay. So I'm going to move and ask you another category of questions. Okay? Okay. Do you find yourself fidgeting?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 282.98,
+      "end_time": 289.54,
+      "duration": 6.560000000000002,
+      "text": "How do you do with. I think you touched on this before. But how do you do with quiet activities, like, for example, reading?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 293.18,
+      "end_time": 294.02,
+      "duration": 0.839999999999975,
+      "text": "You struggle with that?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_030.wav"
+    },
+    {
+      "chunk_number": 31,
+      "start_time": 304.819,
+      "end_time": 308.26,
+      "duration": 3.440999999999974,
+      "text": "So when you are engaged in quiet activities, do you find yourself kind of wandering off?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_031.wav"
+    },
+    {
+      "chunk_number": 32,
+      "start_time": 308.66,
+      "end_time": 313.54,
+      "duration": 4.8799999999999955,
+      "text": "You do. Do you ever feel like you have an internal motor that won't shut off?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_032.wav"
+    },
+    {
+      "chunk_number": 33,
+      "start_time": 316.07,
+      "end_time": 321.07,
+      "duration": 5.0,
+      "text": "No. Okay. Do you feel like you talk excessively?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_033.wav"
+    },
+    {
+      "chunk_number": 34,
+      "start_time": 328.43,
+      "end_time": 332.95,
+      "duration": 4.519999999999982,
+      "text": "What settings do you find that's a problem at?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_034.wav"
+    },
+    {
+      "chunk_number": 35,
+      "start_time": 333.95,
+      "end_time": 335.23,
+      "duration": 1.2800000000000296,
+      "text": "That's a big one. Yeah.",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_035.wav"
+    },
+    {
+      "chunk_number": 36,
+      "start_time": 351.49,
+      "end_time": 354.85,
+      "duration": 3.3600000000000136,
+      "text": "Do you ever find that, say, in class, you blurt things out?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_036.wav"
+    },
+    {
+      "chunk_number": 37,
+      "start_time": 355.73,
+      "end_time": 359.57,
+      "duration": 3.839999999999975,
+      "text": "Yeah. And interrupt people.",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_037.wav"
+    },
+    {
+      "chunk_number": 38,
+      "start_time": 361.01,
+      "end_time": 373.52,
+      "duration": 12.509999999999991,
+      "text": "Do that. Okay. Have a situation where, like, say at work or school or at home where you have to wait your turn for something. Do you find that's a problem?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_038.wav"
+    },
+    {
+      "chunk_number": 39,
+      "start_time": 378.24,
+      "end_time": 381.28,
+      "duration": 3.0399999999999636,
+      "text": "It could be a drive through. If you're a drive through. Do you find.",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_039.wav"
+    },
+    {
+      "chunk_number": 40,
+      "start_time": 385.44,
+      "end_time": 389.36,
+      "duration": 3.920000000000016,
+      "text": "You don't have any trouble with, like, waiting in lines or waiting for your turn?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_040.wav"
+    },
+    {
+      "chunk_number": 41,
+      "start_time": 390.8,
+      "end_time": 405.97,
+      "duration": 15.170000000000016,
+      "text": "Guess not. Okay. Okay. All right. So I'm going to get you in to see one of our counselors. You mentioned that these symptoms are bothersome to you.",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_041.wav"
+    },
+    {
+      "chunk_number": 42,
+      "start_time": 406.37,
+      "end_time": 410.57,
+      "duration": 4.199999999999989,
+      "text": "And I want to make sure you get treated. It'll take a couple days to get you in to see somebody. Is that okay?",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_042.wav"
+    },
+    {
+      "chunk_number": 43,
+      "start_time": 412.25,
+      "end_time": 417.53,
+      "duration": 5.279999999999973,
+      "text": "Lisa, I want to thank you for spending this time with me and answering these questions. This has been really helpful.",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_043.wav"
+    },
+    {
+      "chunk_number": 44,
+      "start_time": 418.57,
+      "end_time": 419.05,
+      "duration": 0.4800000000000182,
+      "text": "Thanks.",
+      "chunk_file": "data/chunks/therapist/aTtmXde5T_Q/chunk_therapist_044.wav"
+    }
+  ]
+}

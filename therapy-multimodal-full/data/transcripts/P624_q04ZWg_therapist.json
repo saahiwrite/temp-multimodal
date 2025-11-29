@@ -1,0 +1,229 @@
+{
+  "metadata": {
+    "video_id": "P624_q04ZWg",
+    "source_file": "data/raw/youtube_wavs/P624_q04ZWg.wav",
+    "date_processed": "2025-11-11T16:41:03.472022",
+    "total_duration": 426.91,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.0,
+      "end_time": 15.2,
+      "duration": 1.1999999999999993,
+      "text": "Hi, Jackie. How you doing today?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 18.72,
+      "end_time": 25.6,
+      "duration": 6.880000000000003,
+      "text": "You all right? Yeah, I'm doing well, thanks for asking. I understand you've had some recent difficulties that brought you into our agency.",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 28.52,
+      "end_time": 29.4,
+      "duration": 0.879999999999999,
+      "text": "You lost your job.",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 33.96,
+      "end_time": 35.56,
+      "duration": 1.6000000000000014,
+      "text": "You failed a drug test? Mm.",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 85.43,
+      "end_time": 88.87,
+      "duration": 3.4399999999999977,
+      "text": "Were you aware that if there was an accident you'd be drug tested?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 102.71,
+      "end_time": 105.35,
+      "duration": 2.6400000000000006,
+      "text": "So. Have there been consequences to losing your job?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 132.53,
+      "end_time": 133.73,
+      "duration": 1.1999999999999886,
+      "text": "What type of work do you do?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 143.13,
+      "end_time": 147.93,
+      "duration": 4.800000000000011,
+      "text": "Alright, so most of those employers would require a drug screen.",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 182.19,
+      "end_time": 183.43,
+      "duration": 1.240000000000009,
+      "text": "You think it should be legal?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 198.19,
+      "end_time": 201.15,
+      "duration": 2.960000000000008,
+      "text": "So you want to stop using marijuana altogether?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 208.11,
+      "end_time": 212.19,
+      "duration": 4.079999999999984,
+      "text": "Alright, can you tell me about your marijuana use now? Like when was the last time you used?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 229.23,
+      "end_time": 234.91,
+      "duration": 5.680000000000007,
+      "text": "All right, so recently. And how about the course? Like when did you start using marijuana?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 254.51,
+      "end_time": 258.51,
+      "duration": 4.0,
+      "text": "All right. Any other drugs or alcohol or anything? Just marijuana?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 262.27,
+      "end_time": 265.15,
+      "duration": 2.8799999999999955,
+      "text": "Have you noticed over time you've been using more?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 289.23,
+      "end_time": 292.75,
+      "duration": 3.519999999999982,
+      "text": "So it's consuming a lot of time. Marijuana?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 306.75,
+      "end_time": 308.59,
+      "duration": 1.839999999999975,
+      "text": "Alright. You have a craving for marijuana?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 316.2,
+      "end_time": 319.48,
+      "duration": 3.2800000000000296,
+      "text": "Now, have you had any social problems because of your marijuana use?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 325.64,
+      "end_time": 326.2,
+      "duration": 0.5600000000000023,
+      "text": "Just the work.",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 329.48,
+      "end_time": 337.96,
+      "duration": 8.479999999999961,
+      "text": "So are there other important activities that you miss out on because of your marijuana use outside of work?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 348.24,
+      "end_time": 355.4,
+      "duration": 7.159999999999968,
+      "text": "You don't miss much. Are there any activities that you engage in that are more dangerous because of your marijuana use?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 367.16,
+      "end_time": 375.56,
+      "duration": 8.399999999999977,
+      "text": "Do you have any history of mental health issues or medical issues? No, nothing like that?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 379.89,
+      "end_time": 385.81,
+      "duration": 5.920000000000016,
+      "text": "Do you notice any anxiety or physical symptoms when you stop using marijuana?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 389.81,
+      "end_time": 390.45,
+      "duration": 0.6399999999999864,
+      "text": "You feel okay?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 392.93,
+      "end_time": 396.13,
+      "duration": 3.1999999999999886,
+      "text": "So how motivated are you to stop using?",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 411.78,
+      "end_time": 412.62,
+      "duration": 0.8400000000000318,
+      "text": "You're committed to it.",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 415.26,
+      "end_time": 418.22,
+      "duration": 2.9600000000000364,
+      "text": "I'm gonna get you in to see a counselor here, if that's okay with you.",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 420.14,
+      "end_time": 426.22,
+      "duration": 6.080000000000041,
+      "text": "That'd be helpful. And I appreciate you taking this time to tell me what's going on and answer my questions. It's been helpful.",
+      "chunk_file": "data/chunks/therapist/P624_q04ZWg/chunk_therapist_027.wav"
+    }
+  ]
+}

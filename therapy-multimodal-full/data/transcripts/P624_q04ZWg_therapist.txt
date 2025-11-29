@@ -1,0 +1,89 @@
+THERAPIST-ONLY TRANSCRIPT
+================================================================================
+
+Video ID: P624_q04ZWg
+Source WAV: data/raw/youtube_wavs/P624_q04ZWg.wav
+Therapist label: A
+Date: 2025-11-11 16:41:03
+
+[14.0s - 15.2s] (Chunk 001)
+Hi, Jackie. How you doing today?
+
+[18.7s - 25.6s] (Chunk 002)
+You all right? Yeah, I'm doing well, thanks for asking. I understand you've had some recent difficulties that brought you into our agency.
+
+[28.5s - 29.4s] (Chunk 003)
+You lost your job.
+
+[34.0s - 35.6s] (Chunk 004)
+You failed a drug test? Mm.
+
+[85.4s - 88.9s] (Chunk 005)
+Were you aware that if there was an accident you'd be drug tested?
+
+[102.7s - 105.3s] (Chunk 006)
+So. Have there been consequences to losing your job?
+
+[132.5s - 133.7s] (Chunk 007)
+What type of work do you do?
+
+[143.1s - 147.9s] (Chunk 008)
+Alright, so most of those employers would require a drug screen.
+
+[182.2s - 183.4s] (Chunk 009)
+You think it should be legal?
+
+[198.2s - 201.2s] (Chunk 010)
+So you want to stop using marijuana altogether?
+
+[208.1s - 212.2s] (Chunk 011)
+Alright, can you tell me about your marijuana use now? Like when was the last time you used?
+
+[229.2s - 234.9s] (Chunk 012)
+All right, so recently. And how about the course? Like when did you start using marijuana?
+
+[254.5s - 258.5s] (Chunk 013)
+All right. Any other drugs or alcohol or anything? Just marijuana?
+
+[262.3s - 265.1s] (Chunk 014)
+Have you noticed over time you've been using more?
+
+[289.2s - 292.8s] (Chunk 015)
+So it's consuming a lot of time. Marijuana?
+
+[306.8s - 308.6s] (Chunk 016)
+Alright. You have a craving for marijuana?
+
+[316.2s - 319.5s] (Chunk 017)
+Now, have you had any social problems because of your marijuana use?
+
+[325.6s - 326.2s] (Chunk 018)
+Just the work.
+
+[329.5s - 338.0s] (Chunk 019)
+So are there other important activities that you miss out on because of your marijuana use outside of work?
+
+[348.2s - 355.4s] (Chunk 020)
+You don't miss much. Are there any activities that you engage in that are more dangerous because of your marijuana use?
+
+[367.2s - 375.6s] (Chunk 021)
+Do you have any history of mental health issues or medical issues? No, nothing like that?
+
+[379.9s - 385.8s] (Chunk 022)
+Do you notice any anxiety or physical symptoms when you stop using marijuana?
+
+[389.8s - 390.4s] (Chunk 023)
+You feel okay?
+
+[392.9s - 396.1s] (Chunk 024)
+So how motivated are you to stop using?
+
+[411.8s - 412.6s] (Chunk 025)
+You're committed to it.
+
+[415.3s - 418.2s] (Chunk 026)
+I'm gonna get you in to see a counselor here, if that's okay with you.
+
+[420.1s - 426.2s] (Chunk 027)
+That'd be helpful. And I appreciate you taking this time to tell me what's going on and answer my questions. It's been helpful.
+

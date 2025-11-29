@@ -1,0 +1,107 @@
+THERAPIST-ONLY TRANSCRIPT
+================================================================================
+
+Video ID: q58A-IM8iUs
+Source WAV: data/raw/youtube_wavs/q58A-IM8iUs.wav
+Therapist label: A
+Date: 2025-11-11 16:43:11
+
+[14.4s - 15.5s] (Chunk 001)
+Hi, Jason. How you doing today?
+
+[17.0s - 17.8s] (Chunk 002)
+You're okay?
+
+[24.9s - 26.1s] (Chunk 003)
+Can you tell me what's going on?
+
+[51.5s - 53.5s] (Chunk 004)
+Can you tell me about what the voice is saying?
+
+[66.8s - 68.2s] (Chunk 005)
+You recognize the voice?
+
+[71.1s - 73.7s] (Chunk 006)
+It's not similar to anybody that you've known or talked to?
+
+[85.2s - 86.3s] (Chunk 007)
+Can other people hear it?
+
+[123.5s - 124.1s] (Chunk 008)
+They didn't hear that.
+
+[125.7s - 126.6s] (Chunk 009)
+It was clear to you?
+
+[159.6s - 165.8s] (Chunk 010)
+So it's something that you can hear and it doesn't appear other people can hear it at all?
+
+[167.4s - 168.9s] (Chunk 011)
+And you're sure there's no other explanation?
+
+[175.1s - 179.7s] (Chunk 012)
+So you have those voices. Do you have anything that you're seeing that other people can't see?
+
+[206.2s - 211.2s] (Chunk 013)
+Does the appearance of the shadows seem to correspond in any way with the voices?
+
+[250.0s - 253.0s] (Chunk 014)
+So this must be pretty stressful for you.
+
+[275.4s - 278.3s] (Chunk 015)
+Do you remember when it first started? When that was?
+
+[288.5s - 289.7s] (Chunk 016)
+And it never happened before.
+
+[293.4s - 297.6s] (Chunk 017)
+How about your mood? From that point till now I've been.
+
+[318.5s - 323.4s] (Chunk 018)
+No, not more happy than usual, not more sad than usual, no more anxiety than usual.
+
+[336.9s - 341.1s] (Chunk 019)
+You think of anything else that might be causing the.
+
+[353.6s - 362.2s] (Chunk 020)
+I'm gonna ask you a few questions, maybe find a connection. Any medical disorders, anything going on medically?
+
+[367.8s - 369.1s] (Chunk 021)
+Have you ever been hospitalized?
+
+[373.7s - 376.0s] (Chunk 022)
+Any use of drugs or alcohol?
+
+[385.8s - 391.8s] (Chunk 023)
+Any unusual stressors that have come up in the last like since the symptoms have appeared?
+
+[475.9s - 477.6s] (Chunk 024)
+So that would be very stressful.
+
+[498.0s - 500.3s] (Chunk 025)
+No fears about going outside or anything like that?
+
+[523.0s - 532.5s] (Chunk 026)
+So are there occasions when you do walk by in the day? Are you saying that there are occasions you walk by in the day? What happens then?
+
+[564.5s - 572.8s] (Chunk 027)
+Do you notice any connection between the voices and the shadows to that event, to being stressed?
+
+[576.6s - 577.0s] (Chunk 028)
+Yes.
+
+[605.5s - 609.8s] (Chunk 029)
+Alright, so you're still, you're still stressed from that, from walking by that corner?
+
+[634.2s - 642.2s] (Chunk 030)
+And is there any other time when you have the voices or see the shadows, other than in proximity to passing that corner?
+
+[671.2s - 672.5s] (Chunk 031)
+This week's been a tough week.
+
+[677.9s - 685.9s] (Chunk 032)
+All right, Jason, I appreciate you taking the time to explain to me what's going on. And if you're okay with that, I'd like to get you in to see a counselor here.
+
+[689.0s - 694.2s] (Chunk 033)
+All right, I'll get that set up for you. And again, I appreciate you spending this time with me.
+

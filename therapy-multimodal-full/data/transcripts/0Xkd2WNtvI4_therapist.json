@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "video_id": "0Xkd2WNtvI4",
+    "source_file": "data/raw/youtube_wavs/0Xkd2WNtvI4.wav",
+    "date_processed": "2025-11-11T16:39:21.756773",
+    "total_duration": 300.78,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.32,
+      "end_time": 15.52,
+      "duration": 1.1999999999999993,
+      "text": "Hi, Jackie. How you doing today?",
+      "chunk_file": "data/chunks/therapist/0Xkd2WNtvI4/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 17.52,
+      "end_time": 25.6,
+      "duration": 8.080000000000002,
+      "text": "I'm doing well, thanks for asking. I understand you've been having some difficulties recently that have brought you into the agency.",
+      "chunk_file": "data/chunks/therapist/0Xkd2WNtvI4/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 82.36,
+      "end_time": 86.28,
+      "duration": 3.9200000000000017,
+      "text": "So I can understand why that would be distressing. Have you seen a physician about this?",
+      "chunk_file": "data/chunks/therapist/0Xkd2WNtvI4/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 89.72,
+      "end_time": 91.08,
+      "duration": 1.3599999999999994,
+      "text": "And what'd they say?",
+      "chunk_file": "data/chunks/therapist/0Xkd2WNtvI4/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 112.1,
+      "end_time": 117.06,
+      "duration": 4.960000000000008,
+      "text": "So what would you like from counseling? What would a goal be?",
+      "chunk_file": "data/chunks/therapist/0Xkd2WNtvI4/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 139.76,
+      "end_time": 154.64,
+      "duration": 14.879999999999995,
+      "text": "All right. So after you were yelling things or you hit him like you're asleep during this time when you wake up, what's going through your mind then?",
+      "chunk_file": "data/chunks/therapist/0Xkd2WNtvI4/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 186.22,
+      "end_time": 187.5,
+      "duration": 1.2800000000000011,
+      "text": "But now you're starting to wonder.",
+      "chunk_file": "data/chunks/therapist/0Xkd2WNtvI4/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 192.68,
+      "end_time": 195.0,
+      "duration": 2.319999999999993,
+      "text": "You're starting to wonder if you didn't have this disorder before.",
+      "chunk_file": "data/chunks/therapist/0Xkd2WNtvI4/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 214.84,
+      "end_time": 232.42,
+      "duration": 17.579999999999984,
+      "text": "So he's been paying attention to what's going on with your sleep. Does the. The episode of yelling or moving around, does it happen in any certain time limit? Like, does it happen right after you go to sleep or a while after.",
+      "chunk_file": "data/chunks/therapist/0Xkd2WNtvI4/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 247.78,
+      "end_time": 251.14,
+      "duration": 3.359999999999985,
+      "text": "Does it ever happen when you take, like, a nap, like a short nap?",
+      "chunk_file": "data/chunks/therapist/0Xkd2WNtvI4/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 262.48,
+      "end_time": 268.8,
+      "duration": 6.319999999999993,
+      "text": "All right, so only at night when you're sleeping overnight and in the middle of that sleep.",
+      "chunk_file": "data/chunks/therapist/0Xkd2WNtvI4/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 272.0,
+      "end_time": 276.72,
+      "duration": 4.720000000000027,
+      "text": "All right. Would you be okay with signing a release so I can communicate with your decision?",
+      "chunk_file": "data/chunks/therapist/0Xkd2WNtvI4/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 279.2,
+      "end_time": 282.36,
+      "duration": 3.160000000000025,
+      "text": "And do you want your husband to be part of the castling?",
+      "chunk_file": "data/chunks/therapist/0Xkd2WNtvI4/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 287.18,
+      "end_time": 288.78,
+      "duration": 1.599999999999966,
+      "text": "And you'd be okay signing release for him?",
+      "chunk_file": "data/chunks/therapist/0Xkd2WNtvI4/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 291.42,
+      "end_time": 299.58,
+      "duration": 8.159999999999968,
+      "text": "So I'll get you scheduled in to see a counselor. I appreciate you telling me what's going on. It's been helpful.",
+      "chunk_file": "data/chunks/therapist/0Xkd2WNtvI4/chunk_therapist_015.wav"
+    }
+  ]
+}

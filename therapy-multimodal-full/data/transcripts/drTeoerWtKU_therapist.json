@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "video_id": "drTeoerWtKU",
+    "source_file": "data/raw/youtube_wavs/drTeoerWtKU.wav",
+    "date_processed": "2025-11-11T16:37:40.854767",
+    "total_duration": 492.089,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.64,
+      "end_time": 15.84,
+      "duration": 1.1999999999999993,
+      "text": "Hi, Jackie. How you doing today?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 19.36,
+      "end_time": 20.88,
+      "duration": 1.5199999999999996,
+      "text": "I'm doing well. Thanks for asking.",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 21.76,
+      "end_time": 26.32,
+      "duration": 4.559999999999999,
+      "text": "I understand you've had some recent difficulties and that brought you into our agency.",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 35.82,
+      "end_time": 36.62,
+      "duration": 0.7999999999999972,
+      "text": "Relationships?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 40.94,
+      "end_time": 41.9,
+      "duration": 0.9600000000000009,
+      "text": "You have a lot of stuff?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 43.14,
+      "end_time": 43.9,
+      "duration": 0.759999999999998,
+      "text": "Like where you live?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 73.88,
+      "end_time": 81.08,
+      "duration": 7.200000000000003,
+      "text": "So there's a lot of stuff in your house and this is affecting your relationship?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 141.84,
+      "end_time": 144.56,
+      "duration": 2.719999999999999,
+      "text": "But to throw something away?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 157.61,
+      "end_time": 163.29,
+      "duration": 5.679999999999978,
+      "text": "So you mentioned your house is overflowing. How cluttered? Can you describe it?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 192.09,
+      "end_time": 194.89,
+      "duration": 2.799999999999983,
+      "text": "What type of things? You mentioned a newspaper.",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 226.31,
+      "end_time": 232.87,
+      "duration": 6.560000000000002,
+      "text": "So you have a lot of stuff in the house, and it's congested, but you're able to move around and live there?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 239.35,
+      "end_time": 243.75,
+      "duration": 4.400000000000006,
+      "text": "Yeah, but it'd be difficult or it is difficult when other people come by.",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 251.33,
+      "end_time": 260.69,
+      "duration": 9.359999999999985,
+      "text": "Some of these items you said you received when you received the house, do you ever go out and buy things and bring them in?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 279.09,
+      "end_time": 280.53,
+      "duration": 1.4399999999999977,
+      "text": "And how often do you buy things?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 303.07,
+      "end_time": 305.31,
+      "duration": 2.240000000000009,
+      "text": "Does your vehicle have stuff in it now that you bought?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 322.78,
+      "end_time": 341.02,
+      "duration": 18.24000000000001,
+      "text": "All right. So you have some things you buy. You have some things that you otherwise obtain that are in the house. They're already there, and you have trouble parting with them. Have you ever tried to throw anything out or give anything away?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 359.64,
+      "end_time": 360.12,
+      "duration": 0.4800000000000182,
+      "text": "Yeah.",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 370.76,
+      "end_time": 374.68,
+      "duration": 3.920000000000016,
+      "text": "So what would you like to gain from counseling?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 381.68,
+      "end_time": 381.96,
+      "duration": 0.2799999999999727,
+      "text": "Much.",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 428.44,
+      "end_time": 434.2,
+      "duration": 5.759999999999991,
+      "text": "So you'd like to be able to throw things out, clear out your.",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 441.2,
+      "end_time": 442.12,
+      "duration": 0.9200000000000159,
+      "text": "Start working on it.",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 444.36,
+      "end_time": 458.08,
+      "duration": 13.71999999999997,
+      "text": "All right. I have a couple other questions. Okay. Do you have any medical problems? No. Any history of mental health disorders, drug and alcohol use?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 460.4,
+      "end_time": 461.16,
+      "duration": 0.7600000000000477,
+      "text": "Drink socially?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 461.44,
+      "end_time": 463.44,
+      "duration": 2.0,
+      "text": "Nothing else? No. That's it.",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 464.08,
+      "end_time": 467.52,
+      "duration": 3.4399999999999977,
+      "text": "All right. And you do okay at work?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 470.56,
+      "end_time": 472.36,
+      "duration": 1.8000000000000114,
+      "text": "Yeah, There are problems there?",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 482.24,
+      "end_time": 488.96,
+      "duration": 6.71999999999997,
+      "text": "Okay, great. All right, Jackie, if you're okay with it, I'll get you in to see a counselor. We'll get that scheduled.",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 490.16,
+      "end_time": 491.92,
+      "duration": 1.759999999999991,
+      "text": "Okay, great. Thanks.",
+      "chunk_file": "data/chunks/therapist/drTeoerWtKU/chunk_therapist_028.wav"
+    }
+  ]
+}

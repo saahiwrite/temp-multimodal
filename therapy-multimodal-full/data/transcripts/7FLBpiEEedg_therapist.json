@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "video_id": "7FLBpiEEedg",
+    "source_file": "data/raw/youtube_wavs/7FLBpiEEedg.wav",
+    "date_processed": "2025-11-11T16:47:26.493556",
+    "total_duration": 757.656,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.48,
+      "end_time": 15.76,
+      "duration": 1.2799999999999994,
+      "text": "Hi, Jessica. How you doing today?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 16.88,
+      "end_time": 17.6,
+      "duration": 0.7200000000000024,
+      "text": "You okay?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 18.64,
+      "end_time": 26.16,
+      "duration": 7.52,
+      "text": "I understand you've been having some difficulty with some symptoms lately. Yes, you tell me about that.",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 65.29,
+      "end_time": 71.21,
+      "duration": 5.9199999999999875,
+      "text": "So you're having anxiety and a lot of other symptoms, and you're having intrusive memories. Can you tell me about the event?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 102.39,
+      "end_time": 105.35,
+      "duration": 2.9599999999999937,
+      "text": "Does it keep replaying, that accident?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 107.27,
+      "end_time": 110.99,
+      "duration": 3.719999999999999,
+      "text": "Okay, tell me about how you're experiencing that.",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 146.41,
+      "end_time": 157.37,
+      "duration": 10.960000000000008,
+      "text": "So these times when you're reliving the accident, does something trigger that or does that happen just on its own?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 180.75,
+      "end_time": 188.59,
+      "duration": 7.840000000000003,
+      "text": "So this has been causing you clearly causing you distress a lot. Has it been interfering at all with relationships?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 209.21,
+      "end_time": 217.41,
+      "duration": 8.199999999999989,
+      "text": "Do you find that your mood's irritable or any anger outbursts all the time? That happens frequently, yeah.",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 220.89,
+      "end_time": 225.21,
+      "duration": 4.320000000000022,
+      "text": "Do you feel like your behavior has become reckless, like taking more chances?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 231.82,
+      "end_time": 243.74,
+      "duration": 11.920000000000016,
+      "text": "Somewhat, yeah. How about your memory of the accent? Is it constant, or does your memory change, like, you lose some of that memory?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 257.01,
+      "end_time": 258.21,
+      "duration": 1.1999999999999886,
+      "text": "You can't remember any of it?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 262.13,
+      "end_time": 264.21,
+      "duration": 2.079999999999984,
+      "text": "So the memory kind of comes and goes.",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 268.37,
+      "end_time": 270.93,
+      "duration": 2.5600000000000023,
+      "text": "Who do you hold responsible for the accident?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 297.08,
+      "end_time": 299.96,
+      "duration": 2.8799999999999955,
+      "text": "Did the other driver get a ticket for an accident?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 317.59,
+      "end_time": 318.95,
+      "duration": 1.3600000000000136,
+      "text": "So you still blame yourself?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 322.07,
+      "end_time": 334.79,
+      "duration": 12.720000000000027,
+      "text": "How about your emotional state since these symptoms have started? Has it been mostly unhappy or down neutral anytime when you're happy?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 341.64,
+      "end_time": 343.4,
+      "duration": 1.759999999999991,
+      "text": "Just your mood's always down?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 347.64,
+      "end_time": 359.4,
+      "duration": 11.759999999999991,
+      "text": "How about with driving? Like. So have you been avoiding driving or have you driven since the accident?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 379.46,
+      "end_time": 385.38,
+      "duration": 5.920000000000016,
+      "text": "So you're avoiding it, but you have driven. Tell me about the experience when you go to drive.",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 399.72,
+      "end_time": 401.64,
+      "duration": 1.919999999999959,
+      "text": "Terms of anxiety or what's going on.",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 417.56,
+      "end_time": 428.69,
+      "duration": 11.129999999999995,
+      "text": "It's very stressful. It is. Do you find that when you are driving that you are more aware of what other cars are doing and what you're doing in your car?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 449.37,
+      "end_time": 450.61,
+      "duration": 1.240000000000009,
+      "text": "More aware of your surroundings.",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 453.45,
+      "end_time": 470.01,
+      "duration": 16.560000000000002,
+      "text": "So when something surprises us, there's a natural response where we're startled. This is called a startle response and everybody has that. Have you noticed that that's changed for you since these symptoms have started?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 473.54,
+      "end_time": 474.66,
+      "duration": 1.1200000000000045,
+      "text": "How's it changed.",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 491.54,
+      "end_time": 492.82,
+      "duration": 1.2799999999999727,
+      "text": "You find yourself jumping?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 494.18,
+      "end_time": 499.3,
+      "duration": 5.1200000000000045,
+      "text": "Okay. How about your ability to concentrate? Has that changed at all?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 517.27,
+      "end_time": 522.07,
+      "duration": 4.800000000000068,
+      "text": "Alright, how about sleeping? How you doing? Sleep?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 547.51,
+      "end_time": 555.36,
+      "duration": 7.850000000000023,
+      "text": "So. A lot of challenges with sleep. Do you use any drugs or alcohol?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 556.24,
+      "end_time": 572.4,
+      "duration": 16.159999999999968,
+      "text": "How about medical problems? Nothing like that. Are there times from when these symptoms started when you feel kind of separated from your own body? Like it's like an unreal experience?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_030.wav"
+    },
+    {
+      "chunk_number": 31,
+      "start_time": 578.88,
+      "end_time": 582.81,
+      "duration": 3.92999999999995,
+      "text": "Can you tell me about this? Well.",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_031.wav"
+    },
+    {
+      "chunk_number": 32,
+      "start_time": 666.83,
+      "end_time": 667.95,
+      "duration": 1.1200000000000045,
+      "text": "This has happened a few times.",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_032.wav"
+    },
+    {
+      "chunk_number": 33,
+      "start_time": 684.43,
+      "end_time": 706.81,
+      "duration": 22.379999999999995,
+      "text": "How about a time when you felt like the world became unreal? So you're not detached from your body, but the world becomes unreal or dreamlike or distorted? Have you ever had that happen? No. It's more being separated from your body. More that feeling.",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_033.wav"
+    },
+    {
+      "chunk_number": 34,
+      "start_time": 708.57,
+      "end_time": 711.61,
+      "duration": 3.0399999999999636,
+      "text": "And you mentioned time slowing down.",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_034.wav"
+    },
+    {
+      "chunk_number": 35,
+      "start_time": 716.09,
+      "end_time": 716.81,
+      "duration": 0.7199999999999136,
+      "text": "Slow motion?",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_035.wav"
+    },
+    {
+      "chunk_number": 36,
+      "start_time": 729.21,
+      "end_time": 733.53,
+      "duration": 4.319999999999936,
+      "text": "Jessica, I'm gonna get you in to see a counselor here, if you're okay with that.",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_036.wav"
+    },
+    {
+      "chunk_number": 37,
+      "start_time": 738.25,
+      "end_time": 753.45,
+      "duration": 15.200000000000045,
+      "text": "I appreciate you taking the time to explain these symptoms. I know they're distressing for you and for taking the time to answer my questions, it's been helpful for me to help figure out what's going on and help manage your care.",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_037.wav"
+    },
+    {
+      "chunk_number": 38,
+      "start_time": 756.49,
+      "end_time": 756.97,
+      "duration": 0.4800000000000182,
+      "text": "Thanks.",
+      "chunk_file": "data/chunks/therapist/7FLBpiEEedg/chunk_therapist_038.wav"
+    }
+  ]
+}

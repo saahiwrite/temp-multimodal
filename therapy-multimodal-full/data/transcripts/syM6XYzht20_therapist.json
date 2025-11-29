@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "video_id": "syM6XYzht20",
+    "source_file": "data/raw/youtube_wavs/syM6XYzht20.wav",
+    "date_processed": "2025-11-11T17:02:33.753350",
+    "total_duration": 435.627,
+    "role": "Therapist",
+    "speaker_label": "A",
+    "transcription_service": "AssemblyAI"
+  },
+  "segments": [
+    {
+      "chunk_number": 1,
+      "start_time": 14.72,
+      "end_time": 15.92,
+      "duration": 1.1999999999999993,
+      "text": "Hi, Emma. How are you doing today?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_001.wav"
+    },
+    {
+      "chunk_number": 2,
+      "start_time": 18.32,
+      "end_time": 26.0,
+      "duration": 7.68,
+      "text": "I'm doing well, thank you for asking. I understand you've been having some symptoms that have been bothering you lately.",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_002.wav"
+    },
+    {
+      "chunk_number": 3,
+      "start_time": 27.4,
+      "end_time": 28.96,
+      "duration": 1.5600000000000023,
+      "text": "Can you, can you tell me about that?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_003.wav"
+    },
+    {
+      "chunk_number": 4,
+      "start_time": 50.94,
+      "end_time": 53.82,
+      "duration": 2.8800000000000026,
+      "text": "Someone was robbed near where you live?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_004.wav"
+    },
+    {
+      "chunk_number": 5,
+      "start_time": 58.06,
+      "end_time": 58.62,
+      "duration": 0.5599999999999952,
+      "text": "Okay.",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_005.wav"
+    },
+    {
+      "chunk_number": 6,
+      "start_time": 73.0,
+      "end_time": 75.16,
+      "duration": 2.1599999999999966,
+      "text": "How long does it take you to fall back asleep?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_006.wav"
+    },
+    {
+      "chunk_number": 7,
+      "start_time": 80.76,
+      "end_time": 83.0,
+      "duration": 2.239999999999995,
+      "text": "And what are you thinking about during that time?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_007.wav"
+    },
+    {
+      "chunk_number": 8,
+      "start_time": 99.38,
+      "end_time": 104.78,
+      "duration": 5.400000000000006,
+      "text": "That sounds scary. And you say a couple hours you stay awake?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_008.wav"
+    },
+    {
+      "chunk_number": 9,
+      "start_time": 105.1,
+      "end_time": 105.7,
+      "duration": 0.6000000000000085,
+      "text": "It's a while.",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_009.wav"
+    },
+    {
+      "chunk_number": 10,
+      "start_time": 107.3,
+      "end_time": 115.22,
+      "duration": 7.920000000000002,
+      "text": "So this is troubling for you. Have you ever gotten up and checked the door? No.",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_010.wav"
+    },
+    {
+      "chunk_number": 11,
+      "start_time": 121.7,
+      "end_time": 130.72,
+      "duration": 9.019999999999996,
+      "text": "All right, so you just keep thinking about it. Does it get worse as that time goes on or does it get better? What happens?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_011.wav"
+    },
+    {
+      "chunk_number": 12,
+      "start_time": 144.96,
+      "end_time": 146.8,
+      "duration": 1.8400000000000034,
+      "text": "So it kind of keeps cycling through the same.",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_012.wav"
+    },
+    {
+      "chunk_number": 13,
+      "start_time": 148.56,
+      "end_time": 154.88,
+      "duration": 6.319999999999993,
+      "text": "Do you ever do anything to try to get those thoughts to go away? Like focusing on something else?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_013.wav"
+    },
+    {
+      "chunk_number": 14,
+      "start_time": 173.26,
+      "end_time": 191.71,
+      "duration": 18.450000000000017,
+      "text": "Alright, so you have a fear that somebody is going to enter or break into where you live and you're staying up at night thinking about whether the door's been secured. That's been troubling you? Anything else?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_014.wav"
+    },
+    {
+      "chunk_number": 15,
+      "start_time": 216.67,
+      "end_time": 217.78,
+      "duration": 1.1100000000000136,
+      "text": "What do you think might happen?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_015.wav"
+    },
+    {
+      "chunk_number": 16,
+      "start_time": 235.13,
+      "end_time": 240.37,
+      "duration": 5.240000000000009,
+      "text": "So when you leave, you're thinking about. It was a hair straightener.",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_016.wav"
+    },
+    {
+      "chunk_number": 17,
+      "start_time": 240.73,
+      "end_time": 245.39,
+      "duration": 4.659999999999997,
+      "text": "You're thinking about whether you unplugged it or not or turn it off or not.",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_017.wav"
+    },
+    {
+      "chunk_number": 18,
+      "start_time": 247.39,
+      "end_time": 250.43,
+      "duration": 3.0400000000000205,
+      "text": "And how long those thoughts go on for?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_018.wav"
+    },
+    {
+      "chunk_number": 19,
+      "start_time": 272.31,
+      "end_time": 283.75,
+      "duration": 11.439999999999998,
+      "text": "All right, So I remember, with the door. You're saying that you struggle with those thoughts, but you don't get up and check the door. Have you ever come back and checked to see if something was left on?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_019.wav"
+    },
+    {
+      "chunk_number": 20,
+      "start_time": 294.63,
+      "end_time": 298.04,
+      "duration": 3.410000000000025,
+      "text": "So you're worried, Anxious?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_020.wav"
+    },
+    {
+      "chunk_number": 21,
+      "start_time": 301.56,
+      "end_time": 302.12,
+      "duration": 0.5600000000000023,
+      "text": "Afraid?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_021.wav"
+    },
+    {
+      "chunk_number": 22,
+      "start_time": 307.24,
+      "end_time": 311.08,
+      "duration": 3.839999999999975,
+      "text": "And how. How often does this happen? Like, the cycle of thoughts?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_022.wav"
+    },
+    {
+      "chunk_number": 23,
+      "start_time": 316.28,
+      "end_time": 317.08,
+      "duration": 0.8000000000000114,
+      "text": "So every day.",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_023.wav"
+    },
+    {
+      "chunk_number": 24,
+      "start_time": 319.72,
+      "end_time": 324.25,
+      "duration": 4.529999999999973,
+      "text": "And how long has this been going on for?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_024.wav"
+    },
+    {
+      "chunk_number": 25,
+      "start_time": 330.41,
+      "end_time": 331.69,
+      "duration": 1.2799999999999727,
+      "text": "This has been going on for a year?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_025.wav"
+    },
+    {
+      "chunk_number": 26,
+      "start_time": 334.01,
+      "end_time": 340.01,
+      "duration": 6.0,
+      "text": "And in that year time frame, has it become any worse?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_026.wav"
+    },
+    {
+      "chunk_number": 27,
+      "start_time": 345.77,
+      "end_time": 346.97,
+      "duration": 1.2000000000000455,
+      "text": "How did it start out?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_027.wav"
+    },
+    {
+      "chunk_number": 28,
+      "start_time": 376.67,
+      "end_time": 391.47,
+      "duration": 14.800000000000011,
+      "text": "As you thought about it. All right. I want to ask you a few other questions. Try to help me figure out what's going on have you ever been diagnosed with any condition, like a mental health condition?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_028.wav"
+    },
+    {
+      "chunk_number": 29,
+      "start_time": 392.99,
+      "end_time": 416.98,
+      "duration": 23.99000000000001,
+      "text": "How about a medical condition? No, never. Have you ever used alcohol or any other substances? No. No. And has this been the first time in your life you've experienced these symptoms, like starting a year ago, up till now?",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_029.wav"
+    },
+    {
+      "chunk_number": 30,
+      "start_time": 418.58,
+      "end_time": 433.49,
+      "duration": 14.910000000000025,
+      "text": "Never anything like this before? No. Emma, I'm going to get you in to see one of our counselors here, okay? I appreciate you spending this time with me. It's been helpful for me to try to understand what's going on.",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_030.wav"
+    },
+    {
+      "chunk_number": 31,
+      "start_time": 434.61,
+      "end_time": 435.41,
+      "duration": 0.8000000000000114,
+      "text": "Thanks, Emma.",
+      "chunk_file": "data/chunks/therapist/syM6XYzht20/chunk_therapist_031.wav"
+    }
+  ]
+}
